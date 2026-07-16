@@ -11,7 +11,8 @@
       "content_ru": "Многие жалуются, что слишком много AI-контента с изображениями/видео. Это было темой частых сообщений после выхода нового генератора изображений GPT.\n\nМы попробуем «Текстовые вторники» и посмотрим, как это пройдёт. Если люди это полюбят — оставим, а если нет — уберём.",
       "original_url": "https://www.reddit.com/r/ChatGPT/comments/1upfhdm/were_trying_something_new_on_tuesdays_were_doing/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1srxfnl",
@@ -23,7 +24,8 @@
       "content_ru": "Новая эра генерации изображений. Видео создано с помощью ChatGPT Images.",
       "original_url": "https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uvnso6",
@@ -35,7 +37,8 @@
       "content_ru": "Сегодня увидел TikTok с заголовком «Только люди могут прочитать этот текст», а текст был «Hello Human»",
       "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvnso6/it_says_hello_human/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uvgq69",
@@ -47,7 +50,8 @@
       "content_ru": "Пользователь запросил у ChatGPT визуализацию современных брендов в стиле рекламы 1970-х годов.",
       "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvgq69/i_asked_chatgpt_to_imagine_what_modern_brands/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uvtdtx",
@@ -59,7 +63,8 @@
       "content_ru": "Я заметил, что он начинает говорить так, будто у него есть эти реальные жизненные переживания. Например: «Это тоже удивило меня, когда я впервые прочитал это» или «Обычно я делаю так..»\n\nЭто галлюцинация или более человеческая речь в обновлении?",
       "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvtdtx/is_chatgpt_starting_to_say_things_like_it_had/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uvpq5b",
@@ -71,7 +76,8 @@
       "content_ru": "Привет всем, я только что столкнулся с серьёзной утечкой приватности после последнего автоматического обновления десктоп-приложения ChatGPT на M4 Mac под macOS Tahoe, и хочу предупредить вас всех.\n\nПриложение сделало автоматическое фоновое самообновление, полностью испортив мой прежний лэйаут чатов и историю проектов — всё выглядело как свежая локальная установка.\n\nКогда я спросил у ИИ, где мои пропавшие проекты, он неожиданно напечатал точный локальный путь к моему профилю пользователя.\n\nПонимая, что это технически невозможно без предварительного разрешения, я углубился и просил ИИ вывести содержимое этой директории. Чтобы мой шок был полным — **о**н вывел полный список моих локальных файлов, включая скрытые файлы (точно так и есть файлы с точкой!).\n\nНо... приложение ChatGPT или что-либо связанное с ним не указано в настройках полного доступа к диску, файлам и папкам или специальных возможностях. И раньше у него всегда были запрещённые права, а теперь оно активно индексирует и читает локальные системные пути!",
       "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvpq5b/warning_new_chatgpt_mac_desktop_update_bypasses/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uvtv2j",
@@ -83,7 +89,8 @@
       "content_ru": "Пользователь спрашивает о лучшем зацепе (hook) для контента.",
       "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvtv2j/best_pitch/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uvsjpb",
@@ -95,7 +102,8 @@
       "content_ru": "Мем о коллеге и работе с ИИ.",
       "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvsjpb/my_colleague_be_like/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     }
   ]
 }
