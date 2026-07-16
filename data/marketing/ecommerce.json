@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Лучшие посты Reddit на русском",
+    "categories_count": 1,
+    "subreddits_count": 1,
+    "last_updated": "2026-07-15"
+  },
+  "reddit": {
+    "id": "AI",
+    "title": "AI",
+    "description": "",
+    "subreddits": [
+      {
+        "id": "ecommerce",
+        "title": "ecommerce",
+        "description": "",
+        "posts": [
+          {
+            "id": "1ut3zaj",
+            "title": "Chargebacks are making me want to quit",
+            "score": 38,
+            "comments_count": 54,
+            "date": "2026-07-10",
+            "content_en": "I lost about $400 over two chargebacks this past week. Both customers filed them because of late shipments. Both customers ended up receiving the products. Another customer just cussed me out on the phone and threatened a chargeback because they ordered the wrong product and said it was my fault despite having all of the product info they needed to make an informed purchase. How do you folks put up with this sh\\*t?",
+            "comments_en": [
+              {
+                "comment_id": "owst29x",
+                "full_comment_id": "t1_owst29x",
+                "post_full_id": "t3_1ut3zaj",
+                "post_id": "1ut3zaj",
+                "post_title": "Chargebacks are making me want to quit",
+                "author": "RabuMa",
+                "text": "I don’t talk to customers on the phone. Keep it in writing. Also, don’t take it personally. Dispute it if you disagree. ",
+                "created_at": "2026-07-10T23:38:54Z",
+                "scraped_at": "2026-07-15T09:48:59.227487Z",
+                "depth": 0,
+                "score": 46,
+                "permalink": "/r/ecommerce/comments/1ut3zaj/chargebacks_are_making_me_want_to_quit/owst29x/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Я не разговариваю с клиентами по телефону.Держите это в письменном виде.Кроме того, не принимайте это на свой счет.Оспорьте это, если вы не согласны."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/ecommerce/comments/1ut3zaj/chargebacks_are_making_me_want_to_quit/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "На прошлой неделе я потерял около 400 долларов из-за двух возвратных платежей.Оба клиента подали их из-за задержки поставок.Оба клиента в конечном итоге получили продукцию.Другой клиент просто обругал меня по телефону и пригрозил возвратным платежом, потому что он заказал не тот продукт и сказал, что это моя вина, несмотря на то, что у него есть вся информация о продукте, необходимая для совершения осознанной покупки.Как вы, ребята, терпите это дерьмо?",
+            "title_ru": "Возвратные платежи вызывают у меня желание бросить курить",
+            "ai_summary_ru": "На прошлой неделе я потерял около 400 долларов из-за двух возвратных платежей."
+          },
+          {
+            "id": "1uwr3hc",
+            "title": "If you had to start an eCommerce business from $0 today, what would you do?",
+            "score": 22,
+            "comments_count": 26,
+            "date": "2026-07-15",
+            "content_en": "Hi everyone,\n\nI'm 19 years old and I'm really interested in building an eCommerce business.\n\nA while ago I started a small online store selling a pretty basic product. It didn't work out, but I don't see it as a failure. It taught me a lot about setting up a store, running Meta Ads, testing creatives, and how the whole process works.\n\nNow I want to start again, but this time I'm basically starting with $0 and I want to do things the right way.\n\nIf you were in my position, what would you focus on learning first? Are there any books, YouTube channels, or free courses you'd recommend? If you had to start over with no money, what path would you take?\n\nI'm not looking for a get-rich-quick scheme. I just want to build a solid foundation, keep learning, and eventually create a successful business.\n\nI'd really appreciate any advice or personal experiences. Thanks!",
+            "comments_en": [
+              {
+                "comment_id": "oxmph6j",
+                "full_comment_id": "t1_oxmph6j",
+                "post_full_id": "t3_1uwr3hc",
+                "post_id": "1uwr3hc",
+                "post_title": "If you had to start an eCommerce business from $0 today, what would you do?",
+                "author": "-ttw",
+                "text": "If I were to start over I’d create a consumable business, a product that people buy over and over again. Think restaurants that buy napkins, people that buy deodorant, cars that need oil ",
+                "created_at": "2026-07-15T06:26:07Z",
+                "scraped_at": "2026-07-15T09:49:00.799687Z",
+                "depth": 0,
+                "score": 9,
+                "permalink": "/r/ecommerce/comments/1uwr3hc/if_you_had_to_start_an_ecommerce_business_from_0/oxmph6j/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Если бы мне пришлось начать все сначала, я бы создал бизнес по производству расходных материалов, продукта, который люди покупают снова и снова.Подумайте о ресторанах, которые покупают салфетки, о людях, которые покупают дезодоранты, о машинах, которым нужно масло."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/ecommerce/comments/1uwr3hc/if_you_had_to_start_an_ecommerce_business_from_0/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Привет всем,\n\nМне 19 лет, и я действительно заинтересован в построении бизнеса в сфере электронной коммерции.\n\nНекоторое время назад я открыл небольшой интернет-магазин по продаже довольно простого продукта.Не получилось, но я не считаю это провалом.Он научил меня многому о настройке магазина, запуске метаобъявлений, тестировании креативов и о том, как работает весь процесс.\n\nТеперь я хочу начать снова, но на этот раз я начинаю с 0 долларов и хочу все делать правильно.\n\nЕсли бы вы были на моем месте, на чем бы вы сосредоточились в первую очередь?Есть ли какие-нибудь книги, каналы YouTube или бесплатные курсы, которые вы бы порекомендовали?Если бы вам пришлось начать все сначала без денег, какой путь вы бы выбрали?\n\nЯ не ищу схемы быстрого обогащения.Я просто хочу заложить прочную основу, продолжать учиться и в конечном итоге создать успешный бизнес.\n\nБуду очень признателен за любые советы и личный опыт.Спасибо!",
+            "title_ru": "Если бы вам пришлось начать бизнес в сфере электронной коммерции с 0 долларов сегодня, что бы вы сделали?",
+            "ai_summary_ru": "Привет всем,\n\nМне 19 лет, и я действительно заинтересован в построении бизнеса в сфере электронной коммерции."
+          },
+          {
+            "id": "1ute7u7",
+            "title": "Anyone running volume bundles without messing up existing discount codes?",
+            "score": 19,
+            "comments_count": 29,
+            "date": "2026-07-11",
+            "content_en": "I’m in the boring pre-promo testing phase and my brain is cooked.\n\nWe want to run simple volume bundles on Shopify:\n\nBuy 2, save a bit\nBuy 3, save more\nMaybe bundle + free shipping threshold\nMaybe bundle + welcome code\nMaybe bundle + email/SMS code during promo weeks\n\nNothing crazy in theory.\n\nBut I’ve seen enough Shopify discount weirdness to know “nothing crazy” can become crazy very fast.\n\nThe thing I’m trying to avoid:\n\nCustomer adds 3 items\nVolume bundle discount applies\nThen they add welcome code\nThen free shipping threshold kicks in\nThen some other automatic discount decides to join the party\nThen checkout either blocks the code, stacks too much, or shows something different from the PDP/cart\n\nThat is the nightmare.\n\nI don’t want to find out during a promo weekend that the bundle setup only works when no other discount exists.\n\nThis is why I’m being careful about bundle apps too. Some seem to basically create discount hacks or cart tricks, which feels risky if you already run normal Shopify promos.\n\nFoxSell is one I’m looking at because it seems more built around native Shopify checkout / Cart Transform type bundle logic instead of duct-taping everything with discount codes. Also useful because we might later do Mix & Match, not just volume bundles.\n\nBut before committing to anything, I’m trying to understand how other merchants test this.\n\nFor people running volume bundles or buy-more-save-more offers:\n\n- do you allow discount codes on top?\n\n- do you block codes when bundle discount applies?\n\n- do you keep bundle discounts automatic only?\n\n- do you test every promo combination manually?\n\n- have you had bundle discounts conflict with welcome/BFCM/free shipping offers?\n\nI know this is not the most exciting Shopify topic, but this feels like one of those things that only matters after it breaks.\n\nHow are you guys handling bundle discounts without turning checkout into a casino?",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/ecommerce/comments/1ute7u7/anyone_running_volume_bundles_without_messing_up/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Я нахожусь на скучной стадии предпромо-тестирования, и мой мозг готов.\n\nМы хотим запустить простые пакеты томов на Shopify:\n\nКупите 2, сэкономьте немного\nКупите 3, сэкономьте больше\nВозможно комплект + порог бесплатной доставки\nВозможно пакет + приветственный код\nВозможно, пакет + код по электронной почте/SMS во время промо-недель.\n\nНичего сумасшедшего в теории.\n\nНо я видел достаточно странностей со скидками на Shopify, чтобы знать, что «ничего сумасшедшего» может очень быстро стать сумасшедшим.\n\nЧего я пытаюсь избежать:\n\nКлиент добавляет 3 товара\nДействует скидка на объемный пакет\nЗатем они добавляют приветственный код\nЗатем вступает в силу порог бесплатной доставки.\nЗатем какая-то другая автоматическая скидка решает присоединиться к вечеринке.\nЗатем оформление заказа либо блокирует код, либо складывает слишком много, либо показывает что-то отличное от PDP/корзины.\n\nЭто кошмар.\n\nЯ не хочу во время промо-выходных узнать, что установка пакета работает только при отсутствии других скидок.\n\nВот почему я также с осторожностью отношусь к пакетным приложениям.Некоторые, кажется, в основном создают хаки со скидками или трюки с корзинами, что кажется рискованным, если вы уже запускаете обычные промо-акции Shopify.\n\nFoxSell — это тот, на который я смотрю, потому что он, кажется, больше построен на собственной логике оформления заказа Shopify / преобразования корзины, а не на привязывании всего кодами скидок.Также полезно, потому что позже мы могли бы использовать Mix & Match, а не только объемные пакеты.\n\nНо прежде чем что-либо предпринимать, я пытаюсь понять, как это проверяют другие торговцы.\n\nДля людей, использующих объемные пакеты или предложения «покупай больше-сэкономь больше»:\n\n- вы разрешаете коды скидок сверху?\n\n- блокируете ли вы коды, когда применяется пакетная скидка?\n\n- Вы сохраняете только автоматические скидки на пакеты?\n\n- Вы тестируете каждую промо-комбинацию вручную?\n\n- случались ли у вас конфликты пакетных скидок с предложениями приветствия/BFCM/бесплатной доставки?\n\nЯ знаю, что это не самая захватывающая тема Shopify, но мне кажется, что это одна из тех вещей, которые имеют значение только после того, как она сломается.\n\nКак вы, ребята, справляетесь с пакетными скидками, не превращая кассу в казино?",
+            "title_ru": "Кто-нибудь использует объемные пакеты, не испортив существующие коды скидок?",
+            "ai_summary_ru": "Вопрос по управлению email сообщениями жизненного цикла и их документированию."
+          }
+        ]
+      }
+    ]
+  }
+}

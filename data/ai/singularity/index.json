@@ -1,0 +1,61 @@
+{
+  "title": "singularity",
+  "posts": [
+    {
+      "id": "1uwc0oi",
+      "title": "Keio University made these soft, helium-filled flying robots; they can follow you, wake you up, remind you of stuff, and even be your study buddy",
+      "score": 1230,
+      "comments_count": 108,
+      "date": "2026-07-14",
+      "content_en": "from clankr",
+      "original_url": "https://www.reddit.com/r/singularity/comments/1uwc0oi/keio_university_made_these_soft_heliumfilled/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "из кланкра",
+      "comments_ru": [
+        {
+          "author": "IReportLuddites",
+          "score": 273,
+          "date": "2026-07-14",
+          "text_ru": "**Я не могу сказать, что это придёт мне важно в жизни, но если бы кто-то дал мне, скажем, 8 воздушных китов — я бы тоже не отказался.**"
+        }
+      ],
+      "title_ru": "Университет Кейо создал этих мягких, наполненных гелием летающих роботов; они могут следовать за вами, будить вас, напоминать о чем-то и даже быть вашим другом по учебе."
+    },
+    {
+      "id": "1uwa1mv",
+      "title": "Well it finally happened: we’re not using models because of cost",
+      "score": 757,
+      "comments_count": 260,
+      "date": "2026-07-14",
+      "content_en": "Hey all! \n\nI’ve been working for a large company (Fortune 500) for 3 years now. We’re an “AI First” company. When I onboarded it was made explicit to me that it was absolutely imperative that I was not only allowed to use Artificial Intelligence in my work but the expectation was that all my work would involve AI.\n\nMy org was quite serious about the process. For a full year we all had training. Developer, managers, sales people. Everyone was trained on the tooling. We were “full steam ahead”. Everyone was given Copilot and Claude. We had biweekly demos of people sharing use cases for AI in various projects around the company.\n\nWe eventually had a very large project using AI. It was a pilot project to discover a workflow for AI and see what its capabilities were. Unfortunately, the project failed. The project was a rewrite of a legacy application. We asked the Agents to define the rules of the system “as written” by the code. However, the Agents constantly missed small details and had issues just writing a clear specification of the code written. The thinking was the rewrite would be first, essentially using the legacy code to define a specification document for the new system. We couldn’t even get there. The business rules were apparently too complex.\n\nNonetheless, leadership’s position was still optimistic. They saw the project as the first step in a series of steps. Our lead architects were to take what they learned and apply that to future opportunities.\n\nIn the meantime, we continued using AI to solve our problems from the day to day. Personally, I kept having mixed results. It was amazing for tiny refactors but for larger things it would just do insane stuff. The most egregious so far was SQL code that was dropping constraints on all the tables the code was doing inserts and deletes into. Which is, special. Of course we have proper dev practices so that code never saw production but it was not uncommon for generated code to sometimes just be weird. \n\nFinally, today I find out we’re pulling back on AI. We have lost access to Claude and we’re being told to limit usage because of costs. The company is still encouraging AI usage but we have stopped the training and demos. Our architects have told us to just use older models for tasks. \n\nThe reason this hit my radar was because Ed Zitron, who has reported extensively on AI has been saying for a while that AI will be in trouble because the costs will be too high and now I’m seeing a lot more conversations about the costs of AI at work.\n\nIf AI is to have any success long term they’re going to need to get the costs down.",
+      "original_url": "https://www.reddit.com/r/singularity/comments/1uwa1mv/well_it_finally_happened_were_not_using_models/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "Привет всем! \n\nЯ работаю в крупной компании (Fortune 500) уже 3 года. Мы компания AI First. Когда я присоединился к команде, мне ясно дали понять, что абсолютно необходимо, чтобы мне не только разрешили использовать искусственный интеллект в моей работе, но и ожидалось, что вся моя работа будет связана с ИИ.\n\nМоя организация очень серьезно отнеслась к этому процессу. Целый год мы все тренировались. Разработчик, менеджеры, продавцы. Всех обучали работе с инструментами. Мы шли «на всех парах». Всем раздали второго пилота и Клода. Раз в две недели у нас были демонстрации людей, которые делились сценариями использования ИИ в различных проектах компании.\n\nВ итоге у нас появился очень большой проект с использованием ИИ. Это был пилотный проект по обнаружению рабочего процесса для ИИ и выяснению его возможностей. К сожалению, проект провалился. Проект представлял собой переписывание устаревшего приложения. Мы попросили Агентов определить правила системы «как написано» в коде. Однако агенты постоянно упускали мелкие детали, и у них возникали проблемы с написанием четкой спецификации написанного кода. Предполагалось, что сначала будет переписано, по сути, с использованием устаревшего кода для определения документа спецификации для новой системы. Мы даже не смогли туда попасть. Видимо, бизнес-правила были слишком сложными.\n\nТем не менее позиция руководства по-прежнему оставалась оптимистичной. Они рассматривали проект как первый шаг в серии шагов. Наши ведущие архитекторы должны были взять то, чему научились, и применить это к будущим возможностям.\n\nТем временем мы продолжали использовать ИИ для решения наших повседневных проблем. Лично у меня по-прежнему были смешанные результаты. Это было потрясающе для крошечных рефакторингов, но для более крупных задач это было бы просто безумием. Самым вопиющим на данный момент был код SQL, который снимал ограничения со всех таблиц, в которые код выполнял вставку и удаление. То есть особенный. Конечно, у нас есть надлежащие методы разработки, так что код никогда не попадает в производство, но сгенерированный код нередко бывает просто странным. \n\nНаконец, сегодня я узнаю, что мы отказываемся от искусственного интеллекта. Мы потеряли доступ к Клоду, и нам говорят ограничить использование из-за затрат. Компания по-прежнему поощряет использование ИИ, но мы прекратили обучение и демонстрации. Наши архитекторы посоветовали нам просто использовать для решения задач старые модели. \n\nПричина, по которой это привлекло мое внимание, заключалась в том, что Эд Зитрон, который много писал об ИИ, уже некоторое время говорил, что у ИИ будут проблемы, потому что затраты будут слишком высокими, и теперь я вижу гораздо больше разговоров о затратах на ИИ в работе.\n\nЕсли ИИ хочет добиться успеха в долгосрочной перспективе, им придется снизить затраты.",
+      "comments_ru": [
+        {
+          "author": "crimsonpowder",
+          "score": 327,
+          "date": "2026-07-14",
+          "text_ru": "**Главное изменение в том, что Copilot перешёл на ценообразование на основе использования.** Вот что позволило большинству этих больших организаций прийти в тему."
+        }
+      ],
+      "title_ru": "Наконец-то это произошло: мы не используем модели из-за стоимости."
+    },
+    {
+      "id": "1uw40fb",
+      "title": "Demis Hassabis shared a rare essay on X: AGI is few years away, we're in the singularity foothills, proposes US-led Frontier AI Standards Body with eventual mandatory safety testing",
+      "score": 516,
+      "comments_count": 173,
+      "date": "2026-07-14",
+      "content_en": "read full essay here: [https://x.com/demishassabis/status/2076957440109625718](https://x.com/demishassabis/status/2076957440109625718)\n\nKey points (some of these things he had already said before)\n\n* AGI is likely only a few years away and describes this moment as the “foothills of the singularity”\n* AGI should not be compared to normal technological breakthroughs like the internet or smartphones, but more like the discovery of electricity or fire\n* He predicts the impact could be “10x the Industrial Revolution at 10x the speed”\n* He warns that frontier AI systems could introduce serious risks in areas like cybersecurity, biology, and increasingly autonomous agents\n* **He proposes creating a Frontier AI Standards Body to evaluate the most advanced models, similar in spirit to financial self-regulatory organizations like FINRA**\n* **He also proposes voluntary pre-release AGI testing that could later become mandatory for “Frontier Labs” in the US (with aim to make this global)**\n* **The framework would apply to frontier models regardless of whether they are open or closed,** with labs sharing models for evaluation before deployment.\n* AGI development should be guided by scientific evaluation, international cooperation, and responsible deployment.",
+      "original_url": "https://www.reddit.com/r/singularity/comments/1uw40fb/demis_hassabis_shared_a_rare_essay_on_x_agi_is/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "полный текст эссе можно прочитать здесь: [https://x.com/demishassabis/status/2076957440109625718](https://x.com/demishassabis/status/2076957440109625718)\n\nКлючевые моменты (некоторые из этих вещей он уже говорил раньше)\n\n* AGI, вероятно, появится через несколько лет и описывает этот момент как «предгорья сингулярности».\n* AGI следует сравнивать не с обычными технологическими прорывами, такими как Интернет или смартфоны, а скорее с открытием электричества или огня.\n* Он предсказывает, что эффект может быть «в 10 раз больше промышленной революции при 10-кратной скорости».\n* Он предупреждает, что передовые системы искусственного интеллекта могут представлять серьезные риски в таких областях, как кибербезопасность, биология и все более автономные агенты.\n* **Он предлагает создать Frontier орган по стандартизации ИИ для оценки наиболее передовых моделей, аналогичный по духу финансовым саморегулируемым организациям, таким как FINRA**\n* **Он также предлагает добровольное предварительное тестирование AGI, которое впоследствии может стать обязательным для «Frontier Labs» в США (с целью сделать это глобальным)**\n* **Эта структура будет применяться к передовым моделям независимо от того, являются ли они открытыми или закрытыми**, при этом лаборатории будут обмениваться моделями для оценки перед развертыванием.\n* Разработка AGI должна основываться на научной оценке, международном сотрудничестве и ответственном применении.",
+      "comments_ru": [],
+      "title_ru": "Демис Хассабис поделился редким эссе на тему X: AGI появится через несколько лет, мы находимся в предгорьях сингулярности, предлагает возглавляемый США орган по стандартизации ИИ с возможным обязательным тестированием безопасности"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "Лучшие посты Reddit на русском",
+    "categories_count": 1,
+    "subreddits_count": 1,
+    "last_updated": "2026-07-15"
+  },
+  "reddit": {
+    "id": "AI",
+    "title": "AI",
+    "description": "",
+    "subreddits": [
+      {
+        "id": "indiehackers",
+        "title": "indiehackers",
+        "description": "",
+        "posts": [
+          {
+            "id": "1urlmie",
+            "title": "Marketing is the hardest part of running a saas. and we all know it",
+            "score": 38,
+            "comments_count": 117,
+            "date": "2026-07-09",
+            "content_en": "I have been thinking about this a lot tbh.\n\nbuilding the product was never the hard part for me. getting people to actually see it, that's the part that breaks my brain.\n\nso trying to understand something. if ai could help with your marketing, what would you actually want it to do.( Selling nothing)\n\nfew questions that I have.\n\n\\- if an ai found people online already talking about your exact problem, would you want it to reply for you, or just hand you the list and let you write the reply yourself?\n\n\\- when it comes to posting content, what you like is an ai which gives you an exact already trending post format that will make your posts better chance to go viral or anything else?\n\n\\- for analytics, let's be honest most tools just throw numbers at you. karma, likes, comments. do you actually want someone to just tell you in plain english what's working and what to stop doing, instead of you staring at a graph trying to figure it out.\n\nand the main question. do you want ai to basically run your marketing end to end, or do you want it to just handle the boring repetitive parts while you still do the actual talking and bit thinking.\n\nnot selling anything, just trying to figure out where the line you are comfortable with between ai doing the work and ai helping you do the work. \n\nI am trying something and making this solution better for founders. So I would appreciate it if you can share your thoughts",
+            "comments_en": [
+              {
+                "comment_id": "owgxxpe",
+                "full_comment_id": "t1_owgxxpe",
+                "post_full_id": "t3_1urlmie",
+                "post_id": "1urlmie",
+                "post_title": "Marketing is the hardest part of running a saas. and we all know it",
+                "author": "Insignie",
+                "text": "It's hardest because it's the one part with no compile step. Code either runs or it doesn't, but you can do everything \"right\" in marketing and still hear nothing for weeks, and that ambiguity is brutal for a builder brain. What helped me was treating one channel like a product: pick it, commit for a couple of months, measure it, instead of spray-and-pray. Doesn't make it easy, just less maddening.",
+                "created_at": "2026-07-09T11:22:14Z",
+                "scraped_at": "2026-07-15T09:58:48.718867Z",
+                "depth": 0,
+                "score": 8,
+                "permalink": "/r/indiehackers/comments/1urlmie/marketing_is_the_hardest_part_of_running_a_saas/owgxxpe/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Это сложнее всего, потому что это часть без этапа компиляции.Код либо работает, либо нет, но вы можете делать все «правильно» в маркетинге и при этом ничего не слышать неделями, и эта двусмысленность жестока для мозга строителя.Что мне помогло, так это отношение к одному каналу как к продукту: выберите его, зафиксируйте на пару месяцев, измерьте его, а не распыляйте и молитесь.Это не облегчает задачу, а лишь меньше сводит с ума."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/indiehackers/comments/1urlmie/marketing_is_the_hardest_part_of_running_a_saas/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Я много об этом думал, если честно.\n\nСоздание продукта никогда не было для меня сложной задачей.заставить людей действительно увидеть это — вот та часть, которая ломает мне мозг.\n\nпоэтому пытаюсь что-то понять.Если бы искусственный интеллект мог помочь вам в маркетинге, какую бы функцию вы на самом деле хотели от него? (Ничего не продавать)\n\nнесколько вопросов, которые у меня есть.\n\n\\- если ИИ обнаружит в Интернете, что люди уже обсуждают именно вашу проблему, вы бы хотели, чтобы он ответил вам или просто передал вам список, и вы позволили бы вам написать ответ самостоятельно?\n\n\\- когда дело доходит до публикации контента, что вам нравится, так это искусственный интеллект, который дает вам точный, уже популярный формат сообщений, который повысит шансы ваших сообщений стать вирусными или что-то еще?\n\n\\- что касается аналитики, давайте будем честными: большинство инструментов просто выдают вам цифры.карма, лайки, комментарии.Вы действительно хотите, чтобы кто-то просто сказал вам на простом английском языке, что работает, а что прекратить делать, вместо того, чтобы вы смотрели на график, пытаясь понять это?\n\nи главный вопрос.Хотите ли вы, чтобы ИИ в основном управлял вашим маркетингом от начала до конца, или вы хотите, чтобы он просто обрабатывал скучные повторяющиеся части, в то время как вы все еще говорите и немного думаете.\n\nЯ ничего не продаю, просто пытаюсь выяснить, где для вас комфортная грань между тем, как ИИ выполняет работу, и ИИ, помогающим вам выполнять работу.\n\nЯ пытаюсь кое-что сделать и сделать это решение лучше для основателей.Поэтому буду признателен, если поделитесь своими мыслями",
+            "title_ru": "Маркетинг — самая сложная часть работы Saas.и мы все это знаем",
+            "ai_summary_ru": "Практический опыт и инсайты автора в своей области."
+          },
+          {
+            "id": "1utj4yj",
+            "title": "Just hit $3,300/month and 18,500+ users with my social media scraping API 🎉",
+            "score": 31,
+            "comments_count": 64,
+            "date": "2026-07-11",
+            "content_en": "(Yep, $3,300 a month, not $3,300K 😅)\n\nSocialKit is coming up on a year since launch. The curve was slow and honestly that's the point:\n\n- Month 1: $13 MRR\n- Month 3: $118 MRR\n- Month 5: $370 MRR\n- Now: $2,500 MRR, plus one-time purchases that add a pretty consistent $700-1,000 every month, so ~$3,300/month total\n\n(https://trustmrr.com/startup/socialkit)\n\nSome more numbers:\n\n- 18,500+ users\n- 140+ active paying customers\n\nWhat's been working:\n\n- SEO from day 0 (blogs, free tools, competitor pages, youtube). It compounds. Most customers still come from organic\n- Talking to users directly, even on WhatsApp\n- being consistent\n\nWhat I'm betting on now: AI agents. MCP + agent skills so agents can pull transcripts, comments, and stats from any social video directly. New APIs coming for that use case.\n\nHere's the product if you want to check it out: SocialKit .dev\n\nLet me know if you're growing your stuff too, if you have any feedback I'd be happy to hear it :)",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/indiehackers/comments/1utj4yj/just_hit_3300month_and_18500_users_with_my_social/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "(Да, 3300 долларов в месяц, а не 3300 тысяч 😅)\n\nSocialKit появится через год с момента запуска.Кривая была медленной, и, честно говоря, в этом вся суть:\n\n- Месяц 1: минимальная нормальная цена 13 долларов США.\n- Месяц 3: МРР 118 долларов США.\n- Месяц 5: минимальная нормальная цена 370 долларов США.\n- Сейчас: 2500 долларов США MRR плюс разовые покупки, которые добавляют довольно стабильно 700–1000 долларов США каждый месяц, итого ~ 3300 долларов США в месяц.\n\n(https://trustmrr.com/startup/socialkit)\n\nЕще немного цифр:\n\n- 18 500+ пользователей\n- 140+ активных платежеспособных клиентов\n\nЧто работает:\n\n- SEO с 0 дня (блоги, бесплатные инструменты, страницы конкурентов, YouTube).Это усугубляет.Большинство клиентов по-прежнему приходят из органических\n- Общение с пользователями напрямую, даже в WhatsApp\n- быть последовательным\n\nНа что я сейчас делаю ставку: на агентов ИИ.MCP + навыки агентов, позволяющие агентам напрямую извлекать расшифровки, комментарии и статистику из любого социального видео.Для этого варианта использования появятся новые API.\n\nВот продукт, если вы хотите его попробовать: SocialKit .dev.\n\nДайте мне знать, если вы тоже выращиваете свои растения, если у вас есть какие-либо отзывы, я буду рад их услышать :)",
+            "title_ru": "Просто заработайте 3300 долларов в месяц и наберите более 18 500 пользователей с помощью моего API для парсинга в социальных сетях 🎉",
+            "ai_summary_ru": "(Да, 3300 долларов в месяц, а не 3300 тысяч 😅)\n\nSocialKit появится через год с момента запуска."
+          },
+          {
+            "id": "1uqsb7n",
+            "title": "Share what you're building",
+            "score": 24,
+            "comments_count": 269,
+            "date": "2026-07-08",
+            "content_en": "Pitch your product in 1-2 lines - and drop a link here.\n\nI'm building a community where makers can share what they’re building and get fair visibility. Here's the link: [https://trylaunch.ai](https://trylaunch.ai/)",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/indiehackers/comments/1uqsb7n/share_what_youre_building/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Расскажите о своем продукте в 1–2 строках и дайте ссылку сюда.\n\nЯ создаю сообщество, где создатели могут делиться тем, что они создают, и добиваться справедливой видимости.Вот ссылка: [https://trylaunch.ai](https://trylaunch.ai/)",
+            "title_ru": "Поделитесь тем, что вы создаете",
+            "ai_summary_ru": "Расскажите о своем продукте в 1–2 строках и дайте ссылку сюда."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Лучшие посты Reddit на русском",
+    "categories_count": 1,
+    "subreddits_count": 1,
+    "last_updated": "2026-07-15"
+  },
+  "reddit": {
+    "id": "AI",
+    "title": "AI",
+    "description": "",
+    "subreddits": [
+      {
+        "id": "SEO",
+        "title": "SEO",
+        "description": "",
+        "posts": [
+          {
+            "id": "1usrppm",
+            "title": "Once Unimaginable, Publishers Are Preparing to Opt Out of Google Search",
+            "score": 93,
+            "comments_count": 11,
+            "date": "2026-07-10",
+            "content_en": "*This story was originally published in On Background with Mark Stenberg, a free, weekly newsletter that explores the key themes shaping the media industry. You can sign up for it* [*here*](https://preferences.adweek.com/on-background-newsletter-signup)*.*\n\nFor decades, publishers have done everything in their power, from the legal to the not-explicitly illegal, to rank as highly in Google Search as possible. For many websites, traffic from the search engine was their single greatest source of audience and, as a result, revenue.",
+            "comments_en": [
+              {
+                "comment_id": "owqb7tn",
+                "full_comment_id": "t1_owqb7tn",
+                "post_full_id": "t3_1usrppm",
+                "post_id": "1usrppm",
+                "post_title": "Once Unimaginable, Publishers Are Preparing to Opt Out of Google Search",
+                "author": "MissJoannaTooU",
+                "text": "This has pretty seismic and fairly predictable at the same time. \n\nGoogle's hubris will catch up with it.",
+                "created_at": "2026-07-10T16:48:26Z",
+                "scraped_at": "2026-07-15T09:20:54.764001Z",
+                "depth": 0,
+                "score": 26,
+                "permalink": "/r/SEO/comments/1usrppm/once_unimaginable_publishers_are_preparing_to_opt/owqb7tn/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Это довольно сейсмично и в то же время довольно предсказуемо.\n\nВысокомерие Google настигнет это."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/SEO/comments/1usrppm/once_unimaginable_publishers_are_preparing_to_opt/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "*Эта история была первоначально опубликована в бесплатном еженедельном информационном бюллетене On Background with Mark Stenberg, в котором рассматриваются ключевые темы, формирующие медиаиндустрию.Вы можете подписаться на нее* [*здесь*](https://preferences.adweek.com/on-background-newsletter-signup)*.*\n\nНа протяжении десятилетий издатели делали все, что в их силах, от законного до неявно незаконного, чтобы получить как можно более высокие позиции в поиске Google.Для многих веб-сайтов трафик из поисковых систем был единственным источником аудитории и, как следствие, дохода.",
+            "title_ru": "Когда-то это было невообразимо, издатели готовятся отказаться от поиска Google",
+            "ai_summary_ru": "Вопрос по управлению email сообщениями жизненного цикла и их документированию."
+          },
+          {
+            "id": "1uqq82b",
+            "title": "Google Search Console Now Shows You Instagram, TikTok, X & YouTube Content Search Performance",
+            "score": 67,
+            "comments_count": 2,
+            "date": "2026-07-08",
+            "content_en": "Google Search Console can now show how your social and video content perform within Google Search. This includes channels such as Instagram, TikTok, X and YouTube. Google kind of did this before, but now this data is going into the Performance reports, Insights reports, and the achievements section in Search Console.\n\nA few weeks ago, we caught Google releasing a [help document named platform properties](https://www.seroundtable.com/google-search-console-platform-property-tooltips-41495.html) and then Google quickly removed that document. Well, now we know that this was about how to add these social and video channels to your Google Search Console account. The help document should be live now, [over here](https://support.google.com/webmasters/answer/17148418) after it was pulled down.\n\nBeing able to verify domains/properties that are technically not your domain names is pretty interesting.\n\n  \nThanks to u/rustybrick",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/SEO/comments/1uqq82b/google_search_console_now_shows_you_instagram/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Консоль поиска Google теперь может показывать, как ваш социальный и видеоконтент работает в Google Поиске.Сюда входят такие каналы, как Instagram, TikTok, X и YouTube.Google вроде делал это раньше, но теперь эти данные попадают в отчеты по производительности, отчеты Insights и раздел достижений в Search Console.\n\nНесколько недель назад мы заметили, что Google выпустил [справочный документ с названием \"Свойства платформы\"](https://www.seroundtable.com/google-search-console-platform-property-tooltips-41495.html), а затем Google быстро удалил этот документ.Что ж, теперь мы знаем, что речь шла о том, как добавить эти социальные и видеоканалы в вашу учетную запись Google Search Console.Справочный документ должен появиться сейчас [здесь](https://support.google.com/webmasters/answer/17148418) после его удаления.\n\nВозможность проверять домены/свойства, которые технически не являются вашими доменными именами, довольно интересна.\n\n\nСпасибо тебе/rustybrick",
+            "title_ru": "Консоль поиска Google теперь показывает эффективность поиска контента в Instagram, TikTok, X и YouTube",
+            "ai_summary_ru": "Консоль поиска Google теперь может показывать, как ваш социальный и видеоконтент работает в Google Поиске."
+          },
+          {
+            "id": "1uvwkt7",
+            "title": "Congratulations! Your site reached 100 clicks from Google Search in the past 28 days",
+            "score": 54,
+            "comments_count": 40,
+            "date": "2026-07-14",
+            "content_en": "I received this email today, after months of writing blogs, pillar contents and refining my site seo it's now gaining some traffic.\n\nThis the first website i am doing SEO and I'm currently at my 3rd month, any advice for a newbie like me what should i focus on for growth?",
+            "comments_en": [
+              {
+                "comment_id": "oxemuis",
+                "full_comment_id": "t1_oxemuis",
+                "post_full_id": "t3_1uvwkt7",
+                "post_id": "1uvwkt7",
+                "post_title": "Congratulations! Your site reached 100 clicks from Google Search in the past 28 days",
+                "author": "Airith0",
+                "text": "Topical authority, internal linking, and CloudFlare.\n\nThe last item being more of a forward thinking skill to get asap than a true “SEO” item. Albeit they are doing early work helping sites become agent ready",
+                "created_at": "2026-07-14T03:24:11Z",
+                "scraped_at": "2026-07-15T09:20:59.406230Z",
+                "depth": 0,
+                "score": 12,
+                "permalink": "/r/SEO/comments/1uvwkt7/congratulations_your_site_reached_100_clicks_from/oxemuis/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Тематический авторитет, внутренние ссылки и CloudFlare.\n\nПоследний пункт — это скорее навык дальновидного мышления, который нужно получить как можно скорее, чем настоящий предмет «SEO».Хотя они проводят раннюю работу, помогая сайтам подготовиться к работе с агентами."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/SEO/comments/1uvwkt7/congratulations_your_site_reached_100_clicks_from/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Я получил это электронное письмо сегодня, после нескольких месяцев написания блогов, содержания столбцов и улучшения поисковой оптимизации моего сайта, теперь он набирает некоторый трафик.\n\nЭто первый веб-сайт, которым я занимаюсь SEO, и сейчас я работаю на третьем месяце. Какой совет для такого новичка, как я, на чем мне следует сосредоточиться для роста?",
+            "title_ru": "Поздравляем!Ваш сайт получил 100 кликов в Google Поиске за последние 28 дней.",
+            "ai_summary_ru": "Вопрос по управлению email сообщениями жизненного цикла и их документированию."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Лучшие посты Reddit на русском",
+    "categories_count": 1,
+    "subreddits_count": 1,
+    "last_updated": "2026-07-15"
+  },
+  "reddit": {
+    "id": "AI",
+    "title": "AI",
+    "description": "",
+    "subreddits": [
+      {
+        "id": "SocialMediaMarketing",
+        "title": "SocialMediaMarketing",
+        "description": "",
+        "posts": [
+          {
+            "id": "1uqtsx2",
+            "title": "You can now rearrange your entire Instagram grid. Here is the new profile funnel strategy.",
+            "score": 94,
+            "comments_count": 21,
+            "date": "2026-07-08",
+            "content_en": "Instagram has officially rolled out the ability for everyone to customize the order of posts on their profile grid. This means you are no longer restricted to just the top three \"Pinned Posts\" to control your brand's narrative. You can retroactively drag, drop, and rearrange your entire historical grid without deleting or archiving old content.\n\nIf you are a business owner or social media manager, your profile is essentially your landing page. \n\nHere is the exact framework you should use to rearrange your grid for maximum conversions:\n\nWhen a user clicks your profile from a viral Reel, the first three posts they see need to instantly validate why they are there.\n\nGrid Slot 1: A founder-led \"Start Here\" video explaining your exact value proposition.\n\nGrid Slot 2: A massive social proof carousel or client case study.\n\nGrid Slot 3: A \"Lead Magnet\" post offering a free guide or resource in exchange for a DM keyword.\n\nBecause you can now rearrange your entire Instagram profile grid, you should organize your rows thematically rather than chronologically.\n\nUse row two exclusively for your highest-performing educational Reels so that new visitors can binge your best advice.\n\nUse row three for behind-the-scenes content or user-generated reviews to build trust.\n\nWe all have posts that completely flopped, or promotional flyers that ruin the aesthetic but still need to stay live for legal or campaign reasons. You can now drag those underperforming posts to the very bottom of your grid, effectively hiding them from new traffic while keeping the analytics and links intact.",
+            "comments_en": [
+              {
+                "comment_id": "owbcf7c",
+                "full_comment_id": "t1_owbcf7c",
+                "post_full_id": "t3_1uqtsx2",
+                "post_id": "1uqtsx2",
+                "post_title": "You can now rearrange your entire Instagram grid. Here is the new profile funnel strategy.",
+                "author": "sculptsocial",
+                "text": "\"We are so back!!\" -the massive multi-post instagram grid layout strategy. \n\nBut for real, excited to see how this plays out and how people choose to use this new feature. Some great tips here. ",
+                "created_at": "2026-07-08T16:15:39Z",
+                "scraped_at": "2026-07-15T09:10:17.449880Z",
+                "depth": 0,
+                "score": 12,
+                "permalink": "/r/SocialMediaMarketing/comments/1uqtsx2/you_can_now_rearrange_your_entire_instagram_grid/owbcf7c/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "«Мы так вернулись!!» - массивная стратегия макета сетки Instagram с несколькими постами. \n\nНо на самом деле мне очень интересно увидеть, как это закончится и как люди решат использовать эту новую функцию. Несколько отличных советов здесь."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/SocialMediaMarketing/comments/1uqtsx2/you_can_now_rearrange_your_entire_instagram_grid/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Instagram официально предоставил каждому возможность настраивать порядок публикаций в сетке своего профиля. Это означает, что вы больше не ограничены только тремя верхними «закрепленными публикациями», чтобы контролировать повествование вашего бренда. Вы можете задним числом перетаскивать и переставлять всю историческую сетку, не удаляя и не архивируя старый контент.\n\nЕсли вы владелец бизнеса или менеджер социальных сетей, ваш профиль — это, по сути, ваша целевая страница. \n\nВот точная структура, которую вы должны использовать, чтобы перестроить сетку для достижения максимальной конверсии:\n\nКогда пользователь нажимает на ваш профиль на вирусном ролике, первые три сообщения, которые он видит, должны мгновенно подтвердить, почему он здесь.\n\nСетчатый слот 1: видео под руководством основателя «Начни здесь», объясняющее ваше точное ценностное предложение.\n\nСлот сетки 2: массивная карусель социальных доказательств или исследование конкретного клиента.\n\nСлот сетки 3: пост «Лид-магнит», предлагающий бесплатное руководство или ресурс в обмен на ключевое слово DM.\n\nПоскольку теперь вы можете изменить всю сетку своего профиля в Instagram, вам следует организовывать строки тематически, а не хронологически.\n\nИспользуйте второй ряд исключительно для ваших самых эффективных образовательных роликов, чтобы новые посетители могли воспользоваться вашими лучшими советами.\n\nИспользуйте третью строку для скрытого контента или отзывов пользователей, чтобы завоевать доверие.\n\nУ всех нас есть посты, которые полностью провалились, или рекламные листовки, которые портят эстетику, но все равно должны оставаться в силе по юридическим или предвыборным причинам. Теперь вы можете перетащить эти неэффективные публикации в самый низ своей сетки, эффективно скрывая их от нового трафика, сохраняя при этом аналитику и ссылки нетронутыми.",
+            "title_ru": "Теперь вы можете изменить всю сетку Instagram. Вот новая стратегия воронки профиля.",
+            "ai_summary_ru": "Instagram официально предоставил каждому возможность настраивать порядок публикаций в сетке своего профиля."
+          },
+          {
+            "id": "1uqvw4m",
+            "title": "CEO wants followers, but does not want any content published",
+            "score": 21,
+            "comments_count": 36,
+            "date": "2026-07-08",
+            "content_en": "Hi! Just wanted to share my current work frustrations with you and ask if anyone has succesfully maneged a similar situation.\n\nI work at a film distributor and started in this position in January this year. The company hasn’t had any social media presence before my arrival, meaning that I have opened accounts on FB, IG, TikTok, YouTube, Reddit and Letterbox’d and starting to build these from stratch.\n\nBefore entering this job, I’ve worked as a content manager as well as a paid social specialist at an agency. I feel pretty comfortable within my field, and thought it would be easy to build a following as the product (the films) obviously provide excellent content to share. Social media management is not my primary work task, but my boss/the CEO is constantly commenting, critizising and mocking the slow growth of followers, saying I must be extremely poor at my job. \n\nFor most of the platforms, we are currently at 200 followers, which I consider decent after 4 months being active on business accounts. Also, I live in a country with only a couple of millions inhabitants, meaning that the most succesful influencers have around 300-500k followers.\n\nMy boss is vocal about being personally ashamed of the accounts I am running of the company’s behalf. He is ashamed that I post content without anyone liking, sharing or commenting. He also says I post too much with 2-3 reels or multi image post/carrousel a week and 2-5 stories a week. He says it’s borderline spam.\n\nHe’s given me a budget, asking me to buy followers, which I’ve refused. I suggested we used the budget for awareness and profile visit campaigns instead. That was agreed upon, but twhile there are profile visits and reasonable reach on the organic posts I use for ads, the efforts doesn’t convert to followers.\n\nI’ve also teamed up with several media partners for giveaways and other shared content, but again not directly impacting followers growth.\n\nSo, what to do? I am doing everything that has worked for me in the past, but I have never experienced such disapppointment and embaressment from a superior. He will ask me to close down these accounts, if something doesn’t happen soon and he will let it be known to everyone that I lack skills in social media management.",
+            "comments_en": [
+              {
+                "comment_id": "owbtjdy",
+                "full_comment_id": "t1_owbtjdy",
+                "post_full_id": "t3_1uqvw4m",
+                "post_id": "1uqvw4m",
+                "post_title": "CEO wants followers, but does not want any content published",
+                "author": "johnmflores",
+                "text": "Ask him to pay a consultant to evaluate what you're doing. There's always a risk that they'll try to take your job/work, but working for a person that doesn't value your expertise must be frustrating",
+                "created_at": "2026-07-08T17:27:46Z",
+                "scraped_at": "2026-07-15T09:10:19.637421Z",
+                "depth": 0,
+                "score": 19,
+                "permalink": "/r/SocialMediaMarketing/comments/1uqvw4m/ceo_wants_followers_but_does_not_want_any_content/owbtjdy/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Попросите его заплатить консультанту, чтобы он оценил то, что вы делаете. Всегда есть риск, что они попытаются отобрать у вас работу/работу, но работать на человека, который не ценит ваш опыт, должно быть, неприятно."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/SocialMediaMarketing/comments/1uqvw4m/ceo_wants_followers_but_does_not_want_any_content/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Привет! Просто хотел поделиться с вами своими нынешними разочарованиями в работе и спросить, успешно ли кто-нибудь справился с подобной ситуацией.\n\nЯ работаю кинопрокатчиком и начал работать на этой должности в январе этого года. До моего приезда компания не присутствовала в социальных сетях, а это означает, что я открыл аккаунты в FB, IG, TikTok, YouTube, Reddit и Letterbox’d и начал создавать их с нуля.\n\nПрежде чем приступить к этой работе, я работал контент-менеджером, а также оплачиваемым социальным специалистом в агентстве. Я чувствую себя довольно комфортно в своей области и думаю, что будет легко привлечь последователей, поскольку продукт (фильмы), очевидно, предоставляет отличный контент, которым можно поделиться. Управление социальными сетями не является моей основной рабочей задачей, но мой начальник/генеральный директор постоянно комментирует, критикует и высмеивает медленный рост числа подписчиков, говоря, что я, должно быть, крайне плохо справляюсь со своей работой. \n\nНа большинстве платформ у нас в настоящее время 200 подписчиков, что я считаю приличным после 4 месяцев активности на бизнес-аккаунтах. Кроме того, я живу в стране с населением всего в пару миллионов человек, а это означает, что у самых успешных влиятельных лиц около 300-500 тысяч подписчиков.\n\nМой начальник открыто заявляет, что ему лично стыдно за счета, которые я веду от имени компании. Ему стыдно, что я публикую контент, который никто не лайкает, не делится и не комментирует. Он также говорит, что я публикую слишком много: 2–3 ролика или пост/карусель с несколькими изображениями в неделю и 2–5 историй в неделю. Он говорит, что это пограничный спам.\n\nОн выделил мне бюджет и попросил купить подписчиков, но я отказался. Я предложил вместо этого использовать бюджет для кампаний по повышению осведомленности и посещению профиля. Это было согласовано, но, хотя есть посещения профиля и достаточный охват органических постов, которые я использую для рекламы, эти усилия не конвертируются в подписчиков.\n\nЯ также объединился с несколькими медиа-партнерами для розыгрышей подарков и другого общего контента, но, опять же, это не оказало прямого влияния на рост числа подписчиков.\n\nИтак, что делать? Я делаю все, что мне помогало в прошлом, но такого разочарования и смущения со стороны начальства я еще не испытывал. Он попросит меня закрыть эти аккаунты, если что-то не произойдет в ближайшее время, и даст всем знать, что мне не хватает навыков управления социальными сетями.",
+            "title_ru": "Генеральный директор хочет подписчиков, но не хочет публиковать какой-либо контент",
+            "ai_summary_ru": "Привет!Просто хотел поделиться с вами своими нынешними разочарованиями в работе и спросить, успешно ли кто-нибудь справился с подобной ситуацией."
+          },
+          {
+            "id": "1uw4pq5",
+            "title": "How do you land your first client with zero portfolio or experience? How long did it take you?",
+            "score": 17,
+            "comments_count": 26,
+            "date": "2026-07-14",
+            "content_en": "So I started a small social media agency 3 months ago (reels, editing, content, page management — mainly targeting physiotherapy clinics). No case studies, no experience, just cold outreach from day one.\n\nHere's the funnel so far:\n\n1800 physiotherapists contacted via cold outreach\n\n1200 got a pitch about what I offer\n\n10 showed interest\n\n2 actually followed through and gave me content to work with\n\n8 said yes, then ghosted completely\n\nIt's been 3 months of this and I still have zero paying clients. I've done real work, made reels that performed better than these clinics' usual content, but nothing has converted into actual income yet.\n\nI know everyone starts somewhere with no portfolio, but I'm starting to wonder if I'm doing something fundamentally wrong, or if this is just how long it normally takes.\n\nFor people who started with zero experience and no case studies — how did you land your first paying client? Realistically, how long did it take you before you made your first rupee/dollar from this kind of work?\n\nAny advice, even harsh, is welcome at this point.",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/SocialMediaMarketing/comments/1uw4pq5/how_do_you_land_your_first_client_with_zero/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Итак, 3 месяца назад я основал небольшое агентство в социальных сетях (ролики, редактирование, контент, управление страницами — в основном ориентированное на физиотерапевтические клиники). Никаких тематических исследований, никакого опыта, просто холодная разъяснительная работа с первого дня.\n\nВот воронка на данный момент:\n\nС 1800 физиотерапевтами связались посредством холодовой аутрич-связи\n\n1200 получили представление о том, что я предлагаю\n\n10 проявили интерес\n\n2 действительно довел дело до конца и дал мне материал для работы.\n\n8 сказал да, а затем полностью исчез\n\nПрошло 3 месяца, а у меня до сих пор нет платящих клиентов. Я проделал настоящую работу, сделал ролики, которые работали лучше, чем обычный контент этих клиник, но пока ничего не превратилось в реальный доход.\n\nЯ знаю, что все начинают с чего-то без портфолио, но я начинаю задаваться вопросом, делаю ли я что-то в корне неправильно, или это просто столько времени, которое обычно занимает.\n\nДля людей, которые начинали с нулевым опытом и без тематических исследований: как вы нашли своего первого платящего клиента? На самом деле, сколько времени вам потребовалось, прежде чем вы заработали свою первую рупию/доллар на такой работе?\n\nЗдесь приветствуются любые советы, даже резкие.",
+            "title_ru": "Как найти первого клиента с нулевым портфолио или опытом? Сколько времени это заняло у вас?",
+            "ai_summary_ru": "Итак, 3 месяца назад я основал небольшое агентство социальных сетей (ролики, редактирование, контент, управление страницами — в основном ориентированное на физиотерапевтические клиники)."
+          }
+        ]
+      }
+    ]
+  }
+}

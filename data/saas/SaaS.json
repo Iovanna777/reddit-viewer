@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Лучшие посты Reddit на русском",
+    "categories_count": 1,
+    "subreddits_count": 1,
+    "last_updated": "2026-07-15"
+  },
+  "reddit": {
+    "id": "AI",
+    "title": "AI",
+    "description": "",
+    "subreddits": [
+      {
+        "id": "SaaS",
+        "title": "SaaS",
+        "description": "",
+        "posts": [
+          {
+            "id": "1urv4mu",
+            "title": "Keep going. No matter what.",
+            "score": 1824,
+            "comments_count": 229,
+            "date": "2026-07-09",
+            "content_en": "Coding on the train, judged by strangers, locked tf in. Nothing else like the feeling of public productivity.\n\nSometimes you just have to open your laptop anywhere and get things done. P.S Ignore the .env file on my screen this is for people that want to win.\n\nAnd what am I working on? ha💸ha💸ha💸. you already saw me post here before- you know what I built alr",
+            "comments_en": [
+              {
+                "comment_id": "owisn6b",
+                "full_comment_id": "t1_owisn6b",
+                "post_full_id": "t3_1urv4mu",
+                "post_id": "1urv4mu",
+                "post_title": "Keep going. No matter what.",
+                "author": "peterchester_",
+                "text": "Let's hope it's just bait 🥲",
+                "created_at": "2026-07-09T16:36:13Z",
+                "scraped_at": "2026-07-15T09:51:24.437163Z",
+                "depth": 0,
+                "score": 354,
+                "permalink": "/r/SaaS/comments/1urv4mu/keep_going_no_matter_what/owisn6b/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Будем надеяться, что это просто приманка 🥲"
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/SaaS/comments/1urv4mu/keep_going_no_matter_what/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Программирование в поезде, по мнению незнакомцев, заперто. Ничто не сравнится с ощущением общественной продуктивности.\n\nИногда вам просто нужно где угодно открыть ноутбук и заняться делами.P.S. Не обращайте внимания на файл .env на моем экране, это для людей, которые хотят победить.\n\nИ над чем я работаю?ха💸ха💸ха💸.вы уже видели, как я писал здесь раньше — вы знаете, что я построил",
+            "title_ru": "Продолжать идти.Несмотря ни на что.",
+            "ai_summary_ru": "Кодирование в поезде, судя по посторонним, заперто."
+          },
+          {
+            "id": "1usjvot",
+            "title": "First time getting a dispute, how do I handle it?",
+            "score": 457,
+            "comments_count": 148,
+            "date": "2026-07-10",
+            "content_en": "First time getting a dispute for my SaaS.\n\nI have evidence that they have used the product, they are disputing the second payment from the recurring subscription. Should I dispute or just accept or refund?\n\nAny experience helps.\n\nEDIT: Okay to give some more information, I don't care about the 8 bucks, and I'd have refunded if they ever reached out. But now there is also a 20 euros dispute fee if I accept it. And the user used the product, and then likely forgot to cancel the subscription and went this route instead.\n\nEDIT2: Just accepted the dispute and refunded their money. I figure the $20 fee for the dispute is gone no matter what, and you can only dispute to get back the $7.99 user has chargebacked(?). And to do that you need to pay another $20 fee which you do not get back if you lose the dispute, which is very possible.  \nAnyways, with disputes this small, seems best is to just accept and move on.  \nTo be fair, I've turned on the automatic invoice deliveries so it might help.\n\nAlso received a couple dms asking what the product is. It's called PodTyper, users paste a podcast url like from Spotify and get a full transcript and summaries. It's mostly for professionals like researchers, investors etc that needs to get information fast. That's why this is surprising because although it's a B2C app the audience is using it for professionals reasons. (At least seems to be the case)",
+            "comments_en": [
+              {
+                "comment_id": "owo7f7b",
+                "full_comment_id": "t1_owo7f7b",
+                "post_full_id": "t3_1usjvot",
+                "post_id": "1usjvot",
+                "post_title": "First time getting a dispute, how do I handle it?",
+                "author": "TenPinPro",
+                "text": "Just refund and block their account. It's $7.99, not worth a bad review.\n\nThey may have used it but have been unhappy with the quality or it didn't meet their expectations, etc. This happens.\n\nDo reach out and ask for feedback, though.",
+                "created_at": "2026-07-10T10:37:16Z",
+                "scraped_at": "2026-07-15T09:51:26.389965Z",
+                "depth": 0,
+                "score": 406,
+                "permalink": "/r/SaaS/comments/1usjvot/first_time_getting_a_dispute_how_do_i_handle_it/owo7f7b/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Просто верните деньги и заблокируйте их аккаунт.Это 7,99 долларов, не стоит плохого отзыва.\n\nВозможно, они воспользовались им, но остались недовольны качеством или оно не оправдало их ожиданий и т. д. Такое случается.\n\nТем не менее, обратитесь и попросите обратную связь."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/SaaS/comments/1usjvot/first_time_getting_a_dispute_how_do_i_handle_it/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Впервые получаю спор по моему SaaS.\n\nУ меня есть доказательства того, что они использовали продукт, они оспаривают второй платеж из рекуррентной подписки.Стоит ли оспаривать или просто принять или вернуть деньги?\n\nЛюбой опыт помогает.\n\nРЕДАКТИРОВАТЬ: Хорошо, чтобы дать дополнительную информацию, меня не волнуют 8 долларов, и я бы вернул деньги, если бы они когда-нибудь обратились к нам.Но теперь, если я приму это, взимается плата за спор в размере 20 евро.А пользователь воспользовался продуктом, а затем, вероятно, забыл отменить подписку и вместо этого пошел по этому пути.\n\nEDIT2: Только что принял спор и вернул деньги.Я полагаю, что комиссия в размере 20 долларов США за спор исчезла, несмотря ни на что, и вы можете оспорить только то, чтобы вернуть пользователю возвратный платеж в размере 7,99 долларов США (?).И для этого вам нужно заплатить еще 20 долларов США, которые вы не вернете, если проиграете спор, что вполне возможно.\nВ любом случае, с такими небольшими спорами, кажется, лучше всего просто принять и двигаться дальше.\nЧестно говоря, я включил автоматическую доставку счетов, так что это может помочь.\n\nТакже получил пару сообщений с вопросом, что это за продукт.Он называется PodTyper, пользователи вставляют URL-адрес подкаста, как из Spotify, и получают полную расшифровку и резюме.В основном это касается профессионалов, таких как исследователи, инвесторы и т. д., которым необходимо быстро получать информацию.Вот почему это удивительно, потому что, хотя это приложение B2C, аудитория использует его в профессиональных целях.(По крайней мере, так кажется)",
+            "title_ru": "Впервые возник спор, как мне с ним справиться?",
+            "ai_summary_ru": "Практический опыт и инсайты автора в своей области."
+          }
+        ]
+      }
+    ]
+  }
+}
