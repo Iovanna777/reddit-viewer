@@ -35,7 +35,8 @@
         }
       ],
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw2yv9",
@@ -83,7 +84,8 @@
         }
       ],
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw65pe",
@@ -96,7 +98,8 @@
       "content_ru": "",
       "original_url": "https://www.reddit.com/r/OpenAI/comments/1uw65pe/noticing_degradation_or_something/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw6082",
@@ -109,7 +112,8 @@
       "content_ru": "",
       "original_url": "https://www.reddit.com/r/OpenAI/comments/1uw6082/talk_me_alive/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw3ul1",
@@ -125,7 +129,8 @@
       "content_ru": "",
       "original_url": "https://www.reddit.com/r/OpenAI/comments/1uw3ul1/projects_gone_after_codex_chat_update/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw3kds",
@@ -140,7 +145,8 @@
       "content_ru": "",
       "original_url": "https://www.reddit.com/r/OpenAI/comments/1uw3kds/import_or_sync_web_side_projects_to_desktop_app/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw6vjj",
@@ -194,7 +200,8 @@
         }
       ],
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw2avw",
@@ -223,7 +230,8 @@
         }
       ],
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw2go5",
@@ -277,7 +285,8 @@
         }
       ],
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw1ksw",
@@ -307,7 +316,8 @@
         }
       ],
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw1863",
@@ -354,7 +364,8 @@
         }
       ],
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uw1822",
@@ -384,7 +395,8 @@
         }
       ],
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     }
   ]
 }

@@ -14,7 +14,8 @@
       "content_ru": "",
       "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvlwz0/this_is_why_we_need_local_models_and_opensource/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uvbzul",
@@ -30,7 +31,8 @@
       "content_ru": "",
       "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     },
     {
       "id": "1uvcjd0",
@@ -47,7 +49,8 @@
       "content_ru": "Я провёл год, собирая [охлодители для GPU](https://esologic.com/cooler/) и [инструмент для бенчмаркинга](https://github.com/esologic/gpu_box_benchmark), чтобы выяснить, пригодятся ли выведенные из эксплуатации серверные GPU NVIDIA для современных задач...\n\n**V100 — золотая середина**: V100 (16GB) полностью меня удивил. Его производительность наравне с гораздо более дорогим T40.\n**P40 > P100 для LLM**: Консенсус сообщества подтверждается. Если вы хотите запускать LLM и используете Pascal, возьмите P40.\n**M60 — монстр для Whisper**: Если нужно транскрибировать много аудио, M60 шокирующе способен (даже лучше V100) и стоит лишь $50.\n\n[Полный набор графиков и находок на моём блоге](https://esologic.com/benchmarking-tesla-gpus/).",
       "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvcjd0/i_benchmarked_15_ewaste_gpus_with_modern_workloads/",
       "is_read": false,
-      "is_favorite": false
+      "is_favorite": false,
+      "comments_en": []
     }
   ]
 }

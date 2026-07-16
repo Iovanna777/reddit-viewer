@@ -36,7 +36,8 @@
       ],
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "GPT-5.6 Sol Ultra в кратце: 129 субагентов за 10-часовой фанараут"
+      "title_ru": "GPT-5.6 Sol Ultra в кратце: 129 субагентов за 10-часовой фанараут",
+      "comments_en": []
     },
     {
       "id": "1uw2yv9",
@@ -85,7 +86,8 @@
       ],
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Я хочу своего Старого ChatGPT обратно"
+      "title_ru": "Я хочу своего Старого ChatGPT обратно",
+      "comments_en": []
     },
     {
       "id": "1uw65pe",
@@ -99,7 +101,8 @@
       "original_url": "https://www.reddit.com/r/OpenAI/comments/1uw65pe/noticing_degradation_or_something/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Замечаю деградацию или что-то в этом роде"
+      "title_ru": "Замечаю деградацию или что-то в этом роде",
+      "comments_en": []
     },
     {
       "id": "1uw6082",
@@ -113,7 +116,8 @@
       "original_url": "https://www.reddit.com/r/OpenAI/comments/1uw6082/talk_me_alive/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Разговоры оживают"
+      "title_ru": "Разговоры оживают",
+      "comments_en": []
     },
     {
       "id": "1uw3ul1",
@@ -130,7 +134,8 @@
       "original_url": "https://www.reddit.com/r/OpenAI/comments/1uw3ul1/projects_gone_after_codex_chat_update/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "проекты исчезли после обновления codex/chat"
+      "title_ru": "проекты исчезли после обновления codex/chat",
+      "comments_en": []
     },
     {
       "id": "1uw3kds",
@@ -146,7 +151,8 @@
       "original_url": "https://www.reddit.com/r/OpenAI/comments/1uw3kds/import_or_sync_web_side_projects_to_desktop_app/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Импортировать или синхронизировать веб-проекты с настольным приложением?"
+      "title_ru": "Импортировать или синхронизировать веб-проекты с настольным приложением?",
+      "comments_en": []
     },
     {
       "id": "1uw6vjj",
@@ -201,7 +207,8 @@
       ],
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "GPT-5.6 Pro решает 5 проблем Erdyos"
+      "title_ru": "GPT-5.6 Pro решает 5 проблем Erdyos",
+      "comments_en": []
     },
     {
       "id": "1uw2avw",
@@ -231,7 +238,8 @@
       ],
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Есть ли смысл использовать Deep Research для исследований?"
+      "title_ru": "Есть ли смысл использовать Deep Research для исследований?",
+      "comments_en": []
     },
     {
       "id": "1uw2go5",
@@ -286,7 +294,8 @@
       ],
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "GPT-5.6 Pro решает 5 проблем Erdyos"
+      "title_ru": "GPT-5.6 Pro решает 5 проблем Erdyos",
+      "comments_en": []
     },
     {
       "id": "1uw1ksw",
@@ -317,7 +326,8 @@
       ],
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Есть ли у кого-то проверенный текст для получения отдельных изображений?"
+      "title_ru": "Есть ли у кого-то проверенный текст для получения отдельных изображений?",
+      "comments_en": []
     },
     {
       "id": "1uw1863",
@@ -365,7 +375,8 @@
       ],
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Самая сложная часть использования ИИ может быть больше не в изучении инструмента"
+      "title_ru": "Самая сложная часть использования ИИ может быть больше не в изучении инструмента",
+      "comments_en": []
     },
     {
       "id": "1uw1822",
@@ -396,7 +407,8 @@
       ],
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "CEO Palo Alto Arora заявляет: цены на ИИ должны упасть на 90%"
+      "title_ru": "CEO Palo Alto Arora заявляет: цены на ИИ должны упасть на 90%",
+      "comments_en": []
     }
   ]
 }

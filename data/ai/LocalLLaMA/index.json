@@ -15,7 +15,8 @@
       "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvlwz0/this_is_why_we_need_local_models_and_opensource/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Вот почему нужны локальные модели и opensource решения"
+      "title_ru": "Вот почему нужны локальные модели и opensource решения",
+      "comments_en": []
     },
     {
       "id": "1uvbzul",
@@ -32,7 +33,8 @@
       "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Apple M7 Ultra Chip запланирован с до 1.5 TB единой памяти"
+      "title_ru": "Apple M7 Ultra Chip запланирован с до 1.5 TB единой памяти",
+      "comments_en": []
     },
     {
       "id": "1uvcjd0",
@@ -50,7 +52,8 @@
       "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvcjd0/i_benchmarked_15_ewaste_gpus_with_modern_workloads/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Я протестировал 15 «мусорных» GPU на современных задачах"
+      "title_ru": "Я протестировал 15 «мусорных» GPU на современных задачах",
+      "comments_en": []
     }
   ]
 }

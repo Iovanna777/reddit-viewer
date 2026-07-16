@@ -16,7 +16,8 @@
       "original_url": "https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Что за хрень? У меня было 2.01 EUR бесплатных кредитов..."
+      "title_ru": "Что за хрень? У меня было 2.01 EUR бесплатных кредитов...",
+      "comments_en": []
     },
     {
       "id": "1uvsndm",
@@ -33,7 +34,8 @@
       "original_url": "https://www.reddit.com/r/ClaudeAI/comments/1uvsndm/i_dont_get_the_fable_coding_craze_at_all/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Я вообще не понимаю этот фабл кодинг крауд..."
+      "title_ru": "Я вообще не понимаю этот фабл кодинг крауд...",
+      "comments_en": []
     },
     {
       "id": "1uvosli",
@@ -50,7 +52,8 @@
       "original_url": "https://www.reddit.com/r/ClaudeAI/comments/1uvosli/i_was_using_claude_coworks_cloud_vms_free/",
       "is_read": false,
       "is_favorite": false,
-      "title_ru": "Я использовал облачные VMs Claude Cowork (бесплатные) совсем не так..."
+      "title_ru": "Я использовал облачные VMs Claude Cowork (бесплатные) совсем не так...",
+      "comments_en": []
     }
   ]
 }
