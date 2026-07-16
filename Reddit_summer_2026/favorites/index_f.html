@@ -1,0 +1,687 @@
+тл <!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Избранное — KB</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #13111a; --bg2: #1c1928; --bg3: #252235; --bg4: #2e2a40;
+  --border: #3a3555; --accent: #7C3AED; --accent2: #8B5CF6; --accent3: #a78bfa;
+  --text: #f0ecff; --muted: #9b94b8;
+  --card-gradient: linear-gradient(135deg, #1c1928 0%, #1f1c30 100%);
+  --nav-bg: rgba(19,17,26,.95);
+  --fav-gold: #f59e0b;
+}
+[data-theme="light"] {
+  --bg: #f5f3ff; --bg2: #ffffff; --bg3: #ede9f8; --bg4: #f8f6ff;
+  --border: #d4caf0; --accent: #7C3AED; --accent2: #8B5CF6; --accent3: #6d28d9;
+  --text: #1e1333; --muted: #6b5f8a;
+  --card-gradient: linear-gradient(135deg, #ffffff 0%, #f8f5ff 100%);
+  --nav-bg: rgba(255,255,255,.97);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); }
+
+nav {
+  position: sticky; top: 0; z-index: 200;
+  background: var(--nav-bg); border-bottom: 1px solid var(--border);
+  padding: 0 1.5rem; display: flex; align-items: center; gap: 1rem; height: 52px;
+  overflow: visible; backdrop-filter: blur(16px);
+}
+.nav-logo { font-family: 'Syne',sans-serif; font-weight: 800; font-size: .95rem; color: var(--accent2); text-decoration: none; white-space: nowrap; }
+.nav-cats { display: flex; gap: .1rem; list-style: none; flex: 1; overflow: visible; }
+.nav-item { position: relative; }
+.nav-item > a { display: flex; align-items: center; gap: .2rem; padding: .3rem .6rem; border-radius: 6px; font-size: .78rem; font-weight: 500; color: var(--muted); text-decoration: none; white-space: nowrap; transition: color .2s, background .2s; }
+.nav-item > a:hover, .nav-item.open > a { color: var(--text); background: var(--bg3); }
+.nav-item > a svg { width:10px; height:10px; transition: transform .2s; }
+.nav-item.open > a svg { transform: rotate(180deg); }
+.dropdown {
+  display: none; position: absolute; top: 100%; left: 0;
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 10px; padding: .5rem;
+  min-width: 180px; box-shadow: 0 8px 32px rgba(0,0,0,.3);
+  z-index: 200;
+  margin-top: 4px;
+}
+.nav-item::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 8px;
+  display: none;
+}
+.nav-item:hover::after { display: block; }
+.nav-item:hover .dropdown { display: block; }
+.nav-item.open .dropdown { display: block; }
+.dropdown a { display: block; padding: .38rem .65rem; font-size: .78rem; color: var(--muted); text-decoration: none; border-radius: 6px; transition: all .15s; }
+.dropdown a:hover { color: var(--text); background: var(--bg3); }
+.nav-fav { color: var(--fav-gold) !important; font-weight: 700 !important; }
+.nav-right { margin-left: auto; display: flex; align-items: center; gap: .5rem; }
+.theme-btn { background: var(--bg3); border: 1px solid var(--border); border-radius: 7px; padding: .28rem .55rem; cursor: pointer; color: var(--muted); font-size: .75rem; transition: all .2s; }
+.theme-btn:hover { color: var(--text); border-color: var(--accent); }
+
+/* PAGE HEADER */
+.page-header {
+  padding: 2.5rem 2rem 1.5rem;
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(135deg, rgba(124,58,237,.08) 0%, transparent 60%);
+}
+.page-title {
+  font-family: 'Syne', sans-serif; font-size: 2rem; font-weight: 800;
+  display: flex; align-items: center; gap: .6rem;
+}
+.page-title .star { color: var(--fav-gold); }
+.page-subtitle { font-size: .9rem; color: var(--muted); margin-top: .3rem; }
+.page-actions { display: flex; gap: .75rem; align-items: center; }
+.btn-clear-all {
+  background: transparent; border: 1px solid var(--border);
+  border-radius: 8px; padding: .45rem 1rem;
+  font-size: .8rem; color: var(--muted); cursor: pointer;
+  transition: all .2s; font-family: inherit;
+}
+.btn-clear-all:hover { border-color: #ef4444; color: #ef4444; }
+.fav-count {
+  font-size: .82rem; color: var(--muted);
+  background: var(--bg3); border: 1px solid var(--border);
+  border-radius: 20px; padding: .25rem .75rem;
+}
+.btn-export {
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent2) 100%);
+  border: none; border-radius: 8px; padding: .45rem 1rem;
+  font-size: .8rem; color: #fff; cursor: pointer; font-family: inherit;
+  font-weight: 700; transition: opacity .2s;
+  box-shadow: 0 2px 10px rgba(124,58,237,.3);
+}
+.btn-export:hover { opacity: .88; }
+.btn-import {
+  background: transparent; border: 1px solid var(--accent2);
+  border-radius: 8px; padding: .45rem 1rem;
+  font-size: .8rem; color: var(--accent2); cursor: pointer;
+  transition: all .2s; font-family: inherit; font-weight: 600;
+}
+.btn-import:hover { background: rgba(124,58,237,.1); }
+.toast {
+  position: fixed; bottom: 2rem; left: 50%; transform: translateX(-50%) translateY(20px);
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 12px; padding: .8rem 1.4rem;
+  font-size: .85rem; color: var(--text);
+  box-shadow: 0 8px 32px rgba(0,0,0,.35);
+  z-index: 9999; opacity: 0; transition: opacity .25s, transform .25s;
+  pointer-events: none; white-space: nowrap;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+.toast.success { border-color: #4a8a5a; }
+.toast.error { border-color: #ef4444; }
+
+/* FILTERS ROW */
+.fav-filters {
+  padding: .75rem 2rem;
+  display: flex; align-items: center; gap: .75rem; flex-wrap: wrap;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg2);
+}
+.fav-filter-btn {
+  background: var(--bg3); border: 1px solid var(--border);
+  border-radius: 20px; padding: .28rem .8rem;
+  font-size: .75rem; color: var(--muted); cursor: pointer;
+  transition: all .15s;
+}
+.fav-filter-btn:hover, .fav-filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.fav-search {
+  flex: 1; min-width: 200px; position: relative;
+}
+.fav-search input {
+  width: 100%; background: var(--bg3); border: 1px solid var(--border);
+  border-radius: 7px; padding: .32rem .7rem .32rem 2rem;
+  font-size: .78rem; color: var(--text); outline: none; font-family: inherit;
+}
+.fav-search input:focus { border-color: var(--accent); }
+.fav-search .ico { position: absolute; left: .6rem; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: .82rem; pointer-events: none; }
+
+/* CONTENT */
+.fav-content { max-width: 960px; margin: 0 auto; padding: 2rem; }
+
+/* EMPTY STATE */
+.empty-state {
+  text-align: center; padding: 5rem 2rem; color: var(--muted);
+}
+.empty-state .empty-icon { font-size: 3.5rem; margin-bottom: 1rem; }
+.empty-state h3 { font-family: 'Syne',sans-serif; font-size: 1.4rem; font-weight: 700; margin-bottom: .5rem; color: var(--text); }
+.empty-state p { font-size: .9rem; line-height: 1.6; }
+
+/* CATEGORY GROUP */
+.cat-group { margin-bottom: 2.5rem; }
+.cat-group-header {
+  display: flex; align-items: center; gap: .6rem;
+  margin-bottom: 1rem; padding-bottom: .6rem;
+  border-bottom: 2px solid var(--accent);
+}
+.cat-group-title {
+  font-family: 'Syne', sans-serif; font-size: 1.05rem; font-weight: 700;
+  color: var(--accent2);
+}
+.cat-group-count {
+  background: var(--bg3); border: 1px solid var(--border);
+  border-radius: 20px; padding: .15rem .6rem;
+  font-size: .72rem; color: var(--muted);
+}
+
+/* FAV CARD */
+.fav-card {
+  background: var(--card-gradient);
+  border: 1px solid var(--border);
+  border-radius: 14px; padding: 1.25rem 1.4rem;
+  margin-bottom: 1rem;
+  transition: border-color .2s, box-shadow .2s;
+  display: flex; flex-direction: column; gap: .7rem;
+  position: relative;
+}
+.fav-card:hover { border-color: var(--accent2); box-shadow: 0 4px 20px rgba(124,58,237,.1); }
+.fav-card.hidden { display: none; }
+
+.fav-card-top { display: flex; align-items: flex-start; gap: .75rem; }
+.fav-title-wrap { flex: 1; }
+.fav-title {
+  font-family: 'Syne', sans-serif; font-size: 1.05rem; font-weight: 700;
+  line-height: 1.3; margin-bottom: .4rem; color: var(--text);
+}
+.fav-meta { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; }
+.fav-tag {
+  background: var(--bg3); border: 1px solid var(--border);
+  border-radius: 20px; padding: .15rem .55rem;
+  font-size: .68rem; color: var(--muted);
+}
+.fav-tag.main { border-color: var(--accent); color: var(--accent2); background: rgba(124,58,237,.1); }
+.fav-chip { font-size: .7rem; color: var(--muted); }
+
+.fav-card-actions { display: flex; gap: .5rem; flex-shrink: 0; }
+.fav-go-btn {
+  display: flex; align-items: center; gap: .3rem;
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent2) 100%);
+  border: none; border-radius: 8px; padding: .4rem .9rem;
+  font-size: .78rem; font-weight: 700; color: #fff;
+  text-decoration: none; cursor: pointer; white-space: nowrap;
+  box-shadow: 0 2px 10px rgba(124,58,237,.3); transition: opacity .2s;
+}
+.fav-go-btn:hover { opacity: .88; }
+.fav-remove-btn {
+  background: transparent; border: 1px solid var(--border);
+  border-radius: 8px; padding: .4rem .7rem;
+  font-size: .78rem; color: var(--muted); cursor: pointer;
+  transition: all .18s;
+}
+.fav-remove-btn:hover { border-color: #ef4444; color: #ef4444; }
+
+.fav-summary {
+  background: var(--bg3); border-left: 3px solid var(--accent2);
+  border-radius: 0 8px 8px 0; padding: .7rem .9rem;
+  font-size: .88rem; line-height: 1.65; color: var(--text);
+}
+.fav-summary-label {
+  font-size: .65rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .1em; color: var(--accent2); margin-bottom: .3rem;
+  display: flex; align-items: center; gap: .3rem;
+}
+.fav-added { font-size: .68rem; color: var(--muted); margin-top: .1rem; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="../index.html" class="nav-logo">📚 KB</a>
+  <ul class="nav-cats">
+    
+    <li class="nav-item">
+      <a href="#">📢 Реклама
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/Ads/AffiliateMarketing/index.html">AffiliateMarketing</a>
+        
+        <a href="../catalog/Ads/FacebookAds/index.html">FacebookAds</a>
+        
+        <a href="../catalog/Ads/InstagramMarketing/index.html">InstagramMarketing</a>
+        
+        <a href="../catalog/Ads/PPC/index.html">PPC</a>
+        
+        <a href="../catalog/Ads/SocialMediaMarketing/index.html">SocialMediaMarketing</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="#">💼 Бизнес
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/Business/AIforSmallBusiness/index.html">AIforSmallBusiness</a>
+        
+        <a href="../catalog/Business/Business_Ideas/index.html">Business_Ideas</a>
+        
+        <a href="../catalog/Business/EmailMarketing/index.html">EmailMarketing</a>
+        
+        <a href="../catalog/Business/SEO/index.html">SEO</a>
+        
+        <a href="../catalog/Business/bigseo/index.html">bigseo</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="#">✍️ Контент
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/Content/ContentCreation/index.html">ContentCreation</a>
+        
+        <a href="../catalog/Content/blogging/index.html">blogging</a>
+        
+        <a href="../catalog/Content/copywriting/index.html">copywriting</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="#">💰 Доход
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/Income/OnlineIncomeHustle/index.html">OnlineIncomeHustle</a>
+        
+        <a href="../catalog/Income/passive_income/index.html">passive_income</a>
+        
+        <a href="../catalog/Income/sidehustle/index.html">sidehustle</a>
+        
+        <a href="../catalog/Income/thesidehustle/index.html">thesidehustle</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="#">📈 Маркетинг
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/Marketing/AskMarketing/index.html">AskMarketing</a>
+        
+        <a href="../catalog/Marketing/DigitalMarketing/index.html">DigitalMarketing</a>
+        
+        <a href="../catalog/Marketing/GrowthHacking/index.html">GrowthHacking</a>
+        
+        <a href="../catalog/Marketing/LeadGeneration/index.html">LeadGeneration</a>
+        
+        <a href="../catalog/Marketing/TechSEO/index.html">TechSEO</a>
+        
+        <a href="../catalog/Marketing/advertising/index.html">advertising</a>
+        
+        <a href="../catalog/Marketing/content_marketing/index.html">content_marketing</a>
+        
+        <a href="../catalog/Marketing/digital_marketing/index.html">digital_marketing</a>
+        
+        <a href="../catalog/Marketing/growmybusiness/index.html">growmybusiness</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="#">🚀 SaaS
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/SaaS/buildinpublic/index.html">buildinpublic</a>
+        
+        <a href="../catalog/SaaS/indiebiz/index.html">indiebiz</a>
+        
+        <a href="../catalog/SaaS/indiehackers/index.html">indiehackers</a>
+        
+        <a href="../catalog/SaaS/microsaas/index.html">microsaas</a>
+        
+        <a href="../catalog/SaaS/saas/index.html">saas</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="#">⚡ Стартапы
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/Startups/Entrepreneur/index.html">Entrepreneur</a>
+        
+        <a href="../catalog/Startups/SweatyStartup/index.html">SweatyStartup</a>
+        
+        <a href="../catalog/Startups/sideproject/index.html">sideproject</a>
+        
+        <a href="../catalog/Startups/smallbusiness/index.html">smallbusiness</a>
+        
+        <a href="../catalog/Startups/startups/index.html">startups</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="#">📊 Трейдинг
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/Trading/Daytrading/index.html">Daytrading</a>
+        
+        <a href="../catalog/Trading/Forex/index.html">Forex</a>
+        
+        <a href="../catalog/Trading/FuturesTrading/index.html">FuturesTrading</a>
+        
+        <a href="../catalog/Trading/OrderFlow_Trading/index.html">OrderFlow_Trading</a>
+        
+        <a href="../catalog/Trading/RealDayTrading/index.html">RealDayTrading</a>
+        
+        <a href="../catalog/Trading/TechnicalAnalysis/index.html">TechnicalAnalysis</a>
+        
+        <a href="../catalog/Trading/swingtrading/index.html">swingtrading</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="#">▶️ YouTube
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        
+        <a href="../catalog/YouTube/NewTubers/index.html">NewTubers</a>
+        
+        <a href="../catalog/YouTube/PartneredYoutube/index.html">PartneredYoutube</a>
+        
+        <a href="../catalog/YouTube/SmallYoutubers/index.html">SmallYoutubers</a>
+        
+        <a href="../catalog/YouTube/YouTube_startups/index.html">YouTube_startups</a>
+        
+        <a href="../catalog/YouTube/youtubecreators/index.html">youtubecreators</a>
+        
+        <a href="../catalog/YouTube/youtubers/index.html">youtubers</a>
+        
+      </div>
+    </li>
+    
+    <li class="nav-item">
+      <a href="index.html" class="nav-fav">★ Избранное</a>
+    </li>
+  </ul>
+  <div class="nav-right">
+    <button class="theme-btn" onclick="toggleTheme()">☀️ / 🌙</button>
+  </div>
+</nav>
+
+<div class="page-header">
+  <div>
+    <div class="page-title"><span class="star">★</span> Избранное</div>
+    <div class="page-subtitle">Сохранённые посты из разных категорий</div>
+  </div>
+  <div class="page-actions">
+    <span class="fav-count" id="favCount">0 постов</span>
+    <button class="btn-export" onclick="exportData()">📤 Экспорт</button>
+    <button class="btn-import" onclick="document.getElementById('importFileInput').click()">📥 Импорт</button>
+    <input type="file" id="importFileInput" accept=".json" style="display:none" onchange="importData(event)">
+    <button class="btn-clear-all" onclick="clearAll()">🗑 Очистить всё</button>
+  </div>
+</div>
+
+<div class="fav-filters">
+  <span style="font-size:.72rem;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.05em">Категории:</span>
+  <div id="catFilters"></div>
+  <div class="fav-search">
+    <span class="ico">🔍</span>
+    <input type="text" id="favSearch" placeholder="Поиск по избранному..." oninput="filterFavs()">
+  </div>
+</div>
+
+<div class="fav-content" id="favContent">
+  <div class="empty-state" id="emptyState">
+    <div class="empty-icon">☆</div>
+    <h3>Избранное пусто</h3>
+    <p>Нажмите «В избранное» под любым постом<br>и он появится здесь</p>
+  </div>
+</div>
+
+<script>
+const FAV_KEY = 'kb_favorites';
+function getFavorites() { try { return JSON.parse(localStorage.getItem(FAV_KEY) || '[]'); } catch { return []; } }
+function saveFavorites(f) { localStorage.setItem(FAV_KEY, JSON.stringify(f)); }
+
+// Theme
+function toggleTheme() {
+  const next = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+  document.documentElement.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
+}
+(function(){ document.documentElement.setAttribute('data-theme', localStorage.getItem('theme') || 'dark'); })();
+
+// Megamenu
+document.querySelectorAll('.nav-item').forEach(item => {
+  const link = item.querySelector(':scope > a');
+  if (!link) return;
+  link.addEventListener('click', e => {
+    if (item.querySelector('.dropdown')) {
+      e.preventDefault();
+      const isOpen = item.classList.contains('open');
+      document.querySelectorAll('.nav-item.open').forEach(i => i.classList.remove('open'));
+      if (!isOpen) item.classList.add('open');
+    }
+  });
+});
+document.addEventListener('click', e => {
+  if (!e.target.closest('.nav-item')) document.querySelectorAll('.nav-item.open').forEach(i => i.classList.remove('open'));
+});
+
+let activeCategory = null;
+
+function formatDate(ts) {
+  if (!ts) return '';
+  const d = new Date(ts);
+  return d.toLocaleDateString('ru-RU', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+function removeFav(id) {
+  const favs = getFavorites().filter(f => f.id !== id);
+  saveFavorites(favs);
+  renderFavs();
+}
+
+function clearAll() {
+  if (confirm('Удалить все посты из избранного?')) {
+    saveFavorites([]);
+    renderFavs();
+  }
+}
+
+function buildCatFilters(favs) {
+  const container = document.getElementById('catFilters');
+  const cats = [...new Set(favs.map(f => f.category))];
+  container.innerHTML = '';
+
+  const allBtn = document.createElement('button');
+  allBtn.className = 'fav-filter-btn' + (!activeCategory ? ' active' : '');
+  allBtn.textContent = 'Все';
+  allBtn.onclick = () => { activeCategory = null; document.querySelectorAll('.fav-filter-btn').forEach(b => b.classList.remove('active')); allBtn.classList.add('active'); filterFavs(); };
+  container.appendChild(allBtn);
+
+  cats.forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'fav-filter-btn' + (activeCategory === cat ? ' active' : '');
+    btn.textContent = (favs.find(f => f.category === cat)?.category_icon || '') + ' ' + (favs.find(f => f.category === cat)?.category_label || cat);
+    btn.onclick = () => {
+      activeCategory = activeCategory === cat ? null : cat;
+      document.querySelectorAll('.fav-filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.toggle('active', !!activeCategory);
+      if (!activeCategory) allBtn.classList.add('active');
+      filterFavs();
+    };
+    container.appendChild(btn);
+  });
+}
+
+function filterFavs() {
+  const query = document.getElementById('favSearch').value.trim().toLowerCase();
+  let visible = 0;
+  document.querySelectorAll('.fav-card').forEach(card => {
+    const catOk = !activeCategory || card.dataset.category === activeCategory;
+    const text = card.textContent.toLowerCase();
+    const searchOk = !query || text.includes(query);
+    const show = catOk && searchOk;
+    card.classList.toggle('hidden', !show);
+    if (show) visible++;
+  });
+  // Show/hide group headers
+  document.querySelectorAll('.cat-group').forEach(group => {
+    const anyVisible = [...group.querySelectorAll('.fav-card')].some(c => !c.classList.contains('hidden'));
+    group.style.display = anyVisible ? '' : 'none';
+  });
+  document.getElementById('favCount').textContent = visible + ' постов';
+}
+
+function renderFavs() {
+  const favs = getFavorites();
+  const container = document.getElementById('favContent');
+  const empty = document.getElementById('emptyState');
+
+  if (favs.length === 0) {
+    container.innerHTML = '';
+    container.appendChild(empty);
+    document.getElementById('favCount').textContent = '0 постов';
+    document.getElementById('catFilters').innerHTML = '';
+    return;
+  }
+
+  buildCatFilters(favs);
+
+  // Group by category
+  const groups = {};
+  favs.forEach(fav => {
+    const key = fav.category;
+    if (!groups[key]) groups[key] = { label: fav.category_label, icon: fav.category_icon || '', items: [] };
+    groups[key].items.push(fav);
+  });
+
+  container.innerHTML = '';
+
+  Object.entries(groups).forEach(([catKey, group]) => {
+    const groupEl = document.createElement('div');
+    groupEl.className = 'cat-group';
+
+    groupEl.innerHTML = `
+      <div class="cat-group-header">
+        <div class="cat-group-title">${group.icon} ${group.label}</div>
+        <span class="cat-group-count">${group.items.length}</span>
+      </div>`;
+
+    group.items.forEach(fav => {
+      const tags = fav.tags || [];
+      const tagsHtml = tags.map((t, i) =>
+        `<span class="fav-tag ${i === 0 ? 'main' : ''}">${t}</span>`).join('');
+
+      const card = document.createElement('div');
+      card.className = 'fav-card';
+      card.dataset.category = catKey;
+      card.dataset.id = fav.id;
+
+      card.innerHTML = `
+        <div class="fav-card-top">
+          <div class="fav-title-wrap">
+            <div class="fav-title">${fav.title}</div>
+            <div class="fav-meta">
+              ${tagsHtml}
+              <span class="fav-chip">👍 ${fav.score || 0}</span>
+              <span class="fav-chip">📁 ${fav.subreddit}</span>
+            </div>
+          </div>
+          <div class="fav-card-actions">
+            <a href="../catalog/${fav.category}/${fav.subreddit}/index.html#post-${fav.pid}" class="fav-go-btn">↗ Перейти к посту</a>
+            <button class="fav-remove-btn" onclick="removeFav('${fav.id}')">✕</button>
+          </div>
+        </div>
+        ${fav.summary_short ? `
+        <div class="fav-summary">
+          <div class="fav-summary-label">✨ AI-саммари</div>
+          ${fav.summary_short}
+        </div>` : ''}
+        <div class="fav-added">Добавлено: ${formatDate(fav.added)}</div>`;
+
+      groupEl.appendChild(card);
+    });
+
+    container.appendChild(groupEl);
+  });
+
+  document.getElementById('favCount').textContent = favs.length + ' постов';
+  filterFavs();
+}
+
+renderFavs();
+</script>
+</body>
+</html><!-- TOAST -->
+<div class="toast" id="toast"></div>
+
+<script>
+function showToast(msg, type = 'success') {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.className = 'toast ' + type + ' show';
+  setTimeout(() => t.classList.remove('show'), 3000);
+}
+
+function exportData() {
+  const data = { version: 1, exported: new Date().toISOString(), items: {} };
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i);
+    if (key && key.startsWith('kb_')) {
+      try { data.items[key] = JSON.parse(localStorage.getItem(key)); }
+      catch { data.items[key] = localStorage.getItem(key); }
+    }
+  }
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const date = new Date().toISOString().slice(0, 10);
+  a.href = url; a.download = `kb_export_${date}.json`;
+  a.click(); URL.revokeObjectURL(url);
+  showToast('✅ Экспорт выполнен');
+}
+
+function importData(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const data = JSON.parse(e.target.result);
+      if (!data.version || !data.items) throw new Error('Неверный формат файла');
+      let count = 0;
+      Object.entries(data.items).forEach(([key, val]) => {
+        localStorage.setItem(key, typeof val === 'string' ? val : JSON.stringify(val));
+        count++;
+      });
+      event.target.value = '';
+      showToast(`✅ Импортировано ${count} ключей`);
+      renderFavs();
+    } catch(err) {
+      showToast('❌ Ошибка: ' + err.message, 'error');
+    }
+  };
+  reader.readAsText(file);
+}
+</script>

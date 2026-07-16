@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Лучшие посты Reddit на русском",
+    "categories_count": 1,
+    "subreddits_count": 1,
+    "last_updated": "2026-07-15"
+  },
+  "reddit": {
+    "id": "AI",
+    "title": "AI",
+    "description": "",
+    "subreddits": [
+      {
+        "id": "creators",
+        "title": "creators",
+        "description": "",
+        "posts": [
+          {
+            "id": "1uvka25",
+            "title": "Title: If you were starting from scratch in 2026, which platform would you choose and why?",
+            "score": 4,
+            "comments_count": 5,
+            "date": "2026-07-13",
+            "content_en": "I'm thinking about getting back into content creation but I'm not sure where I should focus my time. I had a YouTube channel that I stopped uploading to about a year ago. Now I'm debating whether to revive it or just start fresh.\n\nI have a few ideas, but I haven't settled on a single niche yet. My goal isn't to go viral overnight but rather build something  that could eventually become a source of income alongside university.\n\nIf you were in my position:\n\n\\- Which platform would you focus on first: YouTube, Instagram, TikTok, or something else?\n\n\\- Would you create both short-form and long-form content from the beginning, or focus on just one first?\n\n\\- Is it a good idea to post the same content across multiple platforms, or should each platform get its own version?\n\n\\- Would you restart the old YouTube channel with new branding or create a completely new one?\n\nI'd really appreciate advice from people who've actually gone through this or are currently building a creator business. I'd rather learn from real experiences than spend months figuring everything out by trial and error.\n\nPs : I won't be replying till tomorrow at 8:00 am because I am sleeping now. I humbly apologise in advance😔🙏",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/creators/comments/1uvka25/title_if_you_were_starting_from_scratch_in_2026/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Я подумываю о том, чтобы вернуться к созданию контента, но не уверен, на чем мне следует сосредоточить свое время.У меня был канал на YouTube, который я перестал загружать около года назад.Сейчас думаю, возродить его или начать заново.\n\nУ меня есть несколько идей, но я еще не остановился на какой-то одной нише.Моя цель — не стать вирусным в одночасье, а скорее создать что-то, что в конечном итоге могло бы стать источником дохода наряду с университетом.\n\nЕсли бы вы были на моем месте:\n\n\\- На какой платформе вы бы сосредоточились в первую очередь: YouTube, Instagram, TikTok или что-то еще?\n\n\\- Вы бы с самого начала создавали как короткий, так и длинный контент или сначала сосредоточились только на одном?\n\n\\- Хорошая ли идея публиковать один и тот же контент на нескольких платформах или каждая платформа должна иметь свою собственную версию?\n\n\\- Вы бы перезапустили старый канал YouTube с новым брендом или создали совершенно новый?\n\nЯ бы очень признателен за советы от людей, которые действительно прошли через это или сейчас строят творческий бизнес.Я предпочитаю учиться на реальном опыте, чем тратить месяцы на то, чтобы все выяснить методом проб и ошибок.\n\nP.S. Я не буду отвечать до завтра в 8:00, потому что сейчас сплю.Заранее смиренно извиняюсь😔🙏",
+            "title_ru": "Название: Если бы вы начинали с нуля в 2026 году, какую платформу вы бы выбрали и почему?",
+            "ai_summary_ru": "Я подумываю о том, чтобы вернуться к созданию контента, но не уверен, на чем мне следует сосредоточить свое время."
+          },
+          {
+            "id": "1uwc5oi",
+            "title": "How do you monetize your content? How many of you sell courses, digital products or coach clients?",
+            "score": 2,
+            "comments_count": 14,
+            "date": "2026-07-14",
+            "content_en": "Basically what I wrote in the title.  \nDo you offer your own online/digital products and services, or you mostly work with brands?\n\nI know it’s different for everyone, but I just want to hear how you monetize.",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/creators/comments/1uwc5oi/how_do_you_monetize_your_content_how_many_of_you/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "В общем, то, что я написал в заголовке.\nПредлагаете ли вы собственные онлайн-/цифровые продукты и услуги или в основном работаете с брендами?\n\nЯ знаю, что у всех это по-разному, но я просто хочу услышать, как вы монетизируете.",
+            "title_ru": "Как вы монетизируете свой контент?Кто из вас продает курсы, цифровые продукты или консультирует клиентов?",
+            "ai_summary_ru": "Практический опыт и инсайты автора в своей области."
+          },
+          {
+            "id": "1uvk4bn",
+            "title": "Designed a print-magazine inspired editorial portfolio system for creators. What do you think of the visual hierarchy?",
+            "score": 2,
+            "comments_count": 1,
+            "date": "2026-07-13",
+            "content_en": "Hey everyone,\n\nI’ve been working on a new portfolio framework aimed at creators and freelancers who want to pitch to premium, high-end brands. I felt like a lot of existing templates are a bit too chaotic, so I wanted to build something heavily inspired by clean, editorial print design.\n\n**The goals for this layout were:**\n\n* **High-End Typography:** Focusing on stark serif headers to give off a luxury agency feel.\n* **Frictionless Scannability:** Organizing the video showcases, pricing packages, and philosophy into distinct, highly digestible visual cards.\n* **Adaptability:** Making sure the system looks striking across different aesthetics (I built 4 distinct colorways: Charcoal, Espresso, Merlot, and Midnight).\n\nI wanted to get some eyes on the visual hierarchy and pacing of the layout. Does the grid setup feel intuitive for a brand manager to review? Would love any brutally honest feedback on the typography or spacing!",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/creators/comments/1uvk4bn/designed_a_printmagazine_inspired_editorial/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Привет всем,\n\nЯ работаю над новой структурой портфолио, предназначенной для авторов и фрилансеров, которые хотят работать с премиальными и элитными брендами.Мне показалось, что многие существующие шаблоны слишком хаотичны, поэтому я хотел создать что-то, вдохновленное чистым редакционным печатным дизайном.\n\n**Цели создания этого макета:**\n\n* **Высококачественная типографика.** Акцент на четких заголовках с засечками, которые создают атмосферу роскошного агентства.\n* **Удобство сканирования.** Организация видеопрезентаций, ценовых пакетов и философии в отдельных, легко усваиваемых визуальных карточках.\n* **Адаптируемость.** Убедитесь, что система выглядит эффектно в различных эстетических вариантах (я создал 4 различных цветовых решения: «угольный», «эспрессо», «мерло» и «полуночный»).\n\nЯ хотел взглянуть на визуальную иерархию и темп макета.Насколько интуитивно понятна настройка сетки для бренд-менеджера?Буду рад любым откровенно честным отзывам о типографике и интервалах!",
+            "title_ru": "Разработана система редакционного портфолио для авторов, вдохновленная печатными журналами.Что вы думаете о визуальной иерархии?",
+            "ai_summary_ru": "Привет всем,\n\nЯ работаю над новой структурой портфолио, предназначенной для авторов и фрилансеров, которые хотят работать с премиальными и элитными брендами."
+          }
+        ]
+      }
+    ]
+  }
+}
