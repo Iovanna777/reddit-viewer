@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Лучшие посты Reddit на русском",
+    "categories_count": 1,
+    "subreddits_count": 1,
+    "last_updated": "2026-07-15"
+  },
+  "reddit": {
+    "id": "AI",
+    "title": "AI",
+    "description": "",
+    "subreddits": [
+      {
+        "id": "AI_Agents",
+        "title": "AI_Agents",
+        "description": "",
+        "posts": [
+          {
+            "id": "1uw64ty",
+            "title": "My coworker let an AI agent handle Slack replies while he was \"unavailable.\" It did not go well.",
+            "score": 99,
+            "comments_count": 54,
+            "date": "2026-07-14",
+            "content_en": "He set it up to auto-respond to Slack messages in his voice while he was heads-down on a project. Someone asked him a genuinely important question about a client deadline, and the agent gave a confident, plausible-sounding answer that was completely wrong no such deadline extension had actually been agreed.\n\nNobody double-checked because the reply sounded exactly like him. It got sorted out, but it made me realize how much we're starting to trust tone and fluency as a proxy for accuracy.\n\nAnyone else seen an agent's confidence outrun its actual correctness like this?",
+            "original_url": "https://www.reddit.com/r/AI_Agents/comments/1uw64ty/my_coworker_let_an_ai_agent_handle_slack_replies/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Он настроил автоответ на сообщения Slack от его имени, пока был погружён в проект. Кому-то задали действительно важный вопрос о крайнем сроку клиента, и агент дал уверенный, правдоподобно звучащий ответ, который оказался **полностью неправильным** — такой продление сроков не давалось.\n\nНикто не проверил, потому что ответ звучал **точно как от него**. Всё разрешилось, но я понял, как сильно мы начинаем доверять **тону и беглости речи** вместо точности.\n\n**Кто-нибудь ещё видел, как уверенность агента обогнала его реальную корректность?**",
+            "comments_ru": [
+              {
+                "author": "ArgonWilde",
+                "score": 74,
+                "date": "2026-07-14",
+                "text_ru": "**Режьте уже, брат. Это называется галлюцинация, и AI очень известны для этого...**"
+              }
+            ],
+            "title_ru": "Мой коллега позволил агенту искусственного интеллекта обрабатывать ответы Slack, пока он был «недоступен».Все прошло не очень хорошо.",
+            "ai_summary_ru": "Он настроил его так, чтобы он автоматически отвечал на сообщения Slack своим голосом, пока был занят проектом."
+          },
+          {
+            "id": "1uvl9ym",
+            "title": "If you were starting an AI project from scratch today, what tools would you use?",
+            "score": 92,
+            "comments_count": 68,
+            "date": "2026-07-13",
+            "content_en": "I've got a few months off work and decided the best way to learn AI is to build something instead of watching tutorials.\n\nIf you were starting from scratch today, what tools would you use and why?\n\nCould be LLMs, coding tools, UI frameworks, databases, agent frameworks, or anything else you think is worth learning.\n\nWhat's something you discovered and immediately thought, \"This is awesome\"?!",
+            "original_url": "https://www.reddit.com/r/AI_Agents/comments/1uvl9ym/if_you_were_starting_an_ai_project_from_scratch/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "У меня несколько месяцев свободного времени от работы, и я решил, что лучший способ выучить AI — это **создать что-то**, вместо просмотра туториалов.\n\n**Если бы вы начинали с нуля сегодня, какие инструменты использовали бы и почему?**\n\nЭто может быть LLMs, инструменты для кодирования, UI-фреймворки, базы данных, фреймворки для агентов или любой другой инструмент, который стоит изучить.\n\n**Что-нибудь вы нашли и сразу подумали «Это потрясающе»?**",
+            "comments_ru": [
+              {
+                "author": "uncertain_dev",
+                "score": 29,
+                "date": "2026-07-13",
+                "text_ru": "Мой стандартный стек инструментов такой:\n\n**Для разработки:**\n- **Claude Code** — для написания кода, в основном с Opus, высокий уровень усилий. Плюс Cursor (бесплатный тариф), только для мелких правок.\n- **Supabase** — для аутентификации и всех нужд базы данных\n- **React** — для всех потребностей UI\n- **Agent frameworks** — пока ничего особенного, мои кейсы не оправдывают сложное. Базовый Python + OpenAI client + Supabase для persistence справляются на ура.\n- **Поставщик LLM** — OpenRouter, так как часто имеют бесплатные модели для игр и дешевле альтернатив вроде GLM 5.2 или DeepSeek V4. Иначе любой стандартный продавец — OpenAI, Anthropic или другие.\n\n**Для развёртываний:**\n- **GCP** — в основном потому, что cloud run довольно дёшево, бесплатно когда не используется\n- **Supabase cloud** — хороший бесплатный тариф\n- **Cloudflare** — для хостинга статических файлов, например React frontend, тоже отличный бесплатный тариф\n- **Sentry** — тоже бесплатно, помогает дебажить ваши облачные развёртывания"
+              }
+            ],
+            "title_ru": "Если бы вы сегодня начинали проект ИИ с нуля, какие инструменты вы бы использовали?",
+            "ai_summary_ru": "У меня есть несколько месяцев отпуска, и я решил, что лучший способ изучить ИИ — это создать что-нибудь, а не смотреть обучающие материалы."
+          },
+          {
+            "id": "1utc8ea",
+            "title": "i was addicted to building instead of growing",
+            "score": 78,
+            "comments_count": 44,
+            "date": "2026-07-11",
+            "content_en": "i'm a freelancer and solo developer. i've launched 4 or 5 products, and every single one failed. looking back, i wasted a lot of time and money, but not because i couldn't build. i spent almost all of my time building and almost no time on distribution or marketing. i think that's the biggest lesson i've learned. in the ai era, building a web app, mobile app, or any digital product isn't the hard part anymore. the hard part is getting people to find it, trust it, and actually use it.\n\ni'm honestly addicted to building. i love tools like claude and codex, i pay for the highest plans, run multiple agents and sub agents, and keep building things that i think are cool. the problem is, people don't care how cool your product is if it doesn't solve a problem they already have. i was building for myself instead of building for an audience.\n\nanother mistake i made was spending hours every day reading ai news, trying every new model, and testing every new feature. i told myself i was staying ahead, but most of those things never helped my business. i was just burning time and money because i didn't want to miss anything. looking back, i should have spent that time talking to users instead.\n\nnow i'm forcing myself to focus on distribution, personal branding, and solving real problems. i don't think finding ideas is actually hard. just observe what people are talking about. read comments. spend time in reddit communities. people complain about their problems every day, and those complaints are often better than any startup idea list.\n\ni also think hardest jon in this time is  thinking. it's staying focused when there's a new ai model every week and endless content to consume. maybe that's why so many people spend hours scrolling tiktok and instagram instead of creating something. i'm trying to stop chasing every shiny new thing and start building things that people actually want.",
+            "original_url": "https://www.reddit.com/r/AI_Agents/comments/1utc8ea/i_was_addicted_to_building_instead_of_growing/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Я фрилансер и сольный разработчик. Я запустил **4-5 продуктов**, и каждый из них провалился. Подумав назад, я потратил кучу времени и денег, но не потому, что не мог их создавать. Я провёл почти всё время на сборке и почти не уделял внимание дистрибуции или маркетингу. Думаю, это **самый главный урок**, который вынес.\n\nВ эпоху AI создание веб-приложения, мобильного приложения или любого цифрового продукта больше не является сложной частью. Сложность — **заставить людей найти его, довериться ему и реально использовать**.\n\nЧестно говоря, я **злоумышленно зависим от сборки**. Я люблю такие инструменты, как Claude и Codex, плачу за самые высокие тарифы, запускаю многочисленные агентов и суб-агентов, создаю всё, что мне кажется крутым. Проблема в том, что люди не интересуются тем, насколько крут ваш продукт, если он не решает их **реальную проблему**. Я создавал для себя, а не для аудитории.\n\nДругой мой промах — тратил часы каждый день на чтение AI-новостей, попробовать каждую новую модель и протестировать каждую новую фичу. Я говорил себе, что остаюсь в тренде, но большинство этих вещей не помогло моему бизнесу. Я просто сжигал время и деньги, потому что не хотел пропустить ничего. Подумав назад, я должен был уделить это время разговорам с пользователями.\n\nТеперь я **внушаю себе фокус на дистрибуцию, персональный бренд и решение реальных проблем**. Думаю, что находить идеи **не так сложно**. Наблюдайте, о чём люди говорят. Читайте комментарии. Проводите время в Reddit-сообществах. Люди жалуются на свои проблемы каждый день, и эти жалобы часто лучше любого списка стартап-идей.\n\nТакже я считаю, что **самая сложная часть** — это мышление. Это **стать фокусированным**, когда каждую неделю появляется новая AI-модель и бесконечный контент для потребления. Возможно, поэтому так много людей проводят часы на прокрутке TikTok и Instagram вместо создания чего-либо. Я пытаюсь перестать гоняться за каждым ярким новшеством и начать создавать то, что люди действительно хотят.",
+            "comments_ru": [],
+            "title_ru": "я был пристрастием к строительству, а не к росту",
+            "ai_summary_ru": "Разработка веб-приложения: технологии, решения, опыт."
+          }
+        ]
+      }
+    ]
+  }
+}

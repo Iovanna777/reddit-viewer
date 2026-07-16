@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Просмотр постов — Reddit Summer 2026</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    :root {
+      --bg: #f5f5f7; --bg-secondary: #ebebed; --surface: #ffffff; --surface-2: #f0f0f2;
+      --border: rgba(0,0,0,0.07); --border-strong: rgba(0,0,0,0.13);
+      --text: #111111; --text-2: #555558; --text-3: #8e8e93;
+      --accent: #0a84ff; --accent-dim: rgba(10,132,255,0.10);
+      --green: #30d158; --yellow: #ffd60a; --radius-sm: 8px; --radius-md: 14px; --radius-lg: 20px;
+      --transition: 0.18s cubic-bezier(0.4,0,0.2,1);
+      --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", system-ui, sans-serif;
+      --nav-bg: rgba(245,245,247,0.82);
+    }
+    body.dark { --bg: #111113; --surface: #1c1c1e; --surface-2: #2c2c2e; --border: rgba(255,255,255,0.06); --border-strong: rgba(255,255,255,0.12); --text: #f5f5f7; --text-2: #aeaeb2; --nav-bg: rgba(17,17,19,0.82); }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: var(--font); background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    /* NAV */
+    nav {
+      position: sticky; top: 0; z-index: 200; background: var(--nav-bg);
+      border-bottom: 1px solid var(--border); padding: 0 1.5rem;
+      display: flex; align-items: center; gap: 1rem; height: 52px;
+      overflow: visible; backdrop-filter: blur(16px);
+    }
+    body.dark nav { background: rgba(17,17,19,0.85); }
+    .nav-logo { font-family: 'Space Grotesk',sans-serif; font-weight: 800; font-size: .95rem; color: var(--accent); text-decoration: none; white-space: nowrap; }
+    .nav-cats { display: flex; gap: .1rem; list-style: none; flex: 1; overflow: visible; }
+    .nav-item { position: relative; }
+    .nav-item > a { display: flex; align-items: center; gap: .2rem; padding: .3rem .6rem; border-radius: 6px; font-size: .78rem; font-weight: 500; color: var(--text-2); text-decoration: none; white-space: nowrap; transition: color .2s, background .2s; }
+    .nav-item > a:hover, .nav-item.open > a { color: var(--text); background: var(--surface-2); }
+    .nav-item > a svg { width:10px; height:10px; transition: transform .2s; }
+    .nav-item.open > a svg { transform: rotate(180deg); }
+    .dropdown {
+      display: none; position: absolute; top: calc(100% - 4px); left: 0;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 10px; padding: .5rem; min-width: 180px; box-shadow: 0 8px 32px rgba(0,0,0,.3);
+      z-index: 200;
+    }
+    .nav-item:hover .dropdown, .nav-item.open .dropdown { display: block; }
+    .dropdown a { display: block; padding: .38rem .65rem; font-size: .78rem; color: var(--text-2); text-decoration: none; border-radius: 6px; transition: all .15s; }
+    .dropdown a:hover { color: var(--text); background: var(--surface-2); }
+    .dropdown a.active { color: var(--accent); font-weight: 600; }
+    .nav-right { margin-left: auto; display: flex; align-items: center; gap: .5rem; }
+    .theme-btn { background: var(--surface-2); border: 1px solid var(--border); border-radius: 7px; padding: .28rem .55rem; cursor: pointer; color: var(--text-2); font-size: .75rem; transition: all .2s; }
+    .theme-btn:hover { color: var(--text); border-color: var(--accent); }
+
+    /* BREADCRUMB */
+    .breadcrumb { padding: .55rem 1.5rem; font-size: .75rem; color: var(--text-3); display: flex; align-items: center; gap: .4rem; border-bottom: 1px solid var(--border); background: var(--surface); }
+    .breadcrumb a { color: var(--text-3); text-decoration: none; cursor: pointer; }
+    .breadcrumb a:hover { color: var(--accent); }
+    .breadcrumb span { color: var(--accent); font-weight: 600; }
+
+    /* FILTERS */
+    .filters-bar {
+      background: var(--surface);
+      border-bottom: 2px solid var(--accent);
+      padding: .75rem 1.5rem;
+      display: flex; flex-direction: column; gap: .6rem;
+    }
+    .filter-row { display: flex; align-items: flex-start; gap: .75rem; }
+    .filter-label { font-size: .72rem; color: var(--text-3); font-weight: 600; min-width: 55px; padding-top: .3rem; text-transform: uppercase; letter-spacing: .05em; }
+    .tags-wrap { flex: 1; max-height: 72px; overflow: hidden; position: relative; display: flex; flex-wrap: wrap; gap: .3rem; transition: max-height .3s ease; }
+    .tags-wrap.expanded { max-height: 400px; }
+    .tags-more-btn { background: var(--accent); border: none; border-radius: 20px; padding: .22rem .7rem; font-size: .72rem; color: #fff; cursor: pointer; white-space: nowrap; margin-top: .3rem; transition: opacity .2s; }
+    .tags-more-btn:hover { opacity: .85; }
+    .tag-btn { border: 1px solid var(--border); border-radius: 20px; padding: .22rem .65rem; font-size: .73rem; color: var(--text-2); background: var(--surface-2); cursor: pointer; transition: all .15s; white-space: nowrap; }
+    .tag-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .tag-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+    .filter-controls { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; }
+    select { background: var(--surface-2); border: 1px solid var(--border); border-radius: 7px; padding: .32rem .65rem; font-size: .78rem; color: var(--text); cursor: pointer; outline: none; font-family: inherit; }
+    select:focus { border-color: var(--accent); }
+    .search-wrap { flex: 1; min-width: 200px; position: relative; }
+    .search-wrap input { width: 100%; background: var(--surface-2); border: 1px solid var(--border); border-radius: 7px; padding: .32rem .7rem .32rem 2rem; font-size: .78rem; color: var(--text); outline: none; font-family: inherit; }
+    .search-wrap input:focus { border-color: var(--accent); }
+    .search-wrap .ico { position: absolute; left: .6rem; top: 50%; transform: translateY(-50%); color: var(--text-3); font-size: .82rem; pointer-events: none; }
+    .btn-apply { background: linear-gradient(135deg, var(--accent) 0%, #0066cc 100%); border: none; border-radius: 7px; padding: .38rem 1.1rem; font-size: .82rem; color: #fff; cursor: pointer; font-weight: 700; transition: opacity .2s; white-space: nowrap; box-shadow: 0 2px 12px rgba(10,132,255,.35); }
+    .btn-apply:hover { opacity: .88; }
+    .btn-reset { background: transparent; border: 1px solid var(--border); border-radius: 7px; padding: .38rem .9rem; font-size: .78rem; color: var(--text-3); cursor: pointer; transition: all .2s; white-space: nowrap; }
+    .btn-reset:hover { border-color: var(--accent); color: var(--accent); }
+    .results-count { font-size: .75rem; color: var(--text-3); }
+
+    /* LAYOUT */
+    .layout { display: grid; grid-template-columns: 320px 1fr; }
+
+    /* SIDEBAR */
+    .sidebar {
+      border-right: 1px solid var(--border);
+      padding: 1rem 0; background: var(--surface);
+    }
+    .sidebar-inner {
+      position: sticky; top: 52px; max-height: calc(100vh - 52px);
+      overflow-y: auto;
+    }
+    .sidebar-title { font-size: .68rem; text-transform: uppercase; letter-spacing: .12em; color: var(--accent); font-weight: 700; padding: 0 1rem .6rem; }
+    .toc-item {
+      display: flex; align-items: flex-start; gap: .5rem; padding: .5rem 1rem; cursor: pointer;
+      border-left: 2px solid transparent; transition: all .15s; text-decoration: none;
+    }
+    .toc-item:hover { background: rgba(10,132,255,.08); border-left-color: var(--accent); }
+    .toc-item.active { background: rgba(10,132,255,.1); border-left-color: var(--accent); }
+    .toc-item.read { opacity: .5; }
+    .toc-info { flex: 1; min-width: 0; }
+    .toc-title { font-size: .75rem; color: var(--text); line-height: 1.35; font-weight: 500; display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; box-orient: vertical; overflow: hidden; }
+    .toc-meta { font-size: .65rem; color: var(--text-3); margin-top: .2rem; }
+
+    /* MAIN */
+    .main-content { padding: 2rem 1.75rem; }
+    .no-results { text-align: center; padding: 4rem; color: var(--text-3); }
+
+    /* POST CARD */
+    .post-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 16px; margin-bottom: 2rem; overflow: hidden;
+      transition: border-color .2s, box-shadow .2s; box-shadow: 0 2px 12px rgba(0,0,0,.15);
+    }
+    .post-card:hover { border-color: var(--accent); box-shadow: 0 4px 24px rgba(10,132,255,.12); }
+    .post-card.read { opacity: .75; border-color: var(--accent); }
+    .post-card.hidden { display: none; }
+
+    /* POST HEADER */
+    .post-header { padding: 1.5rem 1.5rem .9rem; display: flex; align-items: flex-start; gap: 1rem; background: linear-gradient(135deg, rgba(10,132,255,.06) 0%, transparent 60%); }
+    .post-title-wrap { flex: 1; }
+    .post-title { font-family: 'Space Grotesk', sans-serif; font-size: 1.4rem; font-weight: 800; line-height: 1.25; margin-bottom: .65rem; color: var(--text); }
+    .post-title mark { background: var(--accent-dim); color: var(--accent); border-radius: 3px; padding: 0 2px; }
+    .post-meta-row { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; margin-bottom: .6rem; }
+    .tag-pill { background: var(--surface-2); border: 1px solid var(--border); border-radius: 20px; padding: .18rem .6rem; font-size: .72rem; color: var(--text-2); font-weight: 500; }
+    .tag-pill.main { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+    .meta-chip { font-size: .73rem; color: var(--text-3); display: flex; align-items: center; gap: .2rem; }
+    .post-actions { display: flex; gap: .5rem; align-items: flex-start; flex-shrink: 0; }
+    .action-btn { display: inline-flex; align-items: center; gap: 6px; padding: 8px 16px; border-radius: 99px; font-size: 0.8rem; font-weight: 600; border: 1.5px solid var(--border-strong); background: transparent; color: var(--text-2); transition: all var(--transition); }
+    .action-btn:hover { border-color: var(--text-2); color: var(--text); background: var(--surface-2); }
+    .btn-source { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+    .btn-source:hover { background: var(--accent); color: #fff; }
+
+    /* AI SUMMARY short */
+    .post-summary { margin: 0 1.5rem 1.25rem; background: var(--surface-2); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 0 10px 10px 0; padding: 1rem 1.1rem; }
+    .summary-label { font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); margin-bottom: .45rem; display: flex; align-items: center; gap: .35rem; }
+    .summary-text { font-size: 1rem; color: var(--text); line-height: 1.7; }
+    .summary-text mark { background: var(--accent-dim); color: var(--accent); border-radius: 3px; padding: 0 2px; }
+
+    /* POST TEXT */
+    .post-text { margin: 0 1.5rem 1.25rem; font-size: 1rem; line-height: 1.85; color: var(--text); }
+    .post-text mark { background: var(--accent-dim); color: var(--accent); border-radius: 3px; padding: 0 2px; }
+    .post-text p { margin-bottom: .6rem; }
+    .post-text strong { color: var(--accent); }
+    .post-text a { color: var(--accent); text-decoration: none; }
+    .post-text a:hover { text-decoration: underline; }
+
+    /* FOOTER */
+    .post-footer { padding: .6rem 1.5rem .8rem; display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; border-top: 1px solid var(--border); }
+    .post-author { font-size: .75rem; color: var(--text-3); }
+
+    /* COMMENTS */
+    .comments-section { padding: 0 1.5rem 1.25rem; }
+    .comments-title { font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; color: var(--text-3); font-weight: 700; margin-bottom: .9rem; padding-bottom: .5rem; border-bottom: 1px solid var(--border); }
+    .comment { border-left: 2px solid var(--border); padding: .65rem 0 .65rem 1rem; margin-bottom: .75rem; transition: border-color .15s; }
+    .comment:hover { border-left-color: var(--accent); }
+    .comment-meta { font-size: .7rem; color: var(--text-3); margin-bottom: .35rem; display: flex; gap: .75rem; align-items: center; }
+    .comment-author { font-weight: 700; color: var(--accent); }
+    .comment-text { font-size: .95rem; line-height: 1.7; }
+    .comment-text mark { background: var(--accent-dim); color: var(--accent); border-radius: 3px; padding: 0 2px; }
+
+    /* READ + NOTES */
+    .post-notes { padding: 1rem 1.5rem 1.5rem; border-top: 1px solid var(--border); }
+    .notes-row { display: flex; align-items: center; gap: .75rem; margin-bottom: .75rem; }
+    .read-toggle { display: flex; align-items: center; gap: .6rem; cursor: pointer; font-size: .85rem; font-weight: 600; color: var(--text-3); user-select: none; background: var(--surface-2); border: 1px solid var(--border); border-radius: 9px; padding: .55rem 1.5rem; transition: all .2s; }
+    .read-toggle:hover { border-color: var(--accent); color: var(--accent); }
+    .post-card.read .read-toggle { background: rgba(10,132,255,.12); border-color: var(--accent); color: var(--accent); }
+    .read-toggle input { width: 16px; height: 16px; accent-color: var(--accent); cursor: pointer; }
+    .notes-input { width: 100%; background: var(--surface-2); border: 1px solid var(--border); border-radius: 9px; padding: .65rem 1rem; font-size: .82rem; color: var(--text); resize: vertical; min-height: 56px; outline: none; font-family: inherit; transition: border-color .2s; }
+    .notes-input:focus { border-color: var(--accent); }
+    .notes-input::placeholder { color: var(--text-3); }
+
+    /* FAVORITE BUTTON */
+    .btn-fav {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      border-radius: 99px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      border: 1px solid var(--yellow);
+      color: var(--yellow);
+      background: transparent;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .btn-fav:hover { background: rgba(255,214,10,.1); }
+    .btn-fav.active { background: rgba(255,214,10,.15); }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="index.html" class="nav-logo">RU</a>
+  <ul class="nav-cats">
+    <li class="nav-item">
+      <a href="#">📢 Реклама
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        <a href="viewer.html?redditId=ads&subredditId=AffiliateMarketing">AffiliateMarketing</a>
+        <a href="viewer.html?redditId=ads&subredditId=FacebookAds">FacebookAds</a>
+        <a href="viewer.html?redditId=ads&subredditId=InstagramMarketing">InstagramMarketing</a>
+        <a href="viewer.html?redditId=ads&subredditId=PPC">PPC</a>
+        <a href="viewer.html?redditId=ads&subredditId=SocialMediaMarketing">SocialMediaMarketing</a>
+      </div>
+    </li>
+
+    <li class="nav-item">
+      <a href="#">💼 Бизнес
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        <a href="viewer.html?redditId=business&subredditId=bigseo">bigseo</a>
+        <a href="viewer.html?redditId=business&subredditId=EmailMarketing">EmailMarketing</a>
+        <a href="viewer.html?redditId=business&subredditId=SEO">SEO</a>
+        <a href="viewer.html?redditId=business&subredditId=smallbusiness">smallbusiness</a>
+        <a href="viewer.html?redditId=business&subredditId=EntrepreneurRideAlong">EntrepreneurRideAlong</a>
+      </div>
+    </li>
+
+    <li class="nav-item">
+      <a href="#">✍️ Контент
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        <a href="viewer.html?redditId=content&subredditId=ContentCreation">ContentCreation</a>
+        <a href="viewer.html?redditId=content&subredditId=blogging">blogging</a>
+        <a href="viewer.html?redditId=content&subredditId=copywriting">copywriting</a>
+        <a href="viewer.html?redditId=content&subredditId=ContentCreators">ContentCreators</a>
+      </div>
+    </li>
+
+    <li class="nav-item">
+      <a href="#">💰 Доход
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        <a href="viewer.html?redditId=income&subredditId=Entrepreneur">Entrepreneur</a>
+        <a href="viewer.html?redditId=income&subredditId=passive_income">passive_income</a>
+        <a href="viewer.html?redditId=income&subredditId=sidehustle">sidehustle</a>
+        <a href="viewer.html?redditId=income&subredditId=WorkOnline">WorkOnline</a>
+      </div>
+    </li>
+
+    <li class="nav-item">
+      <a href="#">📈 Маркетинг
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        <a href="viewer.html?redditId=marketing&subredditId=DigitalMarketing">DigitalMarketing</a>
+        <a href="viewer.html?redditId=marketing&subredditId=GrowthHacking">GrowthHacking</a>
+        <a href="viewer.html?redditId=marketing&subredditId=LeadGeneration">LeadGeneration</a>
+        <a href="viewer.html?redditId=marketing&subredditId=AskMarketing">AskMarketing</a>
+        <a href="viewer.html?redditId=marketing&subredditId=advertising">advertising</a>
+        <a href="viewer.html?redditId=marketing&subredditId=content_marketing">content_marketing</a>
+        <a href="viewer.html?redditId=marketing&subredditId=ecommerce">ecommerce</a>
+        <a href="viewer.html?redditId=marketing&subredditId=growmybusiness">growmybusiness</a>
+      </div>
+    </li>
+
+    <li class="nav-item">
+      <a href="#">🚀 SaaS
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        <a href="viewer.html?redditId=saas&subredditId=SaaS">SaaS</a>
+        <a href="viewer.html?redditId=saas&subredditId=microsaas">microsaas</a>
+        <a href="viewer.html?redditId=saas&subredditId=indiehackers">indiehackers</a>
+        <a href="viewer.html?redditId=saas&subredditId=IndieDev">IndieDev</a>
+      </div>
+    </li>
+
+    <li class="nav-item">
+      <a href="#">⚡ Стартапы
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        <a href="viewer.html?redditId=startups&subredditId=startups">startups</a>
+        <a href="viewer.html?redditId=startups&subredditId=Entrepreneur">Entrepreneur</a>
+        <a href="viewer.html?redditId=startups&subredditId=sideproject">sideproject</a>
+        <a href="viewer.html?redditId=startups&subredditId=SweatyStartup">SweatyStartup</a>
+      </div>
+    </li>
+
+    <li class="nav-item">
+      <a href="#">🧠 AI
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown" id="ai-dropdown"></div>
+    </li>
+
+    <li class="nav-item">
+      <a href="#">▶️ YouTube
+        <svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 1l4 4 4-4"/></svg>
+      </a>
+      <div class="dropdown">
+        <a href="viewer.html?redditId=youtube&subredditId=NewTubers">NewTubers</a>
+        <a href="viewer.html?redditId=youtube&subredditId=PartneredYoutube">PartneredYoutube</a>
+        <a href="viewer.html?redditId=youtube&subredditId=VideoEditing">VideoEditing</a>
+        <a href="viewer.html?redditId=youtube&subredditId=youtubecreators">youtubecreators</a>
+        <a href="viewer.html?redditId=youtube&subredditId=Creator">Creator</a>
+      </div>
+    </li>
+
+    <li class="nav-item"><a href="favorites/index.html" style="color:#ffd60a;font-weight:700;">★ Избранное</a></li>
+  </ul>
+  <div class="nav-right">
+    <button class="theme-btn" onclick="toggleTheme()">☀️ / 🌙</button>
+  </div>
+</nav>
+
+<div class="breadcrumb" id="breadcrumb">
+  <a onclick="location.href='index.html'">Главная</a> › <span id="bc-cat"></span> › <span id="bc-sub"></span>
+</div>
+
+<!-- SUBREDDIT TABS -->
+<div class="sub-tabs" id="subTabs" style="background: var(--surface); border-bottom: 1px solid var(--border); padding: .6rem 1.5rem; display: none;">
+  <div style="display: flex; gap: .5rem; flex-wrap: wrap; align-items: center;">
+    <span style="font-size: .72rem; color: var(--text-3); font-weight: 600; text-transform: uppercase; letter-spacing: .05em;">Сабреддиты:</span>
+    <div id="subTabsList"></div>
+  </div>
+</div>
+
+<div class="filters-bar" id="filters-bar" style="display:none">
+  <div class="filter-row">
+    <span class="filter-label">Теги</span>
+    <div class="tags-wrap" id="tagsWrap"></div>
+  </div>
+  <div class="filter-row filter-controls">
+    <span class="filter-label">Сортировка</span>
+    <select id="sortDir">
+      <option value="desc">↓ Апвоты: больше</option>
+      <option value="asc">↑ Апвоты: меньше</option>
+    </select>
+    <div class="search-wrap">
+      <span class="ico">🔍</span>
+      <input type="text" id="searchInput" placeholder="Поиск по тексту...">
+    </div>
+    <button class="btn-apply" onclick="applyFilters()">Применить</button>
+    <button class="btn-reset" onclick="resetFilters()">Сбросить</button>
+    <span class="results-count" id="resultsCount"></span>
+  </div>
+</div>
+
+<div class="layout">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-title">Содержание</div>
+    <div class="sidebar-inner">
+      <div id="tocList"></div>
+    </div>
+  </aside>
+
+  <main class="main-content" id="mainContent">
+    <div class="no-results" id="noResults">
+      <h3>Пока нет постов</h3>
+      <p>Посты будут добавлены в ближайшее время</p>
+    </div>
+  </main>
+</div>
+
+<script>
+const STORAGE_KEY = 'kb_posts_viewer';
+const FAV_KEY = 'kb_favorites';
+let data = null, activePostId = null, currentCategory = null, currentSubreddit = null;
+let closeTimer = null;
+
+function getUrlParams() {
+  const p = new URLSearchParams(location.search);
+  return { redditId: p.get('redditId'), subredditId: p.get('subredditId') };
+}
+
+function toggleTheme() {
+  const isDark = document.body.classList.contains('dark');
+  document.body.classList.toggle('dark', !isDark);
+  localStorage.setItem('kb_theme', isDark ? 'light' : 'dark');
+}
+if (localStorage.getItem('kb_theme') === 'dark') document.body.classList.add('dark');
+
+// Theme button icon
+document.addEventListener('DOMContentLoaded', () => {
+  const themeBtn = document.querySelector('.theme-btn');
+  if (themeBtn) {
+    themeBtn.innerHTML = '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M2 12h2M20 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>';
+  }
+});
+
+function getFavorites() { try { return JSON.parse(localStorage.getItem(FAV_KEY) || '[]'); } catch { return []; } }
+function saveFavorites(f) { localStorage.setItem(FAV_KEY, JSON.stringify(f)); }
+
+function getStorage() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch(e) { return {}; }
+}
+function saveToStorage(pid, obj) {
+  const storage = getStorage();
+  storage[pid] = Object.assign({}, obj);
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(storage)); } catch(e) {}
+}
+
+function saveNote(pid) { const storage = getStorage(); storage[pid].note = document.getElementById('notes-' + pid)?.value || ''; saveToStorage(pid, storage[pid]); }
+function toggleRead(pid) {
+  const storage = getStorage();
+  storage[pid] = storage[pid] || {};
+  storage[pid].read = !storage[pid].read;
+  saveToStorage(pid, storage[pid]);
+  const card = document.getElementById('post-' + pid);
+  if (card) card.classList.toggle('read', storage[pid].read);
+  // Update sidebar TOC item
+  document.querySelectorAll('.toc-item').forEach(item => {
+    const href = item.getAttribute('href');
+    if (href && href.includes(pid)) {
+      item.classList.toggle('read', storage[pid].read);
+    }
+  });
+}
+function toggleFavorite(pid) {
+  // Сохраняем в favorites (не в kb_posts_viewer!)
+  const favs = getFavorites();
+  const storage = getStorage();
+
+  // Находим пост
+  const post = data.posts.find(p => p.id === pid);
+  if (!post) return;
+
+  const exists = favs.some(f => f.id === pid);
+  if (exists) {
+    // Удаляем из избранного
+    const idx = favs.findIndex(f => f.id === pid);
+    favs.splice(idx, 1);
+  } else {
+    // Добавляем в избранное
+    favs.push({
+      id: pid,
+      title: post.title_ru || post.title || post.title_en || '',
+      category: currentCategory,
+      category_label: getCategoryTitle(currentCategory)?.replace(/^[^\s]+/, ''),
+      category_icon: getCategoryTitle(currentCategory)?.match(/^(.)/)?.[1] || '',
+      subreddit: currentSubreddit,
+      pid: pid,
+      score: post.score,
+      summary_short: post.ai_summary_ru,
+      tags: post.tags,
+      added: new Date().toISOString()
+    });
+  }
+  saveFavorites(favs);
+
+  // Обновляем кнопку
+  const btn = document.getElementById('fav-' + pid);
+  if (btn) {
+    const active = !exists;
+    btn.classList.toggle('active', active);
+    btn.innerHTML = active ? '★ В избранном' : '☆ В избранное';
+  }
+
+  // Также отмечаем в localStorage просмотра
+  if (!storage[pid]) storage[pid] = {};
+  storage[pid].fav = !exists;
+  saveToStorage(pid, storage[pid]);
+}
+
+function toggleTagsExpand() { document.getElementById('tagsWrap').classList.toggle('expanded'); }
+function toggleTag(btn) { const tag = btn.dataset.tag; if (!window.activeTags) window.activeTags = new Set(); if (window.activeTags.has(tag)) { window.activeTags.delete(tag); btn.classList.remove('active'); } else { window.activeTags.add(tag); btn.classList.add('active'); } applyFilters(); }
+
+async function loadData() {
+  const { redditId, subredditId } = getUrlParams();
+  if (!redditId) return null;
+  currentCategory = redditId;
+  currentSubreddit = subredditId;
+
+  const path = subredditId ? `data/${redditId}/${subredditId}/index.json` : `data/${redditId}.json`;
+  console.log('Loading data from:', path);
+  try {
+    const r = await fetch(path);
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    data = await r.json();
+    console.log('Data loaded:', data.posts?.length, 'posts');
+    return data;
+  } catch(e) {
+    console.error('Load error:', e);
+    document.getElementById('mainContent').innerHTML = `<div class="no-results">Не удалось загрузить: ${path}<br>${e.message}</div>`;
+    return null;
+  }
+}
+
+function renderPostCard(post, storage) {
+  const pid = post.id;
+  const tags = post.tags || [];
+
+  const card = document.createElement('div');
+  card.className = 'post-card';
+  card.id = 'post-' + pid;
+  card.innerHTML = `
+    <div class="post-header">
+      <div class="post-title-wrap">
+        <div class="post-title">${post.title_ru || post.title_ || post.title || 'Без заголовка'}</div>
+        <div class="post-meta-row">
+          ${(post.tags || []).map(t => `<span class="tag-pill main">${t}</span>`).join('')}
+          <span class="meta-chip">👍 ${post.score}</span>
+          <span class="meta-chip">💬 ${post.comments_count || 0}</span>
+          <span class="meta-chip">📅 ${post.date}</span>
+        </div>
+      </div>
+      <div class="post-actions">
+        <a href="${post.original_url}" target="_blank" class="action-btn btn-source">↗ Источник</a>
+        <button class="btn-fav" id="fav-${pid}" onclick="toggleFavorite('${pid}')">☆ В избранное</button>
+      </div>
+    </div>
+    ${post.ai_summary_ru || post.ai_summary_en ? `<div class="post-summary"><div class="summary-label">✨ AI-саммари</div><div class="summary-text">${formatContent(post.ai_summary_ru || post.ai_summary_en)}</div></div>` : ''}
+    ${post.content_ru || post.content_en ? `<div class="post-text" id="text-${pid}">${formatContent(post.content_ru || post.content_en)}</div>` : ''}
+    ${post.comments_ru || post.comments_en ? `
+    <div class="comments-section">
+      <div class="comments-title">Комменты (${(post.comments_ru || post.comments_en || []).length})</div>
+      ${(post.comments_ru || post.comments_en || []).map(c => `<div class="comment"><div class="comment-meta"><span class="comment-author">${c.author}</span><span>👍 ${c.score}</span></div><div class="comment-text">${formatContent(c.text_ru || c.text)}</div></div>`).join('')}
+    </div>` : ''}
+    <div class="post-notes">
+      <div class="notes-row">
+        <label class="read-toggle"><input type="checkbox" onchange="toggleRead('${pid}')"> ✓ Прочитано</label>
+      </div>
+      <textarea class="notes-input" id="notes-${pid}" placeholder="Заметки..." oninput="saveNote('${pid}')"></textarea>
+    </div>
+  `;
+
+  if (storage[pid]?.read) card.classList.add('read');
+  // Проверяем в избранном (отдельное хранилище)
+  const favs = getFavorites();
+  const favBtn = document.getElementById('fav-' + pid);
+  if (favs.some(f => f.id === pid) && favBtn) {
+    favBtn.classList.add('active');
+    favBtn.innerHTML = '★ В избранном';
+  }
+  if (storage[pid]?.note) document.getElementById('notes-' + pid).value = storage[pid].note;
+
+  return card;
+}
+
+function applyFilters() {
+  const sortDir = document.getElementById('sortDir').value;
+  const query = document.getElementById('searchInput').value.trim().toLowerCase();
+  const container = document.getElementById('mainContent');
+
+  // Сохраняем заметки перед перерендером
+  const storage = getStorage();
+  document.querySelectorAll('.post-card').forEach(card => {
+    const pid = card.id.replace('post-', '');
+    const notesInput = document.getElementById('notes-' + pid);
+    if (notesInput && notesInput.value) {
+      storage[pid] = storage[pid] || {};
+      storage[pid].note = notesInput.value;
+    }
+  });
+
+  // Фильтруем и сортируем посты
+  const visiblePosts = data.posts.filter(post => {
+    const tags = (post.tags || []).map(t => t.toLowerCase());
+    const tagOk = !window.activeTags || window.activeTags.size === 0 || [...window.activeTags].every(t => tags.includes(t));
+
+    let searchOk = true;
+    if (query) {
+      const titleText = (post.title_ru || post.title || '').toLowerCase();
+      const bodyText = (post.content_ru || post.content_en || '').toLowerCase();
+      searchOk = titleText.includes(query) || bodyText.includes(query);
+    }
+
+    return tagOk && searchOk;
+  }).sort((a, b) => {
+    const scoreA = a.score || 0;
+    const scoreB = b.score || 0;
+    return sortDir === 'desc' ? scoreB - scoreA : scoreA - scoreB;
+  });
+
+  // Перерендерим посты
+  container.innerHTML = '';
+  clearHighlights();
+
+  visiblePosts.forEach(post => {
+    const card = renderPostCard(post, storage);
+    container.appendChild(card);
+  });
+
+  // Подсветка найденных запросов
+  if (query) {
+    visiblePosts.forEach(post => {
+      const card = document.getElementById('post-' + post.id);
+      if (card) highlightInCard(card, query);
+    });
+  }
+
+  document.getElementById('resultsCount').textContent = `${visiblePosts.length} постов`;
+  document.getElementById('noResults').classList.toggle('hidden', visiblePosts.length > 0);
+  buildToc();
+}
+
+function resetFilters() {
+  window.activeTags = new Set();
+  document.querySelectorAll('.tag-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('sortDir').value = 'desc';
+  document.getElementById('searchInput').value = '';
+  applyFilters(); // Пересортировать посты
+}
+
+function clearHighlights() {
+  document.querySelectorAll('[data-original]').forEach(el => { el.innerHTML = el.dataset.original; delete el.dataset.original; });
+}
+
+function highlightInCard(card, query) {
+  card.querySelectorAll('.post-title, .summary-text, .post-text').forEach(el => {
+    if (!el.dataset.original) el.dataset.original = el.innerHTML;
+    const re = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi');
+    el.innerHTML = el.dataset.original.replace(re, '<mark>$1</mark>');
+  });
+}
+
+function buildToc() {
+  const storage = getStorage();
+  const list = document.getElementById('tocList');
+  list.innerHTML = '';
+  document.querySelectorAll('.post-card').forEach(card => {
+    const pid = card.id.replace('post-', '');
+    const post = data.posts.find(p => p.id === pid);
+    if (!post) return;
+    const a = document.createElement('a');
+    a.href = '#post-' + pid;
+    a.className = 'toc-item' + (storage[pid]?.read ? ' read' : '');
+    a.innerHTML = `<div class="toc-info"><div class="toc-title">${post.title_ru || post.title || 'Без заголовка'}</div><div class="toc-meta">👍 ${post.score}</div></div>`;
+    list.appendChild(a);
+  });
+}
+
+function renderPosts() {
+  const container = document.getElementById('mainContent');
+  container.innerHTML = '';
+  const allTags = new Set();
+  const storage = getStorage();
+
+  data.posts.forEach((post, idx) => {
+    const pid = post.id;
+    const tags = post.tags || [];
+    tags.forEach(t => allTags.add(t));
+
+    const card = renderPostCard(post, storage);
+    container.appendChild(card);
+  });
+
+  // Рендер тегов
+  const tagsWrap = document.getElementById('tagsWrap');
+  Array.from(allTags).sort().forEach(tag => {
+    const btn = document.createElement('button');
+    btn.className = 'tag-btn';
+    btn.dataset.tag = tag.toLowerCase();
+    btn.textContent = tag;
+    btn.onclick = () => toggleTag(btn);
+    tagsWrap.appendChild(btn);
+  });
+
+  buildToc();
+}
+
+function formatContent(content) {
+  if (!content) return '';
+  return content
+    .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+    .split('\n\n').map(p => `<p>${p.trim()}</p>`).join('');
+}
+
+async function init() {
+  const { redditId, subredditId } = getUrlParams();
+  document.getElementById('bc-cat').textContent = getCategoryTitle(redditId);
+  document.getElementById('bc-sub').textContent = subredditId || '';
+  document.getElementById('breadcrumb').style.display = '';
+  document.getElementById('filters-bar').style.display = '';
+
+  initDropdownNav();
+
+  const result = await loadData();
+  if (result && result.posts) {
+    renderPosts();
+    renderSubTabs();
+  }
+}
+
+function renderSubTabs() {
+  const tabsContainer = document.getElementById('subTabs');
+  const tabsList = document.getElementById('subTabsList');
+
+  // Получаем все сабреддиты для текущей категории
+  fetch(`data/categories.json`)
+    .then(r => r.json())
+    .then(catData => {
+      const category = catData.categories?.find(c => c.id === currentCategory);
+      if (!category || !category.subreddits) {
+        tabsContainer.style.display = 'none';
+        return;
+      }
+
+      tabsList.innerHTML = '';
+      category.subreddits.forEach(sub => {
+        const btn = document.createElement('button');
+        btn.style.cssText = 'padding: .25rem .7rem; font-size: .75rem; border-radius: 99px; border: 1px solid var(--border); background: var(--surface-2); color: var(--text-2); cursor: pointer; transition: all .15s;';
+        btn.textContent = sub.title || sub.id;
+        btn.onclick = () => {
+          window.location.href = `viewer.html?redditId=${currentCategory}&subredditId=${sub.id}`;
+        };
+        if (sub.id === currentSubreddit) {
+          btn.style.borderColor = 'var(--accent)';
+          btn.style.color = 'var(--accent)';
+          btn.style.background = 'var(--accent-dim)';
+        }
+        tabsList.appendChild(btn);
+      });
+      tabsContainer.style.display = '';
+    })
+    .catch(() => tabsContainer.style.display = 'none');
+}
+
+function getCategoryTitle(id) {
+  const titles = {
+    ai: '🧠 AI', ads: '📢 Реклама', business: '💼 Бизнес',
+    content: '✍️ Контент', income: '💰 Доход', marketing: '📈 Маркетинг',
+    saas: '🚀 SaaS', startups: '⚡ Стартапы',
+    youtube: '▶️ YouTube'
+  };
+  return titles[id] || id;
+}
+
+// Dropdown navigation
+function initDropdownNav() {
+  // AI dropdown dynamic population
+  const aiDropdown = document.getElementById('ai-dropdown');
+  if (aiDropdown) {
+    const aiSubreddits = ['MachineLearning', 'artificial', 'LocalLLaMA', 'deep_learning'];
+    aiSubreddits.forEach(sub => {
+      const a = document.createElement('a');
+      a.href = `catalog/AI/${sub}/index.html`;
+      a.textContent = sub;
+      aiDropdown.appendChild(a);
+    });
+  }
+
+  // Init dropdowns
+  document.querySelectorAll('.nav-item').forEach(item => {
+    const dropdown = item.querySelector('.dropdown');
+    if (!dropdown) return;
+
+    let timer;
+
+    const openDropdown = () => {
+      clearTimeout(timer);
+      item.classList.add('open');
+    };
+
+    const closeDropdown = () => {
+      timer = setTimeout(() => item.classList.remove('open'), 150);
+    };
+
+    // Открыть когда мышь над пунктом НАВИГАЦИИ (не над dropdown)
+    item.addEventListener('mouseenter', openDropdown);
+    dropdown.addEventListener('mouseenter', openDropdown);
+
+    // Закрыть когда мышь ушла
+    item.addEventListener('mouseleave', closeDropdown);
+    dropdown.addEventListener('mouseleave', closeDropdown);
+  });
+}
+
+init();
+</script>
+</body>
+</html>

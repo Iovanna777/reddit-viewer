@@ -1,0 +1,101 @@
+{
+  "title": "ChatGPT",
+  "posts": [
+    {
+      "id": "1upfhdm",
+      "title": "Мы пробуем что-то новое. Во вторники будем публиковать только текстовые посты",
+      "score": 44,
+      "comments_count": 27,
+      "date": "2026-07-07",
+      "content_en": "A lot of people complain that there's too much AI image/video content. It's been something people have messaged us about frequently ever since the new GPT image generator dropped. We're going to try Text Tuesdays and see how it goes. If people like it we'll keep it, and if not, we won't\n\nPlease let us know your thoughts on this matter",
+      "content_ru": "Многие жалуются, что слишком много AI-контента с изображениями/видео. Это было темой частых сообщений после выхода нового генератора изображений GPT.\n\nМы попробуем «Текстовые вторники» и посмотрим, как это пройдёт. Если люди это полюбят — оставим, а если нет — уберём.",
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1upfhdm/were_trying_something_new_on_tuesdays_were_doing/",
+      "is_read": false,
+      "is_favorite": false
+    },
+    {
+      "id": "1srxfnl",
+      "title": "Создано с ChatGPT Images 2.0",
+      "score": 157,
+      "comments_count": 109,
+      "date": "2026-04-21",
+      "content_en": "A new era of image generation. Video made with ChatGPT Images.",
+      "content_ru": "Новая эра генерации изображений. Видео создано с помощью ChatGPT Images.",
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/",
+      "is_read": false,
+      "is_favorite": false
+    },
+    {
+      "id": "1uvnso6",
+      "title": "Оно говорит «Привет, человек» 🫩✌️",
+      "score": 978,
+      "comments_count": 69,
+      "date": "2026-07-13",
+      "content_en": "Saw a TikTok today with the Title \"Only Humans can read this Text\" and the Text was \"Hello Human\"",
+      "content_ru": "Сегодня увидел TikTok с заголовком «Только люди могут прочитать этот текст», а текст был «Hello Human»",
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvnso6/it_says_hello_human/",
+      "is_read": false,
+      "is_favorite": false
+    },
+    {
+      "id": "1uvgq69",
+      "title": "Я просил у ChatGPT, как бы выглядели современные бренды в рекламе 1970-х",
+      "score": 1869,
+      "comments_count": 154,
+      "date": "2026-07-13",
+      "content_en": "",
+      "content_ru": "Пользователь запросил у ChatGPT визуализацию современных брендов в стиле рекламы 1970-х годов.",
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvgq69/i_asked_chatgpt_to_imagine_what_modern_brands/",
+      "is_read": false,
+      "is_favorite": false
+    },
+    {
+      "id": "1uvtdtx",
+      "title": "ChatGPT начинает говорить, будто у него есть эти реальные жизненные опыты?",
+      "score": 130,
+      "comments_count": 113,
+      "date": "2026-07-14",
+      "content_en": "I noticed it saying things like \"It surprised me too the first time I read it.\" or \"I usually do this..\"  \nIs this hallucination or more human-like speech \"update\"",
+      "content_ru": "Я заметил, что он начинает говорить так, будто у него есть эти реальные жизненные переживания. Например: «Это тоже удивило меня, когда я впервые прочитал это» или «Обычно я делаю так..»\n\nЭто галлюцинация или более человеческая речь в обновлении?",
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvtdtx/is_chatgpt_starting_to_say_things_like_it_had/",
+      "is_read": false,
+      "is_favorite": false
+    },
+    {
+      "id": "1uvpq5b",
+      "title": "ВНИМАНИЕ: Новое обновление ChatGPT для Mac обходит настройки приватности macOS и индексирует локальные файлы без разрешения!",
+      "score": 189,
+      "comments_count": 104,
+      "date": "2026-07-13",
+      "content_en": "Hey everyone, I just experienced a massive privacy breach with the latest ChatGPT desktop app update on an M4 Mac running macOS Tahoe latest, and wanted to warn you all.\n\nThe app performed an automatic background self update, which completely messed up my previous chat layout and project history, making it look like a fresh local install.\n\nWhen I asked the AI where my missing projects were, it unexpectedly printed out an exact local directory path of my Mac user profile.\n\nKnowing this shouldn't be technically possible without prior authorization, I pushed further and asked the AI to list the contents of that directory. To my absolute shock, **it** printed out a complete list of my local files, and it explicitly included all of my hidden files ... yes the dot.files! directly into the chat window.\n\nBut..... ChatGPT app or nothing related, is listed under Full Disk Access, Files and Folders, or Accessibility in my System Settings. \n\nAnd It always had zero permissions granted, before the update, and yet it is actively indexing and reading local system paths!!!",
+      "content_ru": "Привет всем, я только что столкнулся с серьёзной утечкой приватности после последнего автоматического обновления десктоп-приложения ChatGPT на M4 Mac под macOS Tahoe, и хочу предупредить вас всех.\n\nПриложение сделало автоматическое фоновое самообновление, полностью испортив мой прежний лэйаут чатов и историю проектов — всё выглядело как свежая локальная установка.\n\nКогда я спросил у ИИ, где мои пропавшие проекты, он неожиданно напечатал точный локальный путь к моему профилю пользователя.\n\nПонимая, что это технически невозможно без предварительного разрешения, я углубился и просил ИИ вывести содержимое этой директории. Чтобы мой шок был полным — **о**н вывел полный список моих локальных файлов, включая скрытые файлы (точно так и есть файлы с точкой!).\n\nНо... приложение ChatGPT или что-либо связанное с ним не указано в настройках полного доступа к диску, файлам и папкам или специальных возможностях. И раньше у него всегда были запрещённые права, а теперь оно активно индексирует и читает локальные системные пути!",
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvpq5b/warning_new_chatgpt_mac_desktop_update_bypasses/",
+      "is_read": false,
+      "is_favorite": false
+    },
+    {
+      "id": "1uvtv2j",
+      "title": "Лучший зацеп?",
+      "score": 245,
+      "comments_count": 67,
+      "date": "2026-07-13",
+      "content_en": "",
+      "content_ru": "Пользователь спрашивает о лучшем зацепе (hook) для контента.",
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvtv2j/best_pitch/",
+      "is_read": false,
+      "is_favorite": false
+    },
+    {
+      "id": "1uvsjpb",
+      "title": "Мой коллега такой",
+      "score": 114,
+      "comments_count": 15,
+      "date": "2026-07-13",
+      "content_en": "",
+      "content_ru": "Мем о коллеге и работе с ИИ.",
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1uvsjpb/my_colleague_be_like/",
+      "is_read": false,
+      "is_favorite": false
+    }
+  ]
+}

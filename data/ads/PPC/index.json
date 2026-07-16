@@ -1,0 +1,83 @@
+{
+  "title": "PPC",
+  "posts": [
+    {
+      "id": "1urk9bh",
+      "title": "Google Ads just changed Smart Bidding... and I can't tell if it's brilliant or completely backwards",
+      "score": 46,
+      "comments_count": 70,
+      "date": "2026-07-09",
+      "content_en": "Google's latest update means **Target CPA/Target ROAS campaigns will now stick much closer to the target you set**, instead of trying to outperform it.\n\nSo if your Target CPA is ₹1,000 but your campaign has been consistently getting ₹700 conversions, Google is basically saying: *lower your target if you want to keep getting ₹700.*\n\n...But why?\n\nIf the AI already knows how to get me ₹700 conversions, why would it ever start optimizing towards ₹1,000 just because that's the number I entered?\n\nI get the upside—more predictable performance and less volatility when budgets change.\n\nBut this part feels like telling the AI to stop overachieving.\n\nWhat am I missing?",
+      "comments_en": [
+        {
+          "comment_id": "owgg5qu",
+          "full_comment_id": "t1_owgg5qu",
+          "post_full_id": "t3_1urk9bh",
+          "post_id": "1urk9bh",
+          "post_title": "Google Ads just changed Smart Bidding... and I can't tell if it's brilliant or completely backwards",
+          "author": "benl5442",
+          "text": "Its grim for unmanaged accounts. Its a masterclass in platform rent-seeking disguised as system optimization. Google realized they left a massive efficiency loophole open for account structures that used low budgets as a disciplinary brake, so they engineered an algorithmic correction to reclaim that surplus. \n\nIt perfectly encapsulates the modern ad-tech landscape: automated bidding tools do not work for the buyer; they are designed to squeeze the maximum tolerated cost out of your business, and the moment you stop actively managing the machine's parameters, it defaults to charging you the highest possible price you said you could tolerate.\n\nThe ministry of truth would be proud. War is peace, freedom is slavery, higher CPAs are predictability.  The only upside is that managed accounts should perform better than ones left to Google's bidding. Unfortunately, my accounts are mostly unmanaged and I just collect retainers :) \n\n",
+          "created_at": "2026-07-09T09:09:56Z",
+          "scraped_at": "2026-07-15T09:03:37.386169Z",
+          "depth": 0,
+          "score": 62,
+          "permalink": "/r/PPC/comments/1urk9bh/google_ads_just_changed_smart_bidding_and_i_cant/owgg5qu/",
+          "is_stickied": false,
+          "is_submitter": false,
+          "text_ru": "Это мрачно для неуправляемых учетных записей. Это мастер-класс по поиску ренты за платформу, замаскированному под оптимизацию системы. В Google поняли, что оставили огромную лазейку в эффективности для структур счетов, которые использовали низкие бюджеты в качестве дисциплинарного тормоза, поэтому они разработали алгоритмическую коррекцию, чтобы вернуть этот излишек. \n\nОн прекрасно отражает современный ландшафт рекламных технологий: инструменты автоматического назначения ставок не работают для покупателя; они созданы для того, чтобы выжать из вашего бизнеса максимально допустимые затраты, и в тот момент, когда вы перестанете активно управлять параметрами машины, она по умолчанию взимает с вас максимально возможную цену, которую, как вы сказали, вы можете вытерпеть.\n\nМинистерство правды могло бы гордиться. Война — это мир, свобода — это рабство, более высокие CPA — это предсказуемость.  Единственным положительным моментом является то, что управляемые учетные записи должны работать лучше, чем те, которые предоставлены Google. К сожалению, мои счета в основном не обслуживаются, и я просто собираю гонорары :)"
+        }
+      ],
+      "original_url": "https://www.reddit.com/r/PPC/comments/1urk9bh/google_ads_just_changed_smart_bidding_and_i_cant/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "Последнее обновление Google означает, что **кампании с целевой ценой за конверсию и целевой рентабельностью инвестиций в рекламу теперь будут намного ближе к заданной вами цели**, а не будут пытаться превзойти ее.\n\nТаким образом, если ваша целевая цена за конверсию составляет 1000 рупий, но ваша кампания постоянно получает 700 конверсий, Google по сути говорит: *снизьте целевую цену, если вы хотите и дальше получать 700 рупий.*\n\n...Но почему?\n\nЕсли ИИ уже знает, как добиться конверсий на сумму 700 рупий, зачем ему вообще начинать оптимизацию до 1000 рупий только потому, что я ввел именно эту цифру?\n\nЯ вижу положительный момент — более предсказуемые результаты и меньшую волатильность при изменении бюджетов.\n\nНо эта часть похожа на приказ ИИ прекратить переусердствовать.\n\nЧто мне не хватает?",
+      "title_ru": "Google Реклама только что изменила интеллектуальное назначение ставок... и я не могу сказать, блестяще это или полностью наоборот."
+    },
+    {
+      "id": "1uuxmsh",
+      "title": "SEO guy Now Managing PPC Staff",
+      "score": 28,
+      "comments_count": 22,
+      "date": "2026-07-13",
+      "content_en": "I run a digital marketing agency.\n\nI’ve done SEO for over 10 years. I’ve played in the big leagues, Fortune 500 clients, technical SEO, full competitor and audience analysis, 12 months plans across multiple departments, etc etc… but no paid experience until 18 months ago.\n\nI had a few clients ask me about paid and I decided to hire a contractor to trial it out.\n\nFast forward 18 months I have 2 full timers and a part timer. The team is growing and we are pitching more clients.\n\nThe full timers have a tonne of experience and clients are getting results.\n\nI’ve learned a good deal about PPC but I couldn’t actually run an account. I essentially know what to ask (or at least I think I do). I’ve pitched and been on audit calls and I can pass for someone who knows what they are doing.\n\nIt feels a little unnerving not having practical understanding an aspect of my agency that’s getting more traction.\n\n\\- should I try my hand at managing an account under their supervision?  \n\\- is there a course that anyone would recommend?  \n\\- am I overthinking this and there are plenty of owners who let the more skilled employees do the job?  \n\\- any advice for me?",
+      "comments_en": [
+        {
+          "comment_id": "ox72lkn",
+          "full_comment_id": "t1_ox72lkn",
+          "post_full_id": "t3_1uuxmsh",
+          "post_id": "1uuxmsh",
+          "post_title": "SEO guy Now Managing PPC Staff",
+          "author": "CryptedBinary",
+          "text": "Sounds like you're feeling a bit of imposter syndrome. Don't overthink it too much and focus on what brings the client results and sales.\n\nMore importantly is defining what your position is in the agency. What you need to get down is what counts as a good conversion for your clients. This usually means regular meetings with the client, figuring out what kind of lead or sale they're looking for and making sure your ad team can deliver on it.\n\nThe biggest disconnect I see regularly is:\n\n1. PPC team thinks they're doing a great job since there's a ton of conversions\n2. Client is incredibly unhappy since all the leads that came in have been bad\n\nNote: my advice is coming from a B2B or high-value non-fixed B2C pricing",
+          "created_at": "2026-07-13T02:08:01Z",
+          "scraped_at": "2026-07-15T09:03:39.831122Z",
+          "depth": 0,
+          "score": 14,
+          "permalink": "/r/PPC/comments/1uuxmsh/seo_guy_now_managing_ppc_staff/ox72lkn/",
+          "is_stickied": false,
+          "is_submitter": false,
+          "text_ru": "Похоже, у тебя небольшой синдром самозванца. Не зацикливайтесь на этом слишком сильно и сосредоточьтесь на том, что приносит клиенту результат и продажи.\n\nБолее важно определить, какова ваша должность в агентстве. Вам нужно разобраться в том, что считается хорошей конверсией для ваших клиентов. Обычно это означает регулярные встречи с клиентом, выяснение того, какой тип лида или продажи он ищет, и уверенность в том, что ваша рекламная команда сможет его реализовать.\n\nСамый большой разрыв, который я регулярно вижу, это:\n\n1. Команда PPC считает, что они отлично справляются со своей работой, поскольку конверсий очень много.\n2. Клиент невероятно недоволен, поскольку все пришедшие лиды были плохими.\n\nПримечание: мой совет исходит из B2B или дорогостоящих нефиксированных цен B2C."
+        }
+      ],
+      "original_url": "https://www.reddit.com/r/PPC/comments/1uuxmsh/seo_guy_now_managing_ppc_staff/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "Я управляю агентством цифрового маркетинга.\n\nЯ занимаюсь SEO более 10 лет. Я играл в высшей лиге, с клиентами из списка Fortune 500, техническим SEO, полным анализом конкурентов и аудитории, 12-месячными планами для нескольких отделов и т. д. и т. п., но до 18 месяцев назад у меня не было оплачиваемого опыта.\n\nНесколько клиентов спросили меня об оплате, и я решил нанять подрядчика, чтобы опробовать ее.\n\nПеренесемся на 18 месяцев вперед. У меня 2 сотрудника на полный рабочий день и на неполный рабочий день. Команда растет, и мы привлекаем больше клиентов.\n\nУ штатных сотрудников огромный опыт, и клиенты получают результаты.\n\nЯ многое узнал о PPC, но на самом деле я не мог управлять учетной записью. По сути, я знаю, что спросить (по крайней мере, мне так кажется). Я участвовал в питчах и присутствовал на аудиторских проверках, и я могу сойти за человека, который знает, что делает.\n\nМеня немного нервирует отсутствие практического понимания аспекта моего агентства, который набирает все большую популярность.\n\n\\- стоит ли мне попробовать свои силы в управлении счетом под их руководством?  \n\\- есть ли курс, который кто-нибудь порекомендует?  \n\\- я слишком много думаю об этом, и есть много владельцев, которые позволяют более квалифицированным сотрудникам выполнять эту работу?  \n\\- какой-нибудь совет для меня?",
+      "title_ru": "SEO-специалист теперь управляет персоналом PPC"
+    },
+    {
+      "id": "1uvgeq8",
+      "title": "Roles/Careers to transition to from PPC?",
+      "score": 28,
+      "comments_count": 25,
+      "date": "2026-07-13",
+      "content_en": "I’ve been in PPC for about 6 years, but think this really isn’t for me.\n\nWhat careers have people moved to after being in PPC for a number of years?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/PPC/comments/1uvgeq8/rolescareers_to_transition_to_from_ppc/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "Я работаю в PPC около 6 лет, но думаю, что это действительно не для меня.\n\nВ какую карьеру перешли люди после нескольких лет работы в PPC?",
+      "title_ru": "Роли/карьера, на которые нужно перейти с PPC?"
+    }
+  ]
+}

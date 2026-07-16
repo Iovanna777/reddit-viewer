@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Лучшие посты Reddit на русском",
+    "categories_count": 1,
+    "subreddits_count": 1,
+    "last_updated": "2026-07-15"
+  },
+  "reddit": {
+    "id": "AI",
+    "title": "AI",
+    "description": "",
+    "subreddits": [
+      {
+        "id": "GrowthHacking",
+        "title": "GrowthHacking",
+        "description": "",
+        "posts": [
+          {
+            "id": "1uqowob",
+            "title": "Life is good when your partner is a LinkedIn swindler",
+            "score": 20,
+            "comments_count": 14,
+            "date": "2026-07-08",
+            "content_en": "We started calling this **Uno Reverse sales**.\n\nWhenever someone sends us slightly wrong cold outreach, Dawid replies and turns it back into a pitch.\n\nOffice broker asking about our lease?  \n“We’re fully remote, but Causo can help you find companies with confirmed office space, estimate footage and rent.”\n\nSomeone thinks Causo is customer support?  \n“Not quite, but we help startups research prospects and write outreach that actually has the right context.”\n\nEA agency assumes we raised?  \n“We didn’t raise, but our product helps startups find and reach the right prospects.”\n\nHonestly, it is kind of dumb. But also kind of good.\n\nThe sender already proves 3 things:\n\n1. They do outbound\n2. Their targeting/context is a bit off\n3. They probably understand the pain of prospecting\n\nSo instead of just ignoring the email, we try to turn it into a useful conversation.\n\nCurious if anyone else does this.\n\nWhat are your favorite low-effort sales hacks that are stupid enough to work?",
+            "comments_en": [
+              {
+                "comment_id": "ow9hv8t",
+                "full_comment_id": "t1_ow9hv8t",
+                "post_full_id": "t3_1uqowob",
+                "post_id": "1uqowob",
+                "post_title": "Life is good when your partner is a LinkedIn swindler",
+                "author": "Ok_Box_7612",
+                "text": "Sometimes the best sales automation is just your cofounder going full stupid mode\n\nit's me I'm the cofounder",
+                "created_at": "2026-07-08T10:41:29Z",
+                "scraped_at": "2026-07-15T09:37:02.963800Z",
+                "depth": 0,
+                "score": 6,
+                "permalink": "/r/GrowthHacking/comments/1uqowob/life_is_good_when_your_partner_is_a_linkedin/ow9hv8t/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Иногда лучшая автоматизация продаж — это когда ваш сооснователь работает в совершенно дурацком режиме.\n\nэто я, я соучредитель"
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/GrowthHacking/comments/1uqowob/life_is_good_when_your_partner_is_a_linkedin/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Мы начали называть это **Обратные продажи Uno**.\n\nВсякий раз, когда кто-то посылает нам немного неправильный холодный призыв, Давид отвечает и превращает его обратно в презентацию.\n\nОфисный брокер спрашивает о нашей аренде?\n«Мы полностью удалены, но Causo может помочь вам найти компании с подтвержденными офисными помещениями, оценить площадь и арендовать».\n\nКто-то думает, что Causo — это служба поддержки клиентов?\n«Не совсем, но мы помогаем стартапам исследовать перспективы и писать информационно-просветительскую работу, которая действительно имеет правильный контекст».\n\nАгентство EA предполагает, что мы собрали?\n«Мы не привлекали средства, но наш продукт помогает стартапам находить и достигать нужных перспектив».\n\nЧестно говоря, это как-то глупо.Но тоже вроде хорошо.\n\nОтправитель уже доказывает 3 вещи:\n\n1. Они осуществляют исходящий трафик\n2. Их таргетинг/контекст немного неправильный.\n3. Они, вероятно, понимают боль поиска\n\nПоэтому вместо того, чтобы просто игнорировать электронное письмо, мы пытаемся превратить его в полезный разговор.\n\nИнтересно, делает ли это еще кто-нибудь.\n\nКакие ваши любимые приемы продаж, не требующие усилий, но достаточно глупые, чтобы работать?",
+            "title_ru": "Жизнь хороша, когда твой партнер — мошенник в LinkedIn",
+            "ai_summary_ru": "Вопрос по управлению email сообщениями жизненного цикла и их документированию."
+          },
+          {
+            "id": "1uqpj5v",
+            "title": "I’ve Never Fixed a Growth Problem by Adding a New Channel",
+            "score": 12,
+            "comments_count": 12,
+            "date": "2026-07-08",
+            "content_en": "Acquisition or retention is always the dilemma but personally I've fixed plenty growth problems by fixing retention and not by adding a new channel.   \n  \nI know for some it might sound us unpopular opinion but I realy believe that retention is where the actual growth work happens. Acquisition just gets the credit.   \n  \nLet me give you the specific pattern I've been seeing:   \n  \nA team hits a growth wall. Leadership says, \"We need more top of funnel.\" The marketing gets pushed to find new channels, run more campaigns, chase more volume.   \n  \nMeanwhile, the real problem is sitting in onboarding, or in the first 30 days of the product experience, where half the people who signed up quietly disappear, and nobody in the growth meeting is even looking at that number.   \n  \nFix the leak, and the exact same acquisition spend suddenly performs better. Not because the channels got smarter but simply because fewer people are falling out the bottom.   \n  \nAnd this is why growth hacking got a bad reputation. Too many teams treated it as a top-of-funnel discipline when the highest-leverage growth work is almost always retention work wearing a top-of-funnel costume.   \n  \nAcquisition gets you in the door while retention is what makes the door worth walking through.   \n  \nIf your growth stalled this year, I'd bet money the fix isn't a new channel. It's the first week of the product experience.",
+            "comments_en": [
+              {
+                "comment_id": "ow9mvp7",
+                "full_comment_id": "t1_ow9mvp7",
+                "post_full_id": "t3_1uqpj5v",
+                "post_id": "1uqpj5v",
+                "post_title": "I’ve Never Fixed a Growth Problem by Adding a New Channel",
+                "author": "ChronicPunctualAsthm",
+                "text": "This is so painfully obvious once you’ve been in the weeds but somehow every leadership team needs to learn it from scratch. The leaky bucket analogy gets overused but it’s dead on, you can pour all the water you want and still end up with an empty bucket if nobody plugs the holes.\n\n  \nI’ve seen teams burn through six figures on new channels while the activation rate sits at 12% and nobody bats an eye. Fixing that first-week ghost town is where the real gains hide.",
+                "created_at": "2026-07-08T11:15:08Z",
+                "scraped_at": "2026-07-15T09:37:04.777333Z",
+                "depth": 0,
+                "score": 1,
+                "permalink": "/r/GrowthHacking/comments/1uqpj5v/ive_never_fixed_a_growth_problem_by_adding_a_new/ow9mvp7/",
+                "is_stickied": false,
+                "is_submitter": false,
+                "text_ru": "Это до боли очевидно, если вы побывали в сорняках, но почему-то каждой руководящей команде приходится учиться этому с нуля.Аналогией с дырявым ведром часто злоупотребляют, но она уже устоялась: вы можете налить столько воды, сколько захотите, и все равно остаться с пустым ведром, если никто не заткнет дыры.\n\n\nЯ видел, как команды прожигали шестизначные суммы на новых каналах, в то время как уровень активации составляет 12%, и никто не моргнул глазом.В исправлении этого города-призрака в первую неделю скрываются настоящие выгоды."
+              }
+            ],
+            "original_url": "https://www.reddit.com/r/GrowthHacking/comments/1uqpj5v/ive_never_fixed_a_growth_problem_by_adding_a_new/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Привлечение или удержание — это всегда дилемма, но лично я решил множество проблем роста, исправив удержание, а не добавив новый канал.\n\nЯ знаю, что для некоторых это может показаться непопулярным мнением, но я действительно верю, что удержание — это то, где происходит реальная работа по росту.Приобретение просто получает признание.\n\nПозвольте мне привести вам конкретную картину, которую я наблюдал:\n\nКоманда сталкивается со стеной роста.Руководство говорит: «Нам нужно больше вершины воронки».Маркетингу приходится искать новые каналы, проводить больше кампаний, добиваться большего объема.\n\nМежду тем, настоящая проблема заключается в процессе адаптации, или в первые 30 дней использования продукта, когда половина подписавшихся людей незаметно исчезает, и никто на собрании по развитию даже не смотрит на эту цифру.\n\nУстраните утечку, и те же затраты на привлечение внезапно повысятся.Не потому, что каналы стали умнее, а просто потому, что меньше людей падает на дно.\n\nИменно поэтому хакинг роста получил плохую репутацию.Слишком многие команды относились к этому как к дисциплине, находящейся на вершине воронки, тогда как работа по росту с наибольшей эффективностью почти всегда представляет собой работу по удержанию сотрудников в костюме вершины воронки.\n\nПривлечение поможет вам войти в дверь, а удержание — это то, что делает дверь достойной того, чтобы через нее пройти.\n\nЕсли ваш рост застопорился в этом году, я готов поспорить, что исправление — это не новый канал.Это первая неделя знакомства с продуктом.",
+            "title_ru": "Я никогда не решал проблему роста, добавляя новый канал.",
+            "ai_summary_ru": "Привлечение или удержание — это всегда дилемма, но лично я решил множество проблем роста, исправив удержание, а не добавив новый канал."
+          },
+          {
+            "id": "1ushp0h",
+            "title": "Growth workflows are moving into AI chat and I don't think most tools are ready for it (demo of mine running inside Claude)",
+            "score": 8,
+            "comments_count": 6,
+            "date": "2026-07-10",
+            "content_en": "I run a community growth platform and this week I shipped an MCP server for it, which means campaigns now launch from a Claude conversation instead of the dashboard. You ask for a boost on a specific post, the agent checks your balance, confirms the spend, fires the campaign. The video shows the full flow in about a minute.\n\nThe part worth discussing isnt my tool though. It's the pattern. Marketers already draft copy in ChatGPT and Claude, then tab over to five dashboards to execute. Once the execution layer sits inside the same chat, the dashboards stop being where the work happens. I noticed my own behavior change within a day of shipping this.\n\nAnyone here already running parts of their growth stack through agent integrations? What broke, and what actually stuck?",
+            "comments_en": [],
+            "original_url": "https://www.reddit.com/r/GrowthHacking/comments/1ushp0h/growth_workflows_are_moving_into_ai_chat_and_i/",
+            "is_read": false,
+            "is_favorite": false,
+            "content_ru": "Я управляю платформой для развития сообщества и на этой неделе поставил для нее сервер MCP, а это означает, что кампании теперь запускаются из беседы с Клодом, а не с панели управления.Вы запрашиваете повышение конкретного поста, агент проверяет ваш баланс, подтверждает расходы и запускает кампанию.На видео показан полный поток примерно за минуту.\n\nОднако та часть, которую стоит обсудить, не является моим инструментом.Это шаблон.Маркетологи уже создают черновик текста в ChatGPT и Claude, а затем переходят к пяти панелям мониторинга для выполнения.Как только уровень исполнения оказывается внутри того же чата, информационные панели перестают быть местом выполнения работы.Я заметил, что мое поведение изменилось уже через день после отправки.\n\nКто-нибудь здесь уже использует часть своего стека роста посредством интеграции агентов?Что сломалось, а что на самом деле застряло?",
+            "title_ru": "Рабочие процессы роста переходят в чат ИИ, и я не думаю, что большинство инструментов готовы к этому (моя демонстрация, работающая внутри Клода)",
+            "ai_summary_ru": "У меня есть платформа для развития сообщества, и на этой неделе я поставил для нее сервер MCP, а это означает, что кампании теперь запускаются из беседы с Клодом, а не с панели управления."
+          }
+        ]
+      }
+    ]
+  }
+}
