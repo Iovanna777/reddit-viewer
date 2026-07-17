@@ -334,11 +334,6 @@
     <div class="tags-wrap" id="tagsWrap"></div>
   </div>
   <div class="filter-row filter-controls">
-    <span class="filter-label">Сортировка</span>
-    <select id="sortDir">
-      <option value="desc">↓ Апвоты: больше</option>
-      <option value="asc">↑ Апвоты: меньше</option>
-    </select>
     <div class="search-wrap">
       <span class="ico">🔍</span>
       <input type="text" id="searchInput" placeholder="Поиск по тексту...">
@@ -499,9 +494,9 @@ function renderPostCard(post, storage) {
   card.innerHTML = `
     <div class="post-header">
       <div class="post-title-wrap">
-        <div class="post-title">${post.title_ru || post.title_ || post.title || 'Без заголовка'}</div>
+        <div class="post-title">${post.title_ru || post.title || 'Без заголовка'}</div>
         <div class="post-meta-row">
-          ${(post.tags || []).map(t => `<span class="tag-pill main">${t}</span>`).join('')}
+          ${(post.tags || []).map(t => `<span class="tag-pill main">${escapeHtml(t)}</span>`).join('')}
           <span class="meta-chip">👍 ${post.score}</span>
           <span class="meta-chip">💬 ${post.comments_count || 0}</span>
           <span class="meta-chip">📅 ${post.date}</span>
@@ -517,7 +512,7 @@ function renderPostCard(post, storage) {
     ${post.comments_ru || post.comments_en ? `
     <div class="comments-section">
       <div class="comments-title">Комменты (${(post.comments_ru || post.comments_en || []).length})</div>
-      ${(post.comments_ru || post.comments_en || []).map(c => `<div class="comment"><div class="comment-meta"><span class="comment-author">${c.author}</span><span>👍 ${c.score}</span></div><div class="comment-text">${formatContent(c.text_ru || c.text)}</div></div>`).join('')}
+      ${(post.comments_ru || post.comments_en || []).map(c => `<div class="comment"><div class="comment-meta"><span class="comment-author">${escapeHtml(c.author)}</span><span>👍 ${c.score}</span></div><div class="comment-text">${formatContent(c.text_ru || c.text)}</div></div>`).join('')}
     </div>` : ''}
     <div class="post-notes">
       <div class="notes-row">
@@ -541,11 +536,10 @@ function renderPostCard(post, storage) {
 }
 
 function applyFilters() {
-  const sortDir = document.getElementById('sortDir').value;
   const query = document.getElementById('searchInput').value.trim().toLowerCase();
   const container = document.getElementById('mainContent');
 
-  // Сохраняем заметки перед перерендером
+  // Сохраняем заметки перед фильтрацией
   const storage = getStorage();
   document.querySelectorAll('.post-card').forEach(card => {
     const pid = card.id.replace('post-', '');
@@ -556,7 +550,7 @@ function applyFilters() {
     }
   });
 
-  // Фильтруем и сортируем посты
+  // Фильтруем посты
   const visiblePosts = data.posts.filter(post => {
     const tags = (post.tags || []).map(t => t.toLowerCase());
     const tagOk = !window.activeTags || window.activeTags.size === 0 || [...window.activeTags].every(t => tags.includes(t));
@@ -569,20 +563,16 @@ function applyFilters() {
     }
 
     return tagOk && searchOk;
-  }).sort((a, b) => {
-    const scoreA = a.score || 0;
-    const scoreB = b.score || 0;
-    return sortDir === 'desc' ? scoreB - scoreA : scoreA - scoreB;
   });
 
-  // Перерендерим посты
-  container.innerHTML = '';
+  // Скрываем/показываем существующие посты вместо пересоздания
+  document.querySelectorAll('.post-card').forEach(card => {
+    const pid = card.id.replace('post-', '');
+    const isHidden = !visiblePosts.some(p => p.id === pid);
+    card.classList.toggle('hidden', isHidden);
+  });
+
   clearHighlights();
-
-  visiblePosts.forEach(post => {
-    const card = renderPostCard(post, storage);
-    container.appendChild(card);
-  });
 
   // Подсветка найденных запросов
   if (query) {
@@ -594,13 +584,14 @@ function applyFilters() {
 
   document.getElementById('resultsCount').textContent = `${visiblePosts.length} постов`;
   document.getElementById('noResults').classList.toggle('hidden', visiblePosts.length > 0);
-  buildToc();
+
+  // Обновляем TOC с учётом фильтра
+  buildToc(visiblePosts);
 }
 
 function resetFilters() {
   window.activeTags = new Set();
   document.querySelectorAll('.tag-btn').forEach(b => b.classList.remove('active'));
-  document.getElementById('sortDir').value = 'desc';
   document.getElementById('searchInput').value = '';
   applyFilters(); // Пересортировать посты
 }
@@ -611,24 +602,28 @@ function clearHighlights() {
 
 function highlightInCard(card, query) {
   card.querySelectorAll('.post-title, .summary-text, .post-text').forEach(el => {
-    if (!el.dataset.original) el.dataset.original = el.innerHTML;
+    if (!el.dataset.original) {
+      // Store original text content, not HTML
+      el.dataset.original = el.textContent;
+      el.innerHTML = escapeHtml(el.dataset.original);
+    }
+    const safeQuery = escapeHtml(query);
     const re = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi');
-    el.innerHTML = el.dataset.original.replace(re, '<mark>$1</mark>');
+    el.innerHTML = escapeHtml(el.dataset.original).replace(re, '<mark>$1</mark>');
   });
 }
 
-function buildToc() {
+function buildToc(visiblePosts = data.posts) {
   const storage = getStorage();
   const list = document.getElementById('tocList');
   list.innerHTML = '';
-  document.querySelectorAll('.post-card').forEach(card => {
-    const pid = card.id.replace('post-', '');
-    const post = data.posts.find(p => p.id === pid);
-    if (!post) return;
+  visiblePosts.forEach(post => {
+    const pid = post.id;
+    if (document.getElementById('post-' + pid)?.classList.contains('hidden')) return;
     const a = document.createElement('a');
     a.href = '#post-' + pid;
     a.className = 'toc-item' + (storage[pid]?.read ? ' read' : '');
-    a.innerHTML = `<div class="toc-info"><div class="toc-title">${post.title_ru || post.title || 'Без заголовка'}</div><div class="toc-meta">👍 ${post.score}</div></div>`;
+    a.innerHTML = `<div class="toc-info"><div class="toc-title">${escapeHtml(post.title_ru || post.title || 'Без заголовка')}</div><div class="toc-meta">👍 ${post.score}</div></div>`;
     list.appendChild(a);
   });
 }
@@ -662,9 +657,15 @@ function renderPosts() {
   buildToc();
 }
 
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
 function formatContent(content) {
   if (!content) return '';
-  return content
+  return escapeHtml(content)
     .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
     .split('\n\n').map(p => `<p>${p.trim()}</p>`).join('');
 }
@@ -716,7 +717,10 @@ function renderSubTabs() {
       });
       tabsContainer.style.display = '';
     })
-    .catch(() => tabsContainer.style.display = 'none');
+    .catch(err => {
+      console.error('Failed to load categories.json:', err);
+      tabsContainer.style.display = 'none';
+    });
 }
 
 function getCategoryTitle(id) {
