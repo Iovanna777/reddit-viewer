@@ -1,0 +1,30 @@
+# Временные файлы
+*.pyc
+__pycache__/
+*.log
+*.tmp
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Конфиденциальные
+.env
+.env.*
+
+# Скрипты (не деплоим в gh-pages)
+*.py
+*.sh
+
+# Документация
+*.md
+*.txt
+
+# временные файлы мимокод
+.mimocode/
+
+# дополнительные файлы
+INSTRUCTIONS.md
+prompt_for_summery.txt
+apify_mcp_queries.json
+index_darkblue.html

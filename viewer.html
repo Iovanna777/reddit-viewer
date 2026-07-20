@@ -479,7 +479,10 @@ async function loadData() {
     return data;
   } catch(e) {
     console.error('Load error:', e);
-    document.getElementById('mainContent').innerHTML = `<div class="no-results">Не удалось загрузить: ${path}<br>${e.message}</div>`;
+    const msg = e.message.includes('fetch')
+      ? 'Откройте страницу через HTTP-сервер: python3 -m http.server 8000'
+      : `Не удалось загрузить: ${path}<br>${e.message}`;
+    document.getElementById('mainContent').innerHTML = `<div class="no-results">${msg}</div>`;
     return null;
   }
 }
@@ -677,6 +680,13 @@ async function init() {
   document.getElementById('breadcrumb').style.display = '';
   document.getElementById('filters-bar').style.display = '';
 
+  // Проверяем можно ли пользоваться fetch (требуется HTTP)
+  if (location.protocol === 'file:') {
+    document.getElementById('mainContent').innerHTML = '<div class="no-results"><h3>Требуется HTTP-сервер</h3><p>Откройте через: python3 -m http.server 8000</p></div>';
+    initDropdownNav();
+    return;
+  }
+
   initDropdownNav();
 
   const result = await loadData();
@@ -738,13 +748,22 @@ function initDropdownNav() {
   // AI dropdown dynamic population
   const aiDropdown = document.getElementById('ai-dropdown');
   if (aiDropdown) {
-    const aiSubreddits = ['MachineLearning', 'artificial', 'LocalLLaMA', 'deep_learning'];
-    aiSubreddits.forEach(sub => {
-      const a = document.createElement('a');
-      a.href = `catalog/AI/${sub}/index.html`;
-      a.textContent = sub;
-      aiDropdown.appendChild(a);
-    });
+    // Загружаем сабреддиты AI динамически из categories.json
+    fetch('data/categories.json')
+      .then(r => r.json())
+      .then(catData => {
+        const aiCat = catData.categories?.find(c => c.id === 'ai');
+        if (aiCat && aiCat.subreddits) {
+          aiDropdown.innerHTML = '';
+          aiCat.subreddits.forEach(sub => {
+            const a = document.createElement('a');
+            a.href = `viewer.html?redditId=ai&subredditId=${sub.id}`;
+            a.textContent = sub.title;
+            aiDropdown.appendChild(a);
+          });
+        }
+      })
+      .catch(() => {});
   }
 
   // Init dropdowns
