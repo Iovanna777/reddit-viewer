@@ -15,3 +15,18 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
+          exclude: |
+            *.py
+            *.sh
+            *.md
+            *.txt
+            .env*
+            *.log
+            __pycache__/
+            .mimocode/
+            .claude/
+            .gitignore
+            INSTRUCTIONS.md
+            prompt_for_summery.txt
+            apify_mcp_queries.json
+            rotation_state.json

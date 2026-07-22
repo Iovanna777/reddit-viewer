@@ -1,0 +1,25 @@
+# Временные файлы
+*.pyc
+__pycache__/
+*.log
+*.tmp
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Конфиденциальные
+.env
+.env.*
+
+# Скрипты (не деплоим в gh-pages)
+*.py
+*.sh
+
+# Документация (не деплоим)
+*.md
+*.txt
+
+# Конфиги (не деплоим)
+apify_mcp_queries.json
+rotation_state.json
