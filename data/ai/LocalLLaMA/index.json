@@ -2,94 +2,58 @@
   "title": "LocalLLaMA",
   "posts": [
     {
-      "id": "t3_1q8ckz0",
-      "title_en": "The reason why RAM has become so expensive",
-      "title_ru": "Почему RAM стал таким дорогим",
-      "score": 5111,
-      "comments_count": 390,
-      "date": "2026-01-09",
-      "content_en": "",
+      "id": "1uvlwz0",
+      "title": "Вот почему нужны локальные модели и opensource решения",
+      "score": 2705,
+      "comments_count": 351,
+      "date": "2026-07-13",
+      "tags": [
+        "LocalAI"
+      ],
+      "ai_summary_ru": "Автор демонстрирует важность локальных моделей для приватности и контроля.",
       "content_ru": "",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q8ckz0/the_reason_why_ram_has_become_so_expensive/",
+      "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvlwz0/this_is_why_we_need_local_models_and_opensource/",
       "is_read": false,
       "is_favorite": false,
-      "ai_summary_ru": "Почему RAM стал таким дорогим",
-      "tags": [
-        "LocalLLaMA"
-      ]
+      "title_ru": "Вот почему нужны локальные модели и opensource решения",
+      "comments_en": []
     },
     {
-      "id": "t3_1rcpmwn",
-      "title_en": "Anthropic: \"We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\" 🚨",
-      "title_ru": "Anthropic: «Мы определили промышленные атаки на наши модели от DeepSeek, Moonshot AI и MiniMax»",
-      "score": 4889,
-      "comments_count": 878,
-      "date": "2026-02-23",
-      "content_en": "",
+      "id": "1uvbzul",
+      "title": "Apple M7 Ultra Chip запланирован с до 1.5 TB единой памяти",
+      "score": 1329,
+      "comments_count": 413,
+      "date": "2026-07-13",
+      "tags": [
+        "Hardware",
+        "Apple"
+      ],
+      "ai_summary_ru": "Apple готовит чип M7 Ultra с рекордным объёмом памяти для локальных AI задач.",
       "content_ru": "",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rcpmwn/anthropic_weve_identified_industrialscale/",
+      "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
       "is_read": false,
       "is_favorite": false,
-      "ai_summary_ru": "Anthropic: «Мы определили промышленные атаки на наши модели от DeepSeek, Moonshot AI и MiniMax»",
-      "tags": [
-        "LocalLLaMA"
-      ]
+      "title_ru": "Apple M7 Ultra Chip запланирован с до 1.5 TB единой памяти",
+      "comments_en": []
     },
     {
-      "id": "t3_1n46ify",
-      "title_en": "Finally China entering the GPU market to destroy the unchallenged monopoly abuse. 96 GB VRAM GPUs under 2000 USD, meanwhile NVIDIA sells from 10000+ (RTX 6000 PRO)",
-      "title_ru": "Наконец, Китай выходит на рынок GPU, чтобы уничтожить бесспорное злоупотребление монополией. 96 ГБ графических процессоров VRAM менее 2000 USD, в то время как NVIDIA продается от 10000+ (RTX 6000 PRO)",
-      "score": 4279,
-      "comments_count": 703,
-      "date": "2025-08-30",
-      "content_en": "",
-      "content_ru": "",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1n46ify/finally_china_entering_the_gpu_market_to_destroy/",
+      "id": "1uvcjd0",
+      "title": "Я протестировал 15 «мусорных» GPU на современных задачах",
+      "score": 338,
+      "comments_count": 136,
+      "date": "2026-07-13",
+      "tags": [
+        "Hardware",
+        "LLM",
+        "Benchmark"
+      ],
+      "ai_summary_ru": "Ремонт и тестирование устаревших GPU для AI: V100 — лучший выбор, P40 лучше для LLM, M60 отличен для Whisper.",
+      "content_ru": "Я провёл год, собирая [охлодители для GPU](https://esologic.com/cooler/) и [инструмент для бенчмаркинга](https://github.com/esologic/gpu_box_benchmark), чтобы выяснить, пригодятся ли выведенные из эксплуатации серверные GPU NVIDIA для современных задач...\n\n**V100 — золотая середина**: V100 (16GB) полностью меня удивил. Его производительность наравне с гораздо более дорогим T40.\n**P40 > P100 для LLM**: Консенсус сообщества подтверждается. Если вы хотите запускать LLM и используете Pascal, возьмите P40.\n**M60 — монстр для Whisper**: Если нужно транскрибировать много аудио, M60 шокирующе способен (даже лучше V100) и стоит лишь $50.\n\n[Полный набор графиков и находок на моём блоге](https://esologic.com/benchmarking-tesla-gpus/).",
+      "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvcjd0/i_benchmarked_15_ewaste_gpus_with_modern_workloads/",
       "is_read": false,
       "is_favorite": false,
-      "ai_summary_ru": "Наконец, Китай выходит на рынок GPU, чтобы уничтожить бесспорное злоупотребление монополией. 96 ГБ графических процессор...",
-      "tags": [
-        "LocalLLaMA"
-      ]
-    },
-    {
-      "id": "t3_1rsunqq",
-      "title_en": "I feel personally attacked",
-      "title_ru": "Я чувствую себя лично атакованным",
-      "score": 4217,
-      "comments_count": 221,
-      "date": "2026-03-13",
-      "content_en": "",
-      "content_ru": "",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsunqq/i_feel_personally_attacked/",
-      "is_read": false,
-      "is_favorite": false,
-      "ai_summary_ru": "Я чувствую себя лично атакованным",
-      "tags": [
-        "LocalLLaMA"
-      ]
-    },
-    {
-      "id": "t3_1s8ijfb",
-      "title_en": "Claude code source code has been leaked via a map file in their npm registry",
-      "title_ru": "Исходный код Claude просочился через файл карты в реестре npm",
-      "score": 4057,
-      "comments_count": 783,
-      "date": "2026-03-31",
-      "content_en": "From Chaofan Shou on 𝕏 (files): [https://x.com/Fried\\_rice/status/2038894956459290963](https://x.com/Fried_rice/status/2038894956459290963)",
-      "content_ru": "Из Chaofan Shou on X (файлы): [https://x.com/Fried\\ rice/status/20388949559290963] (https://x.com/Fried rice/status/2038894956459290963)",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s8ijfb/claude_code_source_code_has_been_leaked_via_a_map/",
-      "is_read": false,
-      "is_favorite": false,
-      "ai_summary_ru": "Из Chaofan Shou on X (файлы): [https://x. com/Fried\\ rice/status/20388949559290963] (https://x.",
-      "tags": [
-        "LocalLLaMA"
-      ]
+      "title_ru": "Я протестировал 15 «мусорных» GPU на современных задачах",
+      "comments_en": []
     }
   ]
 }

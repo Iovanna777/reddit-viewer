@@ -16,15 +16,10 @@ Thumbs.db
 *.py
 *.sh
 
-# Документация
+# Документация (не деплоим)
 *.md
 *.txt
 
-# временные файлы мимокод
-.mimocode/
-
-# дополнительные файлы
-INSTRUCTIONS.md
-prompt_for_summery.txt
+# Конфиги (не деплоим)
 apify_mcp_queries.json
-index_darkblue.html
+rotation_state.json
