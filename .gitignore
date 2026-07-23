@@ -23,3 +23,7 @@ Thumbs.db
 # Конфиги (не деплоим)
 apify_mcp_queries.json
 rotation_state.json
+.mimocode/
+# Временные dataset файлы
+*_dataset*.json
+.updated_subreddits
