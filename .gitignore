@@ -26,3 +26,4 @@ rotation_state.json
 .mimocode/
 # Временные dataset файлы
 *_dataset*.json
+.updated_subreddits
