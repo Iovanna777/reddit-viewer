@@ -1,1 +1,95 @@
-{"title": "aiToolForBusiness", "posts": []}
+{
+  "title": "aiToolForBusiness",
+  "posts": [
+    {
+      "id": "t3_1v4enmm",
+      "title_en": "i sold my AI SaaS for $35k in 5 months. i created a group to share all of this.",
+      "title_ru": "я продал свой AI SaaS за 35 тысяч долларов за 5 месяцев. Я создал группу, чтобы поделиться всем этим.",
+      "score": 1,
+      "comments_count": 0,
+      "date": "2026-07-23",
+      "content_en": "yo. i recently sold one of my AI SaaS products for **$35k, exactly 5 months after building and launching it.**\n\nI hardly wrote a single line of traditional code. i used AI to generate everything, from the database architecture to the user interface.\n\nit definitely wasn't magic on day one, though. i spent days stuck in loop-debugging and dealing with AI hallucinations before i finally cracked the system. **the playbook boils down to three simple rules:**\n\n\\- keeping the idea insanely minimalist (a true MVP that solves one problem).\n\n\\- guiding the AI step-by-step instead of asking it to build a massive platform all at once.\n\n\\- launching fast to get real user feedback and traction and then apply a solid marketing system\n\n\n\nlately, i've seen way too many non-technical founders give up at the very first AI bug, or on the marketing. it's a massive shame.\n\n\n\nlike the title says, i just launched a Skool community to **share my exact prompt workflows, N8N automations, and distribution frameworks to get first users and scale it**\n\n\n\nto be completely transparent: i will likely charge for the full course later down the road. it just makes sense given the specific copy-and-paste templates i'll be sharing.\n\nbut for now, the main objective is purely to build and launch together. building alone in a silent corner is the single fastest way to give up.\n\n\n\nif you want to join us and **build or market** your own AI SaaS with a group of active creators: **drop a comment below or send me a dm**, and i’ll send you the invite link!",
+      "content_ru": "йоу. Недавно я продал один из своих продуктов AI SaaS за 35 тысяч долларов, ровно через 5 месяцев после его создания и запуска.\n\nЯ почти не написал ни одной строки традиционного кода. Я использовал ИИ для создания всего, от архитектуры базы данных до пользовательского интерфейса.\n\nНо это точно не было волшебством в первый день. Я провел дни, застряв в отладке петли и работе с галлюцинациями ИИ, прежде чем наконец взломал систему. ** Плейбук сводится к трем простым правилам: **\n\nСохраняя идею безумно минималистичной (настоящий MVP, который решает одну проблему).\n\nРуководствуясь ИИ шаг за шагом, вместо того, чтобы просить его построить массивную платформу сразу.\n\nбыстрое запуск, чтобы получить реальную обратную связь и тягу пользователя, а затем применить надежную маркетинговую систему;\n\n\n\nВ последнее время я видел, как слишком много нетехнических основателей сдаются при первой ошибке ИИ или на маркетинге. Это огромный позор.\n\n\n\nКак говорится в заголовке, я только что запустил сообщество Skool, чтобы поделиться своими точными быстрыми рабочими процессами, автоматизацией N8N и фреймворками распространения, чтобы получить первых пользователей и масштабировать его.\n\n\n\nЧтобы быть полностью прозрачным: я, вероятно, взимать плату за полный курс позже. Это просто имеет смысл, учитывая конкретные шаблоны копирования и пасты, которыми я буду делиться.\n\nНо на данный момент главная цель состоит в том, чтобы строить и запускать вместе. Строительство в тихом уголке — самый быстрый способ сдаться.\n\n\n\nЕсли вы хотите присоединиться к нам и создать или продать свой собственный AI SaaS с группой активных создателей: **бросьте комментарий ниже или отправьте мне dm**, и я отправлю вам ссылку приглашения!",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/aiToolForBusiness/comments/1v4enmm/i_sold_my_ai_saas_for_35k_in_5_months_i_created_a/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "йоу...",
+      "tags": [
+        "aiToolForBusiness"
+      ]
+    },
+    {
+      "id": "t3_1v4473z",
+      "title_en": "Why is it so hard to find a Gamma alternative for making slide decks??",
+      "title_ru": "Почему так трудно найти гамма-альтернативу для создания слайд-палуб?",
+      "score": 1,
+      "comments_count": 3,
+      "date": "2026-07-23",
+      "content_en": "Oh man trying a few tools lately cause i need something better than gamma for making my slide decks  \nProblem is in gamma now the slides that I make can be recognised by everyone from a mile away.There is JUST SOMETHING like its common outline,visuals and format that kinda falls apart, I dont really need perfect tool but I also dont wanna spend half my time fixing things to make it look real and authentic deck with relevant short crisp details. \n\nYou guys actually found something that holds up better in real use or is everything pretty much the same?\n\n  \n",
+      "content_ru": "О, человек, пробующий несколько инструментов в последнее время, потому что мне нужно что-то лучше, чем гамма для создания моих слайд-палуб\nПроблема в том, что слайды, которые я делаю, могут быть распознаны всеми с расстояния в милю. Есть только что-то вроде общих чертежей, визуальных эффектов и формата, которые разваливаются, мне не нужен идеальный инструмент, но я также не хочу тратить половину своего времени на исправление вещей, чтобы они выглядели реальными и подлинными.\n\nВы, ребята, на самом деле нашли что-то, что лучше в реальном использовании или все почти одинаково?\n\n\n?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/aiToolForBusiness/comments/1v4473z/why_is_it_so_hard_to_find_a_gamma_alternative_for/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Текущие инструменты вроде Canva, Google Slides и PowerPoint со pipeline‑аут‑файтами и готовыми шаблонами дают более удобный визуальный результат быстрее, но полностью избавиться от необходимости “подгонять” детали пока невозможно.",
+      "tags": [
+        "aiToolForBusiness"
+      ]
+    },
+    {
+      "id": "t3_1v3u21g",
+      "title_en": "AI assistant for email",
+      "title_ru": "AI Assistant для электронной почты",
+      "score": 1,
+      "comments_count": 3,
+      "date": "2026-07-22",
+      "content_en": "A large part of my work is engaging in negotiations via email with people. Think of it like negotiating sales prices of products, and I have about 100 emails a day of this, back-and-forth. These negotiations are boilerplate, single sentences, sometimes, but are based on data sets, a.k.a. spreadsheets that have information about each person I am negotiating with. There is a general formula to the end number that I am negotiating for each person, something that the AI could definitely learn. I am looking for an AI assistant that ideally would work in this fashion: I open the latest email, the AI plugin can review the email, including the thread, and propose the response, given the information it has from the data sets. I am looking for suggestions.",
+      "content_ru": "Большая часть моей работы связана с переговорами по электронной почте с людьми. Думайте об этом, как о переговорах о ценах продажи продуктов, и у меня есть около 100 писем в день. Эти переговоры иногда являются шаблонными, единичными предложениями, но основаны на наборах данных, которые содержат информацию о каждом человеке, с которым я веду переговоры. Существует общая формула конечного числа, которую я обсуждаю для каждого человека, что-то, чему ИИ мог бы определенно научиться. Я ищу помощника ИИ, который в идеале работал бы таким образом: я открываю последнюю электронную почту, плагин ИИ может просматривать электронную почту, включая поток, и предлагать ответ, учитывая информацию, которую он имеет из наборов данных. Я ищу предложения.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/aiToolForBusiness/comments/1v3u21g/ai_assistant_for_email/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Один из оптимальных вариантов — установить плагин, вроде «Email AI Assistant» или «Gmail Smart Reply», который анализирует входящие сообщения и предлагает персонализированные ответы, используя данные из ваших наборов информации.",
+      "tags": [
+        "aiToolForBusiness"
+      ]
+    },
+    {
+      "id": "t3_1v3ru9n",
+      "title_en": "What skills are u using in Chatgpt?",
+      "title_ru": "Какие навыки вы используете в Chatgpt?",
+      "score": 1,
+      "comments_count": 0,
+      "date": "2026-07-22",
+      "content_en": "In my chatgpt pro plan, now i m seeing skill feature, I dont know when they roll out but i m recently see this feature in chatgpt, have anyone tried using skills in chatgpt and what are the best skills that u have tried so far?\n\nI m exploring new skills for small use cases like creating a thumbnail for IG, newsletter, improving my content, reviewing content etc.\n\nToday I came across a cool skill called  /No-AI-Slop Skill which remove 20+ patterns of AI slop from your writing. Which skills are u using in chatgpt?",
+      "content_ru": "В моем плане чатгпт-профессионала, теперь я вижу функцию навыков, я не знаю, когда они развертываются, но я недавно увидел эту функцию в чатгпте, кто-нибудь пробовал использовать навыки в чатгпте и какие лучшие навыки вы пробовали до сих пор?\n\nЯ изучаю новые навыки для небольших случаев использования, таких как создание миниатюры для IG, информационный бюллетень, улучшение моего контента, просмотр контента и т. Д.\n\nСегодня я наткнулся на классный навык под названием /No-AI-Slop Skill, который удаляет более 20 шаблонов AI-slop из вашего письма. Какие навыки вы используете в чате?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/aiToolForBusiness/comments/1v3ru9n/what_skills_are_u_using_in_chatgpt/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Я недавно тестировал навык /No‑AI‑Slop, который автоматически удаляет более 20 шаблонных AI‑фраз из текста, и он помогает быстро привести письмо к «человеческому» виду, делая контент более естественным.",
+      "tags": [
+        "aiToolForBusiness"
+      ]
+    },
+    {
+      "id": "t3_1v3dc1a",
+      "title_en": "Anyone using AI employees for small business owners?",
+      "title_ru": "Кто-нибудь использует сотрудников ИИ для владельцев малого бизнеса?",
+      "score": 4,
+      "comments_count": 16,
+      "date": "2026-07-22",
+      "content_en": "I keep seeing people talk about AI employees for small business owners, especially for workflows like managing emails/calendar, cold outreach/follow ups and manage content calendar for all social media platforms.\n\nHas anyone here actually used this kind of setup, and did it genuinely save time once it was set up or still need daily managing like any other tool?",
+      "content_ru": "Я продолжаю видеть, как люди говорят о сотрудниках ИИ для владельцев малого бизнеса, особенно для рабочих процессов, таких как управление электронной почтой / календарем, холодный охват / отслеживание и управление календарем контента для всех платформ социальных сетей.\n\nКто-нибудь здесь использовал такую настройку, и действительно ли она экономила время после ее установки или все еще нуждается в ежедневном управлении, как любой другой инструмент?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/aiToolForBusiness/comments/1v3dc1a/anyone_using_ai_employees_for_small_business/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Да, многие малые бизнесы отмечают, что после настройки AI‑помощников на e‑mail, рассылки и календарный контент они действительно экономят несколько часов в неделю, но без регулярной проверки, корректировок и резервных правок такие решения всё равно требуют ежедневного контроля.",
+      "tags": [
+        "aiToolForBusiness"
+      ]
+    }
+  ]
+}
