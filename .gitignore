@@ -23,3 +23,4 @@ Thumbs.db
 # Конфиги (не деплоим)
 apify_mcp_queries.json
 rotation_state.json
+.mimocode/
