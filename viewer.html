@@ -234,6 +234,7 @@
         <a href="viewer.html?redditId=content&subredditId=blogging">blogging</a>
         <a href="viewer.html?redditId=content&subredditId=copywriting">copywriting</a>
         <a href="viewer.html?redditId=content&subredditId=ContentCreators">ContentCreators</a>
+<a href="viewer.html?redditId=content&subredditId=Creators">Creators</a>
       </div>
     </li>
 
@@ -262,6 +263,7 @@
         <a href="viewer.html?redditId=marketing&subredditId=content_marketing">content_marketing</a>
         <a href="viewer.html?redditId=marketing&subredditId=ecommerce">ecommerce</a>
         <a href="viewer.html?redditId=marketing&subredditId=growmybusiness">growmybusiness</a>
+<a href="viewer.html?redditId=marketing&subredditId=marketing">marketing</a>
       </div>
     </li>
 
@@ -286,6 +288,8 @@
         <a href="viewer.html?redditId=startups&subredditId=Entrepreneur">Entrepreneur</a>
         <a href="viewer.html?redditId=startups&subredditId=sideproject">sideproject</a>
         <a href="viewer.html?redditId=startups&subredditId=SweatyStartup">SweatyStartup</a>
+<a href="viewer.html?redditId=startups&subredditId=EntrepreneurRideAlong">EntrepreneurRideAlong</a>
+<a href="viewer.html?redditId=startups&subredditId=smallbusiness">smallbusiness</a>
       </div>
     </li>
 
@@ -738,10 +742,10 @@ function initDropdownNav() {
   // AI dropdown dynamic population
   const aiDropdown = document.getElementById('ai-dropdown');
   if (aiDropdown) {
-    const aiSubreddits = ['MachineLearning', 'artificial', 'LocalLLaMA', 'deep_learning'];
+    const aiSubreddits = ['OpenAI', 'ChatGPT', 'ClaudeAI', 'LocalLLaMA', 'GenAI', 'genai', 'singularity', 'artificial', 'MachineLearning', 'PromptEngineering', 'AI_Agents', 'aiToolForBusiness'];
     aiSubreddits.forEach(sub => {
       const a = document.createElement('a');
-      a.href = `catalog/AI/${sub}/index.html`;
+      a.href = `viewer.html?redditId=ai&subredditId=${sub}`;
       a.textContent = sub;
       aiDropdown.appendChild(a);
     });
