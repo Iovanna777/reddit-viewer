@@ -4,7 +4,7 @@
       "id": "ai",
       "title": "🧠 AI",
       "description": "ChatGPT, LLM, AI-агенты, генеративный ИИ, локальные модели",
-      "subreddits_count": 10,
+      "subreddits_count": 11,
       "subreddits": [
         {
           "id": "ChatGPT",
@@ -45,6 +45,10 @@
         {
           "id": "AI_Agents",
           "title": "AI_Agents"
+        },
+        {
+          "id": "aiToolForBusiness",
+          "title": "aiToolForBusiness"
         }
       ]
     },
@@ -257,42 +261,6 @@
         {
           "id": "EntrepreneurRideAlong",
           "title": "EntrepreneurRideAlong"
-        }
-      ]
-    },
-    {
-      "id": "trading",
-      "title": "📊 Трейдинг",
-      "description": "Трейдинг, форекс, анализ рынка",
-      "subreddits_count": 7,
-      "subreddits": [
-        {
-          "id": "Daytrading",
-          "title": "Daytrading"
-        },
-        {
-          "id": "Forex",
-          "title": "Forex"
-        },
-        {
-          "id": "FuturesTrading",
-          "title": "FuturesTrading"
-        },
-        {
-          "id": "OrderFlow_Trading",
-          "title": "OrderFlow_Trading"
-        },
-        {
-          "id": "RealDayTrading",
-          "title": "RealDayTrading"
-        },
-        {
-          "id": "TechnicalAnalysis",
-          "title": "TechnicalAnalysis"
-        },
-        {
-          "id": "swingtrading",
-          "title": "swingtrading"
         }
       ]
     },
