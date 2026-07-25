@@ -153,6 +153,7 @@
         <a href="viewer.html?redditId=ai&subredditId=GenAI">GenAI</a>
         <a href="viewer.html?redditId=ai&subredditId=PromptEngineering">PromptEngineering</a>
         <a href="viewer.html?redditId=ai&subredditId=AI_Agents">AI_Agents</a>
+        <a href="viewer.html?redditId=ai&subredditId=aiToolForBusiness">aiToolForBusiness</a>
       </div>
     </li>
 
@@ -344,12 +345,10 @@ async function loadCategories() {
     const r = await fetch('data/categories.json');
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const data = await r.json();
-    // Исключаем некоторые категории
-    const filtered = data.categories.filter(c => c.id !== 'trading');
-    renderCategories(filtered);
+    renderCategories(data.categories);
     // Обновляем метрики
-    document.getElementById('m-cats').textContent = filtered.length;
-    document.getElementById('m-subs').textContent = filtered.reduce((a,c) => a + (c.subreddits?.length || 0), 0);
+    document.getElementById('m-cats').textContent = data.categories.length;
+    document.getElementById('m-subs').textContent = data.categories.reduce((a,c) => a + (c.subreddits?.length || 0), 0);
   } catch(e) {
     console.error('Load error:', e);
   }
