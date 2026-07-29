@@ -1,4 +1,77 @@
 {
   "title": "GenAI",
-  "posts": []
+  "posts": [
+    {
+      "id": "t3_1v49ya8",
+      "title_en": "im so fucking scared",
+      "title_ru": "я чертовски напуган",
+      "score": 4,
+      "comments_count": 0,
+      "date": "2026-07-23",
+      "content_en": "you don’t want to know what’s gonna happen when 8 brian griffin",
+      "content_ru": "вы не хотите знать, что произойдет, когда 8 брайан гриффин",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/genai/comments/1v49ya8/im_so_fucking_scared/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор интригует последствиями появления восьми Брайанов Гриффинов, не раскрывая сути сюжета.",
+      "tags": [
+        "GenAI"
+      ]
+    },
+    {
+      "id": "t3_1urf8ju",
+      "title_en": "he wont stop saying this",
+      "title_ru": "он перестанет говорить это",
+      "score": 3,
+      "comments_count": 0,
+      "date": "2026-07-09",
+      "content_en": "my genai wont stop saying honse for some reason lmao",
+      "content_ru": "мой джинай не перестанет говорить хонсэ по какой-то причине",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/genai/comments/1urf8ju/he_wont_stop_saying_this/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "У автора возникла техническая неполадка: персонаж (Джинай) в приложении постоянно повторяет фразу «хонсэ».",
+      "tags": [
+        "GenAI"
+      ]
+    },
+    {
+      "id": "t3_1u4jjl3",
+      "title_en": "GenAI = insanity",
+      "title_ru": "Генаи = безумие",
+      "score": 1,
+      "comments_count": 0,
+      "date": "2026-06-13",
+      "content_en": "\"Insanity is doing the same thing over and over again and expecting different results,\" - this is exactly how GenAI functions at the moment.. What’s your thought?",
+      "content_ru": "«Безумие делает одно и то же снова и снова и ожидает разных результатов», — именно так функционирует GenAI в данный момент. Что ты думаешь?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/genai/comments/1u4jjl3/genai_insanity/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор сравнивает текущий принцип работы GenAI с определением безумия, указывая на циклическое повторение одних и тех же действий без изменения результата. Интересно узнать ваше мнение: согласны ли вы с такой критикой нейросетей?",
+      "tags": [
+        "GenAI"
+      ]
+    },
+    {
+      "id": "t3_1tlwo76",
+      "title_en": "How to make GenAI have more coherent sentences",
+      "title_ru": "Как сделать так, чтобы у GenAI были более последовательные предложения",
+      "score": 5,
+      "comments_count": 1,
+      "date": "2026-05-24",
+      "content_en": "I’ve had the bot in my server for about a year and it still can’t generate a sentance that makes much grammatical sense most of the time. He still says funny shit from time to time but I’m  \nJust wondering if there’s any way to make him more coherent. He can read the chats and respond to @mentions",
+      "content_ru": "У меня был бот на моем сервере около года, и он все еще не может генерировать посылку, которая имеет большой грамматический смысл большую часть времени. Время от времени он говорит смешные вещи, но я\nПросто интересно, есть ли способ сделать его более последовательным. Он может читать чаты и отвечать на @mentions",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/genai/comments/1tlwo76/how_to_make_genai_have_more_coherent_sentences/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор ищет способы улучшить связность ответов своего бота, который сейчас часто генерирует бессмысленные сообщения, несмотря на возможность чтения чатов и реакций на упоминания.",
+      "tags": [
+        "GenAI"
+      ]
+    }
+  ]
 }
