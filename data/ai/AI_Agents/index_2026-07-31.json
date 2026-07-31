@@ -1,0 +1,95 @@
+{
+  "title": "AI_Agents",
+  "posts": [
+    {
+      "id": "t3_1v58tol",
+      "title_en": "Looking for a mentor",
+      "title_ru": "В поисках наставника",
+      "score": 1,
+      "comments_count": 1,
+      "date": "2026-07-24",
+      "content_en": "Especially if you have worked in ai development.\n\nSo I love looking at job boards and spotting trends in the job market. It’s a weird thing I nerd out about lol\n\nAnd I come up with all these content ideas but I’m not sure what to do with them because I’m not a AI professional.\n\nSo here’s what I was thinking. I would love to have the help of some AI professionals to vet my content ideas to let me know if they are good and I can start my own channel like on YouTube or something where I would share job trends for career seekers.\n\nOr maybe there’s a AI professional here who already has their own channel but would like a content strategist who can stay on top of trends in the job market and help you generate content ideas. \n\nThose are the two ways I was thinking I could monetize this “hobby/talent” of mine. \n\nWhat do you think? Feel free to comment or message me. ",
+      "content_ru": "Особенно, если вы работаете в сфере развития.\n\nПоэтому я люблю смотреть на доски объявлений о вакансиях и выявлять тенденции на рынке труда. Это странная вещь, которую я занервничал о Lol.\n\nИ я придумываю все эти идеи контента, но я не знаю, что с ними делать, потому что я не специалист по искусственному интеллекту.\n\nВот о чем я думал. Я хотел бы, чтобы некоторые специалисты по искусственному интеллекту проверили мои идеи контента, чтобы сообщить мне, хороши ли они, и я могу запустить свой собственный канал, например, на YouTube или что-то, где я буду делиться тенденциями работы для соискателей карьеры.\n\nИли, может быть, есть профессионал в области искусственного интеллекта, который уже имеет свой собственный канал, но хотел бы иметь контент-стратега, который может оставаться на вершине тенденций на рынке труда и помогать вам генерировать идеи контента.\n\nЭто два способа монетизации моего «хобби/таланта».\n\nЧто думаешь? Не стесняйтесь комментировать или отправлять мне сообщения.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/AI_Agents/comments/1v58tol/looking_for_a_mentor/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор ищет эксперта по ИИ для сотрудничества: либо в качестве партнера для запуска собственного контент-проекта о рынке труда, либо в роли контент-стратега для уже существующего канала. Он рассматривает эти варианты как способ монетизировать свою экспертизу в анализе вакансий.",
+      "tags": [
+        "AI_Agents"
+      ]
+    },
+    {
+      "id": "t3_1v58ln6",
+      "title_en": "The Biggest Opportunity In Web Design Right Now",
+      "title_ru": "Самые большие возможности в веб-дизайне прямо сейчас",
+      "score": 0,
+      "comments_count": 1,
+      "date": "2026-07-24",
+      "content_en": "When I first got into web development, I thought finding clients would be simple. My plan was to go on Google Maps, find businesses without websites, and offer to build them a brand new one. At the time, it made perfect sense because I assumed businesses without websites would be the ones who needed my service the most.\n\nAfter a while, I met someone who was running a successful web agency, and I asked him where he found companies without websites. He told me that he didn’t target businesses without websites at all. He only targeted businesses that already had one. I asked him why, and the more he explained it, the more sense it made.\n\nBusinesses that already have a website understand the value of having one. You don’t need to convince them why a website is important because they have already invested in one before. They are also easier to sell to because they understand the process, and there are a huge number of businesses with outdated websites they are embarrassed by but haven’t had the time to update.\n\nI decided to take his advice and fit it into my own workflow. I’ve always been a big fan of email automation because that’s how I’ve found most of my web design clients. For years, I was sending fairly generic emails and constantly changing my sequences, offers, and follow ups to improve the results.\n\nThe problem was that I couldn’t just start emailing businesses with websites and assume they all needed a redesign. I either had to open every website manually, find the issues, and write a separate email for each business, or find a way to automate the research while still keeping the emails personalized.\n\nAfter watching a video from Nick Saraev, I built a workflow in n8n that could analyze websites at scale and turn issues with design, layout, speed, mobile optimization, and SEO into personalized outreach emails. This allowed me to analyze thousands of websites and run larger campaigns without every message sounding generic.\n\nThe workflow worked extremely well, but",
+      "content_ru": "Когда я впервые занялся веб-разработкой, я думал, что найти клиентов будет просто. Мой план состоял в том, чтобы перейти на Google Maps, найти компании без веб-сайтов и предложить им создать новый. В то время это имело смысл, потому что я предполагал, что компании без веб-сайтов будут теми, кто больше всего нуждается в моем сервисе.\n\nЧерез некоторое время я встретил человека, который руководил успешным веб-агентством, и спросил его, где он нашел компании без веб-сайтов. Он сказал мне, что он не нацелен на бизнес без веб-сайтов. Он ориентировался только на те предприятия, которые у него уже были. Я спросил его, почему, и чем больше он объяснял это, тем больше смысла это имело.\n\nКомпании, у которых уже есть веб-сайт, понимают ценность его наличия. Вам не нужно убеждать их, почему сайт важен, потому что они уже инвестировали в него раньше. Их также легче продать, потому что они понимают процесс, и есть огромное количество компаний с устаревшими веб-сайтами, которые им неудобны, но у них нет времени для обновления.\n\nЯ решил воспользоваться его советом и вписать его в свой рабочий процесс. Я всегда был большим поклонником автоматизации электронной почты, потому что именно так я нашел большинство своих клиентов веб-дизайна. В течение многих лет я отправлял довольно общие электронные письма и постоянно менял свои последовательности, предложения и последующие действия, чтобы улучшить результаты.\n\nПроблема заключалась в том, что я не мог просто начать рассылать письма компаниям с веб-сайтами и предположить, что все они нуждаются в редизайне. Мне пришлось либо открыть каждый сайт вручную, найти проблемы и написать отдельное электронное письмо для каждого бизнеса, либо найти способ автоматизировать исследование, сохраняя при этом персонализированные электронные письма.\n\nПосле просмотра видео от Ника Сараева я создал рабочий процесс в n8n, который мог анализировать веб-сайты в масштабе и превращать проблемы с дизайном, макетом, скоростью, мобильной оптимизацией и SEO в персонализированные информационные письма. Это позволило мне проанализировать тысячи веб-сайтов и запустить более крупные кампании без каждого сообщения.\n\nРабочий процесс работал очень хорошо, но он все еще имел ограничения. У меня не было подходящего места для управления ответами, организации заинтересованных лидов в CRM, просмотра всех моих активных кампаний, поиска новых лидов и управления всем с одной платформы. Я создал полезную автоматизацию, но все равно чувствовал, что несколько отключенных систем удерживаются вместе в одном рабочем процессе.\n\nНесколько месяцев спустя я наткнулся на платформу под названием Swokei, и она сделала именно то, что я искал. Я мог бы найти компании с веб-сайтами, анализировать и оценивать каждый сайт, генерировать персонализированные информационные письма, отправлять кампании, настраивать последующие наблюдения, управлять ответами через один почтовый ящик и организовывать заинтересованные предприятия внутри CRM.\n\nПереход на эту платформу значительно облегчил управление всем процессом и помог мне масштабировать стратегию. Оглядываясь назад, самое большое изменение было не просто найти лучший инструмент для охвата. Это был совет от кого-то более опытного, изменение типа бизнеса, на который я ориентировался, и построение остальной части моего рабочего процесса вокруг этой стратегии.\n\n.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/AI_Agents/comments/1v58ln6/the_biggest_opportunity_in_web_design_right_now/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор делится опытом перехода от поиска клиентов без сайтов к работе с компаниями, у которых уже есть устаревшие ресурсы. Он автоматизировал процесс анализа и персонализированной рассылки, используя специализированную платформу для управления лидами и коммуникациями.",
+      "tags": [
+        "AI_Agents"
+      ]
+    },
+    {
+      "id": "t3_1v58fpn",
+      "title_en": "The most useful thing I added to my agent skills wasn't a trigger. It was an anti-trigger.",
+      "title_ru": "Самая полезная вещь, которую я добавил к своим навыкам агента, не была триггером. Это был антитриггер.",
+      "score": 1,
+      "comments_count": 2,
+      "date": "2026-07-24",
+      "content_en": "When I started writing skills for my agent, I only defined when they should run. \"When the user says X, do Y.\" Worked fine with one skill. Broke immediately with two.\n\nThe problem: \"deploy\" triggered both my deploy skill and my git workflow skill. The agent picked randomly. Results were inconsistent.\n\nThe fix that actually worked: adding explicit \"do NOT do this\" boundaries to each skill.\n\nMy deploy skill now says: \"Do NOT trigger on 'git push', 'merge', or 'commit'. Those belong to the git workflow skill.\"\n\nMy git workflow skill says: \"Do NOT trigger on 'deploy', 'ship', or 'release'. Those belong to the deploy skill.\"\n\nTwo sentences each. The inconsistency disappeared overnight.\n\nThe principle is simple: anti-triggers prevent false matches. Your skills aren't just competing for what to do. They're competing for what NOT to do. If you don't tell the agent, it guesses.\n\nWorth checking: do your skills have anti-triggers? If not, that's probably why two of them keep fighting.\n\nI wrote up more about this pattern, with exercises and examples, in an ebook I put together on agentic engineering. Not going to drop the link unprompted, but if anyone's interested I'll share it.",
+      "content_ru": "Когда я начал писать для своего агента, я только определил, когда они должны бежать. Когда пользователь говорит X, сделайте Y. Отлично сработал с одним навыком. Немедленно сломался с двумя.\n\nПроблема: «развертывание» спровоцировало как мои навыки развертывания, так и навыки работы с git. Агент выбрал случайным образом. Результаты были непоследовательными.\n\nИсправление, которое действительно сработало: добавление четких границ «не делайте этого» к каждому навыку.\n\nМой навык развертывания теперь говорит: «Не запускайте «подтолкнуть», «слиться» или «совершить». Они относятся к навыкам работы с гитами\".\n\nМой навык работы с git говорит: «Не запускайте «развертывание», «корабль» или «выпуск». Они относятся к навыкам развертывания\".\n\nДва предложения каждое. Непоследовательность исчезла в одночасье.\n\nПринцип прост: антитриггеры предотвращают ложные совпадения. Ваши навыки не просто конкурируют за то, что делать. Они соревнуются за то, чего не следует делать. Если вы не скажете агенту, он угадает.\n\nСтоит проверить: есть ли у ваших навыков антитриггеры? Если нет, то, вероятно, именно поэтому двое из них продолжают сражаться.\n\nЯ написал больше об этой схеме, с упражнениями и примерами, в книге, которую я собрал на агентной инженерии. Не собираюсь сбрасывать ссылку без промедления, но если кому-то интересно, я поделюсь ею.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/AI_Agents/comments/1v58fpn/the_most_useful_thing_i_added_to_my_agent_skills/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Чтобы ИИ-агент не путал похожие навыки, добавьте в их описание «антитриггеры» — список действий, которые навыку выполнять запрещено. Это простое решение устраняет конфликты и делает работу агента предсказуемой.",
+      "tags": [
+        "AI_Agents"
+      ]
+    },
+    {
+      "id": "t3_1v582si",
+      "title_en": "What's more important for an AI Product today? Great Technology or great Distribution",
+      "title_ru": "Что сегодня важнее для ИИ-продукта? Великие технологии или великое распространение",
+      "score": 5,
+      "comments_count": 8,
+      "date": "2026-07-24",
+      "content_en": "Every day, new AI Products are launching, I have noticed some products with great technology still go unnoticed, while other with similar or fewer features gain users because of better distribution. \n\nIn today's AI market, what's more important a great product or great distribution? I'd love to hear what you've experienced. ",
+      "content_ru": "Каждый день запускаются новые продукты ИИ, я заметил, что некоторые продукты с отличными технологиями все еще остаются незамеченными, в то время как другие с аналогичными или меньшими функциями получают пользователей из-за лучшего распространения.\n\nНа современном рынке ИИ, что важнее: отличный продукт или отличная дистрибуция? Я бы хотел услышать, что вы испытали.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/AI_Agents/comments/1v582si/whats_more_important_for_an_ai_product_today/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Вот краткое содержание вашего поста:\n\nНа рынке ИИ качественный продукт часто проигрывает менее технологичным решениям с сильной стратегией распространения. Что, по вашему мнению, играет решающую роль в успехе: функционал продукта или его дистрибуция?",
+      "tags": [
+        "AI_Agents"
+      ]
+    },
+    {
+      "id": "t3_1v57qk5",
+      "title_en": "AI Automation Builder",
+      "title_ru": "Строитель автоматизации AI",
+      "score": 1,
+      "comments_count": 1,
+      "date": "2026-07-24",
+      "content_en": "Hey — I build automation using AI agents. If you're stuck doing repetitive manual tasks (data entry, lead follow-ups, report generation, customer replies, scraping, scheduling, etc.), I can turn that into an AI-powered workflow that runs on its own.\n\nWhat I can help with:\n\n* Custom AI agents (using tools like n8n, Make, Zapier + LLMs)\n* Automating repetitive business tasks end-to-end\n* Connecting your tools/apps so they talk to each other automatically\n* Simple, no-fuss setup — I keep things clean and easy to maintain, not over-engineered\n\nIf you've got a process that's eating up your time, tell me what it is and I'll tell you honestly whether AI/automation can fix it (and roughly how).\n\nDM me or comment below with what you need — happy to do a quick free consult call to scope it out.",
+      "content_ru": "Я создаю автоматизацию с помощью агентов ИИ. Если вы застряли в выполнении повторяющихся ручных задач (ввод данных, отслеживание потенциальных клиентов, генерация отчетов, ответы клиентов, соскабливание, планирование и т. Д.), Я могу превратить это в рабочий процесс на основе ИИ, который работает сам по себе.\n\nЧем я могу помочь:\n\nПользовательские агенты ИИ (используя такие инструменты, как n8n, Make, Zapier + LLM)\nАвтоматизация повторяющихся бизнес-задач сквозной\nПодключение инструментов / приложений, чтобы они автоматически разговаривали друг с другом\nПростая, беспроблемная настройка — я держу вещи чистыми и простыми в обслуживании, а не чрезмерно спроектированными\n\nЕсли у вас есть процесс, который съедает ваше время, скажите мне, что это такое, и я скажу вам честно, может ли ИИ / автоматизация исправить это (и примерно как).\n\nDM me или комментируйте ниже с тем, что вам нужно - с радостью сделайте быстрый бесплатный звонок для консультации, чтобы охватить его.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/AI_Agents/comments/1v57qk5/ai_automation_builder/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Вот вариант краткого содержания:\n\nЯ помогаю автоматизировать рутинные бизнес-процессы с помощью ИИ-агентов на базе n8n, Make и Zapier. Напишите мне в личные сообщения, чтобы обсудить вашу задачу и получить бесплатную консультацию по ее автоматизации.",
+      "tags": [
+        "AI_Agents"
+      ]
+    }
+  ]
+}
