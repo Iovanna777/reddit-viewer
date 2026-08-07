@@ -2,82 +2,94 @@
   "title": "SEO",
   "posts": [
     {
-      "id": "1usrppm",
-      "title": "Once Unimaginable, Publishers Are Preparing to Opt Out of Google Search",
-      "score": 93,
-      "comments_count": 11,
-      "date": "2026-07-10",
-      "content_en": "*This story was originally published in On Background with Mark Stenberg, a free, weekly newsletter that explores the key themes shaping the media industry. You can sign up for it* [*here*](https://preferences.adweek.com/on-background-newsletter-signup)*.*\n\nFor decades, publishers have done everything in their power, from the legal to the not-explicitly illegal, to rank as highly in Google Search as possible. For many websites, traffic from the search engine was their single greatest source of audience and, as a result, revenue.",
-      "comments_en": [
-        {
-          "comment_id": "owqb7tn",
-          "full_comment_id": "t1_owqb7tn",
-          "post_full_id": "t3_1usrppm",
-          "post_id": "1usrppm",
-          "post_title": "Once Unimaginable, Publishers Are Preparing to Opt Out of Google Search",
-          "author": "MissJoannaTooU",
-          "text": "This has pretty seismic and fairly predictable at the same time. \n\nGoogle's hubris will catch up with it.",
-          "created_at": "2026-07-10T16:48:26Z",
-          "scraped_at": "2026-07-15T09:20:54.764001Z",
-          "depth": 0,
-          "score": 26,
-          "permalink": "/r/SEO/comments/1usrppm/once_unimaginable_publishers_are_preparing_to_opt/owqb7tn/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Это довольно сейсмично и в то же время довольно предсказуемо. \n\nВысокомерие Google настигнет это."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/SEO/comments/1usrppm/once_unimaginable_publishers_are_preparing_to_opt/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "*Эта история была первоначально опубликована в бесплатном еженедельном информационном бюллетене On Background with Mark Stenberg, в котором рассматриваются ключевые темы, формирующие медиаиндустрию. Вы можете подписаться на нее* [*здесь*](https://preferences.adweek.com/on-background-newsletter-signup)*.*\n\nНа протяжении десятилетий издатели делали все, что в их силах, от законного до неявно незаконного, чтобы получить как можно более высокие позиции в поиске Google. Для многих веб-сайтов трафик из поисковых систем был единственным источником аудитории и, как следствие, дохода.",
-      "title_ru": "Когда-то это было невообразимо, издатели готовятся отказаться от поиска Google"
-    },
-    {
-      "id": "1uqq82b",
-      "title": "Google Search Console Now Shows You Instagram, TikTok, X & YouTube Content Search Performance",
-      "score": 67,
-      "comments_count": 2,
-      "date": "2026-07-08",
-      "content_en": "Google Search Console can now show how your social and video content perform within Google Search. This includes channels such as Instagram, TikTok, X and YouTube. Google kind of did this before, but now this data is going into the Performance reports, Insights reports, and the achievements section in Search Console.\n\nA few weeks ago, we caught Google releasing a [help document named platform properties](https://www.seroundtable.com/google-search-console-platform-property-tooltips-41495.html) and then Google quickly removed that document. Well, now we know that this was about how to add these social and video channels to your Google Search Console account. The help document should be live now, [over here](https://support.google.com/webmasters/answer/17148418) after it was pulled down.\n\nBeing able to verify domains/properties that are technically not your domain names is pretty interesting.\n\n  \nThanks to u/rustybrick",
+      "id": "t3_1slcdq0",
+      "title_en": "Sam Altman Says He's Suddenly Worried Dead Internet Theory Is Coming True",
+      "title_ru": "Сэм Альтман: «Теория мертвого интернета скоро станет реальностью»",
+      "score": 340,
+      "comments_count": 118,
+      "date": "2026-04-14",
+      "content_en": "For most of the SEO and all of the GEO subs - this is already true\n\n  \nOpenAI CEO Sam Altman, creator of the most popular AI chatbot on Earth, says he’s starting to worry that “dead internet theory” is coming true.\n\n“I never took the dead internet theory that seriously,” Altman tweeted in his typical all-lowercase style, “but it seems like there are really a lot of LLM-run twitter accounts now.” (LLM meaning large language model, the tech which powers AI chatbots.)\n\n\n\nHe was resoundingly mocked.\n\n\n\n“You’re absolutely right! This observation isn’t just smart — it shows you’re operating on a higher level,” responded one user, imitating ChatGPT’s em-dash laden prose.\n\nBut the most common rejoinder was a photograph of the comedian Tim Robinson in a hot dog suit, referencing a skit in which a character who obviously crashed a weiner-adorned car desperately tries to deflect blame, exclaiming at one point that “we’re all trying to find the guy who did this!”\n\nThe “dead internet theory” is a half-prophetic conspiracy that suggests that effectively the entire internet has been taken over by AI models and other autonomous machines. The vast majority of the posts and profiles you see, the theory holds, are just bots. In fact, you’re barely interacting with humans at all — everything you access online is just a machine-maintained illusion, almost like “The Matrix.”",
+      "content_ru": "Для большинства SEO и всех подлодок GEO - это уже верно.\n\n\nГенеральный директор OpenAI Сэм Альтман, создатель самого популярного чат-бота на Земле, говорит, что он начинает беспокоиться о том, что «теория мертвого интернета» сбывается.\n\n«Я никогда не воспринимал мертвую теорию интернета всерьез, — написал Альтман в своем твиттере, — но, похоже, сейчас существует множество аккаунтов в Twitter, управляемых LLM». (LLM означает модель большого языка, технология, которая питает чат-ботов ИИ.)\n\n\n\nЕго оглушительно издевались.\n\n\n\nВы абсолютно правы! Это наблюдение не просто умно — оно показывает, что вы работаете на более высоком уровне, — ответил один пользователь, имитируя нагруженную прозу ChatGPT.\n\nНо самым распространенным возражением была фотография комика Тима Робинсона в костюме хот-дога, ссылаясь на скит, в котором персонаж, который, очевидно, разбил автомобиль, украшенный вайнером, отчаянно пытается отклонить вину, восклицая в какой-то момент, что «мы все пытаемся найти парня, который сделал это!»\n\n«Теория мертвого интернета» — это полупророческий заговор, который предполагает, что фактически весь интернет был захвачен моделями ИИ и другими автономными машинами. Подавляющее большинство постов и профилей, которые вы видите, как утверждает теория, просто боты. На самом деле, вы почти не взаимодействуете с людьми — все, к чему вы обращаетесь в Интернете, является просто иллюзией, поддерживаемой машиной",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/SEO/comments/1uqq82b/google_search_console_now_shows_you_instagram/",
+      "original_url": "https://www.reddit.com/r/SEO/comments/1slcdq0/sam_altman_says_hes_suddenly_worried_dead/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Консоль поиска Google теперь может показывать, как ваш социальный и видеоконтент работает в Google Поиске. Сюда входят такие каналы, как Instagram, TikTok, X и YouTube. Google вроде делал это раньше, но теперь эти данные попадают в отчеты по производительности, отчеты Insights и раздел достижений в Search Console.\n\nНесколько недель назад мы заметили, что Google выпустил [справочный документ с названием \"Свойства платформы\"](https://www.seroundtable.com/google-search-console-platform-property-tooltips-41495.html), а затем Google быстро удалил этот документ. Что ж, теперь мы знаем, что речь шла о том, как добавить эти социальные и видеоканалы в вашу учетную запись Google Search Console. Справочный документ должен появиться сейчас [здесь](https://support.google.com/webmasters/answer/17148418) после его удаления.\n\nВозможность проверять домены/свойства, которые технически не являются вашими доменными именами, очень интересна.\n\n  \nСпасибо тебе/rustybrick",
-      "title_ru": "Консоль поиска Google теперь показывает эффективность поиска контента в Instagram, TikTok, X и YouTube"
+      "ai_summary_ru": "Сэм Альтман признал, что теория «мертвого интернета» может оказаться правдой, так как соцсети переполнены аккаунтами, управляемыми ИИ. Пользователи высмеяли его слова, указав на иронию ситуации, в которой создатель технологии сам удивляется её последствиям.",
+      "tags": [
+        "SEO"
+      ]
     },
     {
-      "id": "1uvwkt7",
-      "title": "Congratulations! Your site reached 100 clicks from Google Search in the past 28 days",
-      "score": 54,
-      "comments_count": 40,
-      "date": "2026-07-14",
-      "content_en": "I received this email today, after months of writing blogs, pillar contents and refining my site seo it's now gaining some traffic.\n\nThis the first website i am doing SEO and I'm currently at my 3rd month, any advice for a newbie like me what should i focus on for growth?",
-      "comments_en": [
-        {
-          "comment_id": "oxemuis",
-          "full_comment_id": "t1_oxemuis",
-          "post_full_id": "t3_1uvwkt7",
-          "post_id": "1uvwkt7",
-          "post_title": "Congratulations! Your site reached 100 clicks from Google Search in the past 28 days",
-          "author": "Airith0",
-          "text": "Topical authority, internal linking, and CloudFlare.\n\nThe last item being more of a forward thinking skill to get asap than a true “SEO” item. Albeit they are doing early work helping sites become agent ready",
-          "created_at": "2026-07-14T03:24:11Z",
-          "scraped_at": "2026-07-15T09:20:59.406230Z",
-          "depth": 0,
-          "score": 12,
-          "permalink": "/r/SEO/comments/1uvwkt7/congratulations_your_site_reached_100_clicks_from/oxemuis/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Тематический авторитет, внутренние ссылки и CloudFlare.\n\nПоследний пункт — это скорее навык дальновидного мышления, который нужно получить как можно скорее, чем настоящий предмет «SEO». Хотя они проводят раннюю работу, помогая сайтам подготовиться к работе с агентами."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/SEO/comments/1uvwkt7/congratulations_your_site_reached_100_clicks_from/",
+      "id": "t3_1p06nk4",
+      "title_en": "A Few Things That Finally Clicked About Authority, Topics, and How Google Actually Ranks Pages",
+      "title_ru": "Несколько вещей, которые, наконец, коснулись авторитета, тем и того, как Google на самом деле ранжирует страницы",
+      "score": 335,
+      "comments_count": 169,
+      "date": "2025-11-18",
+      "content_en": "I’ve been lurking here for a while, and the discussions have been more useful than most courses or blog posts, so I wanted to share a few things I’ve learned by simply paying attention. None of this is theory-crafting. It’s just pattern-matching from what people here consistently repeat, especially around topical authority, PageRank, and why Google behaves the way it does.\n\nOne thing that finally clicked for me is that every keyword you enter puts you into a topical space, and every key phrase you get clicks for is topical authority. That’s the whole definition. It doesn’t require a mystical map. Google sees clicks in a topic → you gain credibility in that topic. You expand the topic footprint → you expand the authority footprint. It's all mechanical.\n\nAnother big thing is how page-level everything is. PageRank isn’t a domain system; it’s a page system. Pages accumulate their own authority, their own relevancy, their own graph of signals. That’s why canonicals exist. That’s also why cannibalization exists. Multiple pages from one domain can claim the same keyword and block each other. There is no “domain ranks for X.” The domain only provides a baseline; the page competes.\n\nSomething else that shifted my thinking is the idea of topical bridges. Not everything sits in clean silos. Topics overlap in odd directions. If you publish inside one topic and start getting clicks, you can stretch into adjacent ones by linking and writing in the direction you want to expand. The web isn’t a neat taxonomy; it’s closer to overlapping circles. If people who search one query also commonly search another, there’s a bridge there whether you acknowledge it or not.\n\nThere’s also a practical point about metrics that get over-romanticized. People obsess over backlink counts and DR or DA, but these behave in non-linear ways. Losing a bunch of backlinks while shipping content within a tight topical band can still send traffic estimates up and even move DA. These metrics are just reflection",
+      "content_ru": "Я скрывался здесь некоторое время, и обсуждения были более полезными, чем большинство курсов или сообщений в блогах, поэтому я хотел поделиться несколькими вещами, которые я узнал, просто уделив внимание. Ничто из этого не является теорией. Это просто сопоставление шаблонов с тем, что люди здесь постоянно повторяют, особенно в отношении местного авторитета, PageRank и почему Google ведет себя так, как он делает.\n\nОдна вещь, которая, наконец, нажала на меня, заключается в том, что каждое ключевое слово, которое вы вводите, ставит вас в актуальное пространство, и каждая ключевая фраза, для которой вы получаете клики, является актуальным авторитетом. Это и есть целое определение. Для этого не нужна мистическая карта. Google видит клики в теме → вы получаете доверие к этой теме. Вы расширяете тематический след → вы расширяете авторитетный след. Всё механическое.\n\nЕще одна важная вещь — это то, как все происходит на уровне страницы. PageRank — это не система доменов, это система страниц. Страницы накапливают свой авторитет, свою актуальность, свой график сигналов. Вот почему существуют каноники. Именно поэтому и существует каннибализация. Несколько страниц одного домена могут претендовать на одно и то же ключевое слово и блокировать друг друга. Нет никаких «доменов для X». Домен обеспечивает только базовую линию; страница конкурирует.\n\nЧто-то еще, что изменило мое мышление, это идея актуальных мостов. Не все находится в чистых шахтах. Темы пересекаются в нечетных направлениях. Если вы публикуете внутри одной темы и начинаете получать клики, вы можете растянуться на смежные, связавшись и написав в направлении, которое вы хотите расширить. Сеть не является аккуратной таксономией; она ближе к перекрывающимся кругам. Если люди, которые ищут один запрос, также обычно ищут другой, есть мост, признаете вы это или нет.\n\nЕсть также практический момент о метриках, которые становятся слишком романтичными. Люди одержимы подсчетами обратных ссылок и DR или DA, но они ведут себя нелинейно. Потеря кучи обратных ссылок при доставке контента в узкой актуальной полосе все еще может отправлять оценки трафика и даже перемещать DA. Эти показатели являются просто отражением того, что инструменты считают вашим «авторитетом». Если инструмент видит, что ваш трафик растет в теме, он может интерпретировать это как усиление авторитета, даже если график обратных ссылок сокращается. Это все приближение PageRank, релевантности и поведенческих подсказок.\n\nБольше всего я оценил то, почему Google не является и не может быть двигателем оценки контента. Он не предназначен для чтения контента как человека и награждения баллов за мастерство. Это было бы философски привлекательно, но практически бессмысленно. Поиск не является художественным конкурсом. Работа Google заключается в ранжировании страниц по полезности, а не по литературному качеству. Полезность измеряется внешними сигналами, а не внутренним восхищением. YouTube является прекрасным примером. Google не смотрит видео, чтобы решить, какие из них хороши. Он обращает внимание на поведение пользователей, потому что это единственный масштабируемый, экономически эффективный, реальный показатель полезности. Он не может вручную оценить интернет, поэтому он полагается на следы, оставленные людьми.\n\nВот почему обратные ссылки по-прежнему имеют значение. Это не декорации. Это реальные одобрения. Это доказательство того, что кто-то где-то указал на вашу страницу и сказал: «Это стоит того, чтобы направлять других». И клики ведут себя так же. Клик - это голосование с уделением времени и внимания. Когда вы объединяете эти два, вы получаете работоспособный прокси для доверия. Не совершенный, не философски чистый, а функциональный.\n\nТаким образом, движок не вознаграждает качество контента в изоляции. Это вознаграждает эхо этого качества. Ссылки, клики, повторные взаимодействия: вещи, которые появляются только тогда, когда часть работы имеет реальную полезность. Вероятно, именно поэтому SEO по-прежнему сводится к скучным основам: быть актуальным, последовательно публиковать в своем актуальном пространстве и создавать или зарабатывать ссылки, которые показывают, что кто-то другой нашел работу ценной.\n\nЯ делюсь этим в основном благодаря всем, кто ломает вещи без обычного шума. Существует много мифологии вокруг SEO, но когда вы ее снимаете, система намного проще и механичнее, чем думают люди. И это хорошо. Можно рассуждать о механических системах. Они не требуют веры, а только наблюдения.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SEO/comments/1p06nk4/a_few_things_that_finally_clicked_about_authority/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Я получил это электронное письмо сегодня, после нескольких месяцев написания блогов, содержания столбцов и улучшения поисковой оптимизации моего сайта, теперь он набирает некоторый трафик.\n\nЭто первый веб-сайт, которым я занимаюсь SEO, и сейчас я работаю на третьем месяце. Какой совет для такого новичка, как я, на чем мне следует сосредоточиться для роста?",
-      "title_ru": "Поздравляем! Ваш сайт получил 100 кликов в Google Поиске за последние 28 дней."
+      "ai_summary_ru": "Google ранжирует страницы на основе накопленного тематического авторитета, который формируется через клики и поведенческие сигналы, а не через оценку качества контента. Успех в поиске зависит от релевантности конкретных страниц и их связей, а не от общих показателей домена или количества обратных ссылок.",
+      "tags": [
+        "SEO"
+      ]
+    },
+    {
+      "id": "t3_1t207d3",
+      "title_en": "I'm beating almost every web design agency and digital marketing firm for web design",
+      "title_ru": "Я побеждаю почти каждое агентство веб-дизайна и фирму цифрового маркетинга для веб-дизайна",
+      "score": 323,
+      "comments_count": 258,
+      "date": "2026-05-02",
+      "content_en": "I'm sharing this info even though I know nobody cares.\n\nI'm a freelance web designer in a major North American market and my website ranks #1 for \"(city) web design\" and #3 for \"web design (city)\". Yay! \n\nI'm self-taught in web design and SEO so this is a huge accomplishment for me.",
+      "content_ru": "Я делюсь этой информацией, хотя знаю, что это никого не волнует.\n\nЯ внештатный веб-дизайнер на крупном североамериканском рынке, и мой сайт занимает 1 место для «(город) веб-дизайна» и 3 место для «веб-дизайна (город)». Ура!\n\nЯ самоучка в веб-дизайне и SEO, так что это огромное достижение для меня.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SEO/comments/1t207d3/im_beating_almost_every_web_design_agency_and/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Самоучка-веб-дизайнер добился топовых позиций в выдаче поисковиков по ключевым запросам своего города. Это важное профессиональное достижение для автора.",
+      "tags": [
+        "SEO"
+      ]
+    },
+    {
+      "id": "t3_1u32k54",
+      "title_en": "Google can be directly liable for false AI Overview claims: German court",
+      "title_ru": "Google может нести прямую ответственность за ложные претензии к AI Overview",
+      "score": 320,
+      "comments_count": 63,
+      "date": "2026-06-11",
+      "content_en": "**Search protections didn’t apply.** Google argued that German case law limiting liability for traditional search engines and autocomplete should apply. Those rules generally treat search providers as indirect infringers when they surface third-party content.\n\n**AI Overviews aren**‘**t search results.** AI Overviews do more than help users find third-party content, the court said. They rewrite, combine, and evaluate information “in its own words and according to its own structure.”\n\n* In the disputed searches, Google’s AI Overview allegedly presented standalone claims about questionable business practices, along with warnings and red flags. The court found those claims didn’t appear in the linked sources.\n* Because Google created the feature, controls its presentation, and controls the underlying algorithms, the court treated the statements as Google’s own content.\n\n",
+      "content_ru": "** Защита не применяется.** Google утверждает, что немецкое прецедентное право, ограничивающее ответственность за традиционные поисковые системы и автозаполнение, должно применяться. Эти правила обычно рассматривают поставщиков поисковых услуг как косвенных нарушителей, когда они отображают сторонний контент.\n\n** Обзоры ИИ — это ****t результаты поиска. ** Обзоры ИИ помогают пользователям находить сторонний контент. Они переписывают, объединяют и оценивают информацию «своими словами и в соответствии со своей структурой».\n\nВ спорных поисковых запросах Google AI Overview якобы представил автономные заявления о сомнительной деловой практике, а также предупреждения и красные флаги. Суд установил, что эти претензии не фигурировали в связанных источниках.\nПоскольку Google создал эту функцию, контролирует ее презентацию и контролирует основные алгоритмы, суд рассматривал заявления как собственный контент Google.\n\n.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SEO/comments/1u32k54/google_can_be_directly_liable_for_false_ai/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Суд признал Google ответственным за содержание ИИ-обзоров, квалифицировав их как собственный контент компании, а не просто результаты поиска. В результате Google не может ссылаться на нормы, защищающие поисковики от ответственности за информацию со сторонних ресурсов.",
+      "tags": [
+        "SEO"
+      ]
+    },
+    {
+      "id": "t3_1tkirdn",
+      "title_en": "The New Google Home Page [Google I/O]",
+      "title_ru": "Новая домашняя страница Google (Google I/O)",
+      "score": 310,
+      "comments_count": 180,
+      "date": "2026-05-22",
+      "content_en": "The biggest design change in 30 years....\n\nAre Google copying Yahoo?\n\n  \n",
+      "content_ru": "Самое большое изменение дизайна за 30 лет\n\nGoogle копирует Yahoo?\n\n\n?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SEO/comments/1tkirdn/the_new_google_home_page_google_io/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Google внедряет масштабный редизайн интерфейса впервые за 30 лет. Некоторые пользователи и эксперты сравнивают новый стиль с эстетикой Yahoo.",
+      "tags": [
+        "SEO"
+      ]
     }
   ]
 }
