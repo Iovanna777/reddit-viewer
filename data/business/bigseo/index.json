@@ -2,82 +2,94 @@
   "title": "bigseo",
   "posts": [
     {
-      "id": "1uthist",
-      "title": "Homepage traffic down 80% whilst category pages have help up. Where to look?",
-      "score": 7,
-      "comments_count": 11,
-      "date": "2026-07-11",
-      "content_en": "My e-commerce store's homepage used to rank position 1–3 for several major head terms in our industry. It peaked around September 2024 but since then, has steadily declined. Today, the homepage doesn't rank in the top 3 for any competitive keyword besides our exact brand name. Homepage traffic is down roughly 80% over the last 18 months.\n\nOur category pages are fine: They have taken a slight dip but have mostly held up, still ranking at positions 1, 2 & 3 for competitive, transactional keywords.\n\nCompetitor homepages are still ranking: The top spots for the head terms we lost are still occupied by our competitors' homepages. This tells me it is not a global search intent shift by Google. They still want to rank homepages; they just don't want to rank mine.\n\nI’ve worked with a few different SEOs since the decline. They all promised they could regain the rankings, but none have delivered, and honestly, no one has given me a convincing explanation as to why the homepage specifically has dropped from the rankings while other pages on my site have been fine.\n\nI know it’s tough without seeing the URL, but if you were auditing a site where only the homepage had dropped where would you look?",
-      "comments_en": [
-        {
-          "comment_id": "ox1j23i",
-          "full_comment_id": "t1_ox1j23i",
-          "post_full_id": "t3_1uthist",
-          "post_id": "1uthist",
-          "post_title": "Homepage traffic down 80% whilst category pages have help up. Where to look?",
-          "author": "marintkael",
-          "text": "Homepage lost head terms while your category pages held is a strong clue on its own, because those two page types are not ranking on the same thing. Category and transactional pages win on page level relevance plus links, and yours are fine, so nothing sitewide is broken. A homepage ranking for broad head terms is mostly Google deciding your brand is the best entity for that topic and sending the query to your front door. When only that erodes, and it drifts down steadily from a peak instead of falling off a cliff, it usually means the entity association got weaker, not that the page has a technical fault.\n\nWhere I would actually look: pull the homepage in Wayback around your Sept 2024 peak and compare it to now for on page topical text and internal anchor emphasis. Redesigns strip body copy and shift internal links over time, and that copy plus those anchors are a big part of what tells Google what the homepage is about. If the head terms you lost all cluster around one topic the homepage stopped emphasizing, there is your cause. Compare the page against its own past, not against the competitors ranking above you now.",
-          "created_at": "2026-07-12T07:14:20Z",
-          "scraped_at": "2026-07-15T09:21:51.350263Z",
-          "depth": 0,
-          "score": 2,
-          "permalink": "/r/bigseo/comments/1uthist/homepage_traffic_down_80_whilst_category_pages/ox1j23i/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Домашняя страница потеряла ключевые термины, в то время как страницы категорий удерживались, что само по себе является сильным признаком, потому что эти два типа страниц не ранжируются по одному и тому же. Страницы категорий и транзакций выигрывают по релевантности на уровне страниц, а также по ссылкам, а у вас все в порядке, поэтому на всем сайте ничего не сломано. Рейтинг домашней страницы по широким ключевым словам в основном заключается в том, что Google решает, что ваш бренд является лучшим объектом для этой темы, и отправляет запрос к вашей входной двери. Когда только это разрушается и постепенно падает с вершины, а не падает со скалы, это обычно означает, что связь с объектами ослабла, а не то, что страница имеет техническую неисправность.\n\nГде бы я на самом деле посмотрел: переместите домашнюю страницу в Wayback к пику в сентябре 2024 года и сравните ее с текущим текстом на странице и внутренним акцентом привязки. Редизайн удаляет основной текст и смещает внутренние ссылки с течением времени, и этот текст плюс эти якоря составляют большую часть того, что сообщает Google, о чем главная страница. Если основные термины, которые вы потеряли, группируются вокруг одной темы, которую перестала подчеркивать домашняя страница, это ваша причина. Сравните страницу с ее прошлым, а не с конкурентами, которые сейчас стоят выше вас."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/bigseo/comments/1uthist/homepage_traffic_down_80_whilst_category_pages/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Раньше домашняя страница моего интернет-магазина занимала позиции 1–3 по нескольким основным терминам в нашей отрасли. Он достиг своего пика примерно в сентябре 2024 года, но с тех пор неуклонно снижался. Сегодня домашняя страница не входит в тройку лучших ни по одному конкурентному ключевому слову, кроме точного названия нашего бренда. Трафик главной страницы снизился примерно на 80% за последние 18 месяцев.\n\nНаши страницы категорий в порядке: они немного опустились, но в основном держались, по-прежнему занимая позиции 1, 2 и 3 по конкурентным, транзакционным ключевым словам.\n\nДомашние страницы конкурентов по-прежнему занимают высокие позиции: первые места по потерянным ключевым словам по-прежнему занимают домашние страницы наших конкурентов. Это говорит мне о том, что это не глобальное изменение намерений поиска со стороны Google. Они по-прежнему хотят ранжировать домашние страницы; они просто не хотят ранжировать меня.\n\nПосле спада я работал с несколькими разными SEO-специалистами. Все они обещали, что смогут вернуть себе рейтинг, но никто этого не сделал, и, честно говоря, никто не дал мне убедительного объяснения, почему именно домашняя страница упала из рейтинга, в то время как другие страницы моего сайта были в порядке.\n\nЯ знаю, что сложно не видеть URL-адрес, но если бы вы проверяли сайт, на котором была удалена только домашняя страница, куда бы вы смотрели?",
-      "title_ru": "Трафик главной страницы снизился на 80%, а на страницах категорий увеличился. Где посмотреть?"
-    },
-    {
-      "id": "1uvtpce",
-      "title": "How do you optimize for QFO?",
-      "score": 6,
-      "comments_count": 10,
-      "date": "2026-07-14",
-      "content_en": "What's your workflow for finding and optimizing content for query fanout? Do you just search in Perplexity or GPT, note down the queries, and use them naturally in your content? Or is that the wrong approach and there's a better way in your opinion? Whats everyone using and what have you found to be an efficient approach for this? Appreciate the discussion\n\nPS: I have posted this in other SEO communities too, just to get more perspectives. Not here to spam.",
-      "comments_en": [
-        {
-          "comment_id": "oxfjtyf",
-          "full_comment_id": "t1_oxfjtyf",
-          "post_full_id": "t3_1uvtpce",
-          "post_id": "1uvtpce",
-          "post_title": "How do you optimize for QFO?",
-          "author": "marintkael",
-          "text": "The part that trips people up is treating the fan-out queries like keywords to place. They are not really keywords, they are the sub-questions the model invents to break your intent into pieces, and they shift from run to run. If you optimize to one captured set you are fitting to noise.\n\nWhat has worked better for me is to stop chasing the exact strings and instead make the page answer each atomic sub-question completely and in one place. Retrieval for these systems happens at the passage level, not the page level, so a self-contained block that states a claim and its support in the same few sentences is far more likely to get pulled as the answer to one branch of the fan-out than the same point spread across three sections.\n\nAnd run the fan-out more than once before you build anything around it. When I log the same prompt across several runs, the decomposition is not stable, but a handful of sub-questions show up almost every time. Those repeat ones are the durable intent worth structuring for. The one-off branches are mostly the model improvising, and chasing them is wasted effort.",
-          "created_at": "2026-07-14T07:31:33Z",
-          "scraped_at": "2026-07-15T09:21:54.229501Z",
-          "depth": 0,
-          "score": 1,
-          "permalink": "/r/bigseo/comments/1uvtpce/how_do_you_optimize_for_qfo/oxfjtyf/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Часть, которая сбивает людей с толку, — это отношение к разветвленным запросам как к ключевым словам для размещения. На самом деле это не ключевые слова, а подвопросы, которые модель придумывает, чтобы разбить ваше намерение на части, и они меняются от запуска к запуску. Если вы оптимизируете один захваченный набор, вы адаптируетесь к шуму.\n\nЧто для меня сработало лучше, так это прекратить гоняться за точными строками и вместо этого заставить страницу отвечать на каждый атомарный подвопрос полностью и в одном месте. Поиск в этих системах происходит на уровне отрывка, а не на уровне страницы, поэтому автономный блок, в котором формулируется утверждение и его обоснование в одних и тех же нескольких предложениях, с гораздо большей вероятностью будет использован как ответ на одну ветвь разветвления, чем один и тот же пункт, распределенный по трем разделам.\n\nИ запустите разветвление несколько раз, прежде чем что-то строить вокруг него. Когда я регистрирую одно и то же приглашение при нескольких запусках, декомпозиция нестабильна, но почти каждый раз появляется несколько подвопросов. Эти повторяющиеся намерения — это долгосрочное намерение, ради которого стоит структурировать. Одноразовые ответвления — это в основном модельная импровизация, и погоня за ними — напрасная трата усилий."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/bigseo/comments/1uvtpce/how_do_you_optimize_for_qfo/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Каков ваш рабочий процесс поиска и оптимизации контента для разветвления запросов? Вы просто выполняете поиск в Perplexity или GPT, записываете запросы и естественным образом используете их в своем контенте? Или это неправильный подход и, по вашему мнению, есть лучший способ? Что все используют и какой подход для этого вы считаете эффективным? Цените обсуждение\n\nPS: Я разместил это и в других сообществах SEO, просто чтобы получить больше перспектив. Здесь не спамить.",
-      "title_ru": "Как вы оптимизируете QFO?"
-    },
-    {
-      "id": "1uwb1el",
-      "title": "First Link Priority, #'s and JS buttons to avoid diluting authority.",
-      "score": 4,
-      "comments_count": 1,
-      "date": "2026-07-14",
-      "content_en": "Hey everyone,\n\nI’ve been doing some deep research on internal linking and PageRank distribution, and I wanted to get your thoughts on a strategy I'm looking to implement.\n\nAs far as I know, Google’s \"First Link Priority\" rule means that if you have multiple links on Page A pointing to Page B, Google will pass PageRank through all of them, but it will only process and attribute the Anchor Text of the very first link it encounters in the HTML.\n\nHere is the thinkg: on my homepage, I have a \"Go to Services\" button right in the Hero section (which is great for UX/CRO but has a terrible generic anchor text). Later down the page, inside a contextual FAQ section, I have a highly optimized contextual link.\n\nIf First Link Priority is strictly applied, Google is ignoring my optimized FAQ anchor text and only associating my services page with \"Go to Services\", right?\n\nTo bypass this, I’m thinking about using Link Obfuscation for the conversion buttons. Essentially, turning the Hero button (and other secondary CTAs) into `<span>` or `<button>` elements with a `data-link` attribute triggered by JavaScript on click, so they remain fully functional for users but invisible as traditional `<a>` tags to Google's crawler.\n\nThis way, the only HTML link Google sees pointing to my services page is the highly contextual one inside the FAQ.\n\nAm I missing something here? Does this strategy still hold up, or has Google's rendering became smart enough to bypass this type of JS obfuscation and consolidate them anyway?\n\nWould love to hear your thoughts or if anyone has run tests on this recently!\n\nThanks for reading!\n\nBTW, does Google interpret /services and /services#headache as the same?",
+      "id": "t3_1vf9t59",
+      "title_en": "Hi BigSEO! I'm Tim Soulo from Ahrefs. It's been 11 years. And we’re still looking for your feedback!",
+      "title_ru": "Привет, БигСео! Я Тим Суло из Арефса. Прошло 11 лет. И мы все еще ищем ваши отзывы!",
+      "score": 63,
+      "comments_count": 49,
+      "date": "2026-08-04",
+      "content_en": "Hey BigSEO!\n\nOn August 4th, 2015, just a few weeks after joining Ahrefs, I posted a thread here asking for your feedback about our product.\n\nSince then, it has become a good tradition of mine to post the same thread here every two years on the same day.\n\nThere have been 6 of them so far: [2015](https://www.reddit.com/r/bigseo/comments/3fprta/im_tim_soulo_from_ahrefs_and_im_looking_for_some/), [2017](https://www.reddit.com/r/bigseo/comments/6rj3hh/hi_im_tim_soulo_from_ahrefs_it_has_been_2_years/), [2019](https://www.reddit.com/r/bigseo/comments/clti04/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_4/), [2021](https://www.reddit.com/r/bigseo/comments/oxnjey/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_6/), [2023](https://www.reddit.com/r/bigseo/comments/15hw4oo/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_8/), [2025](https://www.reddit.com/r/bigseo/comments/1mh9n4w/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_10/).\n\nBut these days with AI things are moving so quickly, that I can't just wait another year to talk to you.\n\nSo here we are.\n\n...\n\nI have 5 topics that we'd love to hear your thought on. But your are obviously welcome to speak your mind and just tell us anything you feel needs to be said.\n\nHere are the topics:\n\n**1. How much of your focus has switched from traditional SEO, to AEO?**  \nWhat are your thoughts/observations in regard to SEO industry shapeshifting into AEO industry? Some folks say it’s all the same, others say it’s fundamentally different. So which is it?\n\n*...and have you tried our Brand Radar tool? What do you think of it?*\n\n**2. Is acquiring brand mentions now more important than ever?**  \nWe’ve long established that AI systems heavily rely on third party sources when formulating their answers. In SEO, we’ve always obsessively tracked links. Will brand mentions take their place?\n\n*...and have you tried our Firehose product? What do you think of it?*\n\n**3. Which of your marketing tasks have you fully automated with AI agents?**  \nHave you had a lot of",
+      "content_ru": "Hey BigSEO!\n\nOn August 4th, 2015, just a few weeks after joining Ahrefs, I posted a thread here asking for your feedback about our product.\n\nSince then, it has become a good tradition of mine to post the same thread here every two years on the same day.\n\nThere have been 6 of them so far: [2015](https://www.reddit.com/r/bigseo/comments/3fprta/im_tim_soulo_from_ahrefs_and_im_looking_for_some/), [2017](https://www.reddit.com/r/bigseo/comments/6rj3hh/hi_im_tim_soulo_from_ahrefs_it_has_been_2_years/), [2019](https://www.reddit.com/r/bigseo/comments/clti04/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_4/), [2021](https://www.reddit.com/r/bigseo/comments/oxnjey/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_6/), [2023](https://www.reddit.com/r/bigseo/comments/15hw4oo/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_8/), [2025](https://www.reddit.com/r/bigseo/comments/1mh9n4w/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_10/).\n\nBut these days with AI things are moving so quickly, that I can't just wait another year to talk to you.\n\nSo here we are.\n\n...\n\nI have 5 topics that we'd love to hear your thought on. But your are obviously welcome to speak your mind and just tell us anything you feel needs to be said.\n\nHere are the topics:\n\n**1. How much of your focus has switched from traditional SEO, to AEO?**  \nWhat are your thoughts/observations in regard to SEO industry shapeshifting into AEO industry? Some folks say it’s all the same, others say it’s fundamentally different. So which is it?\n\n*...and have you tried our Brand Radar tool? What do you think of it?*\n\n**2. Is acquiring brand mentions now more important than ever?**  \nWe’ve long established that AI systems heavily rely on third party sources when formulating their answers. In SEO, we’ve always obsessively tracked links. Will brand mentions take their place?\n\n*...and have you tried our Firehose product? What do you think of it?*\n\n**3. Which of your marketing tasks have you fully automated with AI agents?**  \nHave you had a lot of success delegating your day-to-day work to AI agents? It feels like on LinkedIn everyone is sending rockets to Mars with Claude Code. But are they really? What kind of marketing tasks were you able to fully outsource to AI?\n\n*...and have you tried our Letaido platform? What do you think of it?*\n\n**4. How much of your content is now handled by AI?**  \nWe’ve all seen these case studies of companies that have scaled their content with AI, only to then get a slap from Google soon after. On the other hand, we’re using AI *a lot* in our own content production at Ahrefs. And with great success.\n\nHow has your own experience been in that regard?\n\n**5. What research do you want to see from us?**  \nAs you may know, Ahrefs is sitting on petabytes of marketing data. And now with AI, running a data study is easier than ever, which is why we’ve published quite a few of them this year.\n\nBut is there anything in particular you’d love to see us cover?\n\n…\n\n**From our end**  \nWe're not a public company and we don't do public investor updates. But since our customers are our investors - consider this to be our version of it.\n\nAt the start of 2026 we accepted something uncomfortable: the software layer is getting cheap to build. Anyone can ship decent code with a decent UI, and the market seems to have noticed. Software stocks are tanking. So we made a bet on the two things we think will be valuable going forward:\n\nFirst, data. We rebuilt our web crawler from the ground up: faster, and a lot smarter about what it goes after (...and launched Firehose based off of it). We also made our API a lot more accessible and even released the Domain Rating endpoint for free.\n\nSecond, AI agents. This is where software seems to be heading next. And Letaido is our attempt to not be a spectator in this race.\n\n...\n\nAs it always happens with these threads, nearly the entire Ahrefs team (including our founder Dmytro Gerasymenko) will be closely following the conversation here. So please speak your mind and I can assure you that you’ll be heard by the relevant people on our team.",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/bigseo/comments/1uwb1el/first_link_priority_s_and_js_buttons_to_avoid/",
+      "original_url": "https://www.reddit.com/r/bigseo/comments/1vf9t59/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_11/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Привет всем,\n\nЯ провел глубокое исследование внутренних ссылок и распределения PageRank и хотел узнать ваше мнение о стратегии, которую я хочу реализовать.\n\nНасколько мне известно, правило Google «Приоритет первой ссылки» означает, что если у вас есть несколько ссылок на странице A, указывающих на страницу B, Google будет передавать PageRank через все из них, но он будет обрабатывать и присваивать текст привязки только самой первой ссылки, которую он встретит в HTML.\n\nВот что я думаю: на моей домашней странице прямо в разделе «Герои» есть кнопка «Перейти к службам» (которая отлично подходит для UX/CRO, но имеет ужасный общий текст привязки). Ниже на странице, в контекстном разделе часто задаваемых вопросов, у меня есть высокооптимизированная контекстная ссылка.\n\nЕсли строго применяется приоритет первой ссылки, Google игнорирует мой оптимизированный текст привязки часто задаваемых вопросов и связывает мою страницу услуг только с «Перейти к услугам», верно?\n\nЧтобы обойти это, я подумываю об использовании Link Obfuscation для кнопок конвертации. По сути, превращая кнопку Hero (и другие вторичные CTA) в элементы `<span>` или `<button>` с атрибутом `data-link`, запускаемым JavaScript при нажатии, поэтому они остаются полностью функциональными для пользователей, но невидимы для сканера Google как традиционные теги `<a>`.\n\nТаким образом, единственная HTML-ссылка, которую Google видит, указывающая на мою страницу услуг, — это контекстная ссылка внутри FAQ.\n\nЯ что-то упускаю? Сохраняется ли эта стратегия по-прежнему, или рендеринг Google стал достаточно умным, чтобы обойти этот тип обфускации JS и все равно объединить их?\n\nХотелось бы услышать ваши мысли или проводил ли кто-нибудь недавно тесты по этому поводу!\n\nСпасибо за чтение!\n\nКстати, Google интерпретирует /services и /services#headache как одно и то же?",
-      "title_ru": "Приоритет первой ссылки, кнопки # и JS, чтобы избежать снижения авторитета."
+      "ai_summary_ru": "Тим Соуло из Ahrefs собирает обратную связь от SEO-сообщества по поводу влияния ИИ на индустрию. Он просит специалистов поделиться мнением об изменении поисковых стратегий, автоматизации задач и качестве ИИ-контента.",
+      "tags": [
+        "bigseo"
+      ]
+    },
+    {
+      "id": "t3_1vb2t2n",
+      "title_en": "Is a blog on your ecommerce site actually worth it, or a waste of time?",
+      "title_ru": "Действительно ли блог на вашем сайте электронной коммерции стоит того или это пустая трата времени?",
+      "score": 26,
+      "comments_count": 38,
+      "date": "2026-07-30",
+      "content_en": "Hi everyone,\n\nI have a question: does anyone here run an online shop with a blog attached to it? Is it actually worth having a blog for an online shop? Has anyone made real sales through their shop that came from blog posts?\n\nI'm asking because good blog posts take a lot of time to write, and I'm not sure it's worth the effort. My shop sells planners, by the way.\n\nIf it does work for you, would anyone be willing to share some numbers, blog visitors, and how that translated into shop sales?\n\nThanks in advance for the honest answers!",
+      "content_ru": "Привет всем,\n\nУ меня вопрос: кто-нибудь здесь управляет интернет-магазином с прикрепленным к нему блогом? Стоит ли вести блог для интернет-магазина? Кто-нибудь делал реальные продажи через свой магазин, который пришел из сообщений в блоге?\n\nЯ спрашиваю, потому что хорошие сообщения в блоге занимают много времени, и я не уверен, что это стоит усилий. Кстати, мой магазин продает планировщиков.\n\nЕсли это действительно работает для вас, кто-нибудь будет готов поделиться некоторыми цифрами, посетителями блога и как это переводится в продажи магазинов?\n\nЗаранее спасибо за честные ответы!",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/bigseo/comments/1vb2t2n/is_a_blog_on_your_ecommerce_site_actually_worth/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор поста интересуется, стоит ли вести блог для интернет-магазина планировщиков и приносит ли это реальные продажи. Он просит коллег поделиться опытом и цифрами, чтобы понять, оправданы ли временные затраты на контент.",
+      "tags": [
+        "bigseo"
+      ]
+    },
+    {
+      "id": "t3_1v52vma",
+      "title_en": "Why are my keyword rankings fluctuating so much?",
+      "title_ru": "Почему мой рейтинг ключевых слов так сильно колеблется?",
+      "score": 22,
+      "comments_count": 29,
+      "date": "2026-07-24",
+      "content_en": "Hi Reddit family,\n\nI've noticed my keyword rankings are fluctuating a lot, and I'm trying to understand why.\n\nFor example, I checked one keyword about 2 hours ago, and it was ranking #5. When I checked again, it had dropped to #36.\n\nWhat could cause such a big change in such a short time? Is this normal, and what are the most common reasons behind it? Also, how can I reduce these fluctuations?\n\nI'd really appreciate any insights or suggestions. Thanks!",
+      "content_ru": "Семья Reddit,\n\nЯ заметил, что мой рейтинг ключевых слов сильно колеблется, и я пытаюсь понять, почему.\n\nНапример, я проверил одно ключевое слово около 2 часов назад, и оно заняло 5 место. Когда я снова проверил, он упал до #36.\n\nЧто может привести к таким большим изменениям за столь короткое время? Это нормально, и каковы наиболее распространенные причины этого? Как я могу уменьшить эти колебания?\n\nЯ бы очень ценил любые идеи или предложения. Спасибо!",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/bigseo/comments/1v52vma/why_are_my_keyword_rankings_fluctuating_so_much/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор поста спрашивает о причинах резких скачков позиций ключевых слов в поисковой выдаче и просит совета, как стабилизировать рейтинг.",
+      "tags": [
+        "bigseo"
+      ]
+    },
+    {
+      "id": "t3_1uye3i3",
+      "title_en": "Which SEO tool gives the best value?",
+      "title_ru": "Какой инструмент SEO дает лучшую ценность?",
+      "score": 21,
+      "comments_count": 55,
+      "date": "2026-07-16",
+      "content_en": "We've noticed something strange with our site. Twice now we've been hit by what looks like spam backlinks (hundreds of low-quality .store domains, autogenerated names, etc.). After submitting a disavow file, we saw a very noticeable recovery in traffic almost immediately.\n\nWhether that's coincidence or not, it made us realize we need a better way to monitor backlinks and overall SEO.\n\nWhat tools do you actually recommend nowadays for:\n\n\\-Monitoring new backlinks and possible spam attacks  \n\\-Keyword research  \n\\-General SEO management\n\nAhrefs seems to be the gold standard, but it's currently outside our budget. Is SEMrush a good alternative, or are there other tools you'd recommend that offer the best value for money?",
+      "content_ru": "Мы заметили что-то странное на нашем сайте. Дважды мы были поражены тем, что выглядит как обратные ссылки на спам (сотни некачественных доменов .store, автогенерированные имена и т. Д.). После отправки дезавуированного файла мы увидели очень заметное восстановление трафика практически сразу.\n\nНезависимо от того, совпадение это или нет, это заставило нас понять, что нам нужен лучший способ мониторинга обратных ссылок и общего SEO.\n\nКакие инструменты вы действительно рекомендуете в настоящее время:\n\nМониторинг новых обратных ссылок и возможных спам-атак\nИсследование ключевых слов\nОбщее управление SEO\n\nАрефс, кажется, золотой стандарт, но в настоящее время он находится вне нашего бюджета. Является ли SEMrush хорошей альтернативой или есть другие инструменты, которые предлагают лучшее соотношение цены и качества?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/bigseo/comments/1uye3i3/which_seo_tool_gives_the_best_value/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор столкнулся с атакой спам-ссылок и ищет эффективные инструменты для SEO-мониторинга и анализа. Запрашиваются рекомендации бюджетных альтернатив Ahrefs для отслеживания бэклинков, работы с ключевыми словами и общего управления SEO.",
+      "tags": [
+        "bigseo"
+      ]
+    },
+    {
+      "id": "t3_1ve7i0l",
+      "title_en": "What tools are people using for AEO?",
+      "title_ru": "Какие инструменты люди используют для AEO?",
+      "score": 22,
+      "comments_count": 29,
+      "date": "2026-08-03",
+      "content_en": "Hey all, the SEO tool world is evolving fast to support AEO what platforms or combination of software are you relying on for tracking, auditing, and optimizing for answer engines?\n\n  \nEdit: thanks all for the comments, I started using similarweb. pretty happy with it so far for AEO research. ",
+      "content_ru": "Мир инструментов SEO быстро развивается для поддержки AEO, на какие платформы или комбинацию программного обеспечения вы полагаетесь для отслеживания, аудита и оптимизации для систем ответов?\n\n\nРедактировать: спасибо всем за комментарии, я начал использовать похожий веб. До сих пор очень доволен исследованиями AEO.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/bigseo/comments/1ve7i0l/what_tools_are_people_using_for_aeo/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор спрашивает, какие инструменты лучше использовать для SEO-оптимизации под системы прямых ответов (AEO). В дополнение он отмечает, что начал работать с Similarweb и доволен результатами.",
+      "tags": [
+        "bigseo"
+      ]
     }
   ]
 }
