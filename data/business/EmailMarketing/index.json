@@ -2,82 +2,94 @@
   "title": "EmailMarketing",
   "posts": [
     {
-      "id": "1usr5he",
-      "title": "How do you keep track of all your lifecycle emails once they’re live?",
-      "score": 12,
-      "comments_count": 28,
-      "date": "2026-07-10",
-      "content_en": "I have spent years working with product, marketing, and analytics teams, and one recurring problem across companies that I’ve seen is that the journey may be built in the ESP, but feedback happens in Slack or meetings, approvals are difficult to trace, and the broader customer experience becomes hard for other teams to follow.\n\nThe ESP shows the journey, but it’s usually built for the people managing it. I’ve found it gets messy when product, support, leadership, compliance, or other teams need to understand the full customer experience without living inside the ESP.\n\nHow does your team manage this today? Do you document the full journey somewhere, or rely mainly on the ESP and supporting documents?\n\nDisclosure: I have been building something around this problem, but I am primarily interested in understanding how other teams currently handle it.",
-      "comments_en": [
-        {
-          "comment_id": "owpxm4w",
-          "full_comment_id": "t1_owpxm4w",
-          "post_full_id": "t3_1usr5he",
-          "post_id": "1usr5he",
-          "post_title": "How do you keep track of all your lifecycle emails once they’re live?",
-          "author": "jemcc09",
-          "text": "I have this problem with every single client I work with. No-one really knows what's sending and my first job is often to document what and when and how in a spreadsheet. Sometimes, if the team is small enough, there's a column for a change log. Other times, each flow has its own Notion page and things are documented in there.   \nSometimes I map out interactions in a Miro board, which may never get opened again! Interested to see what you are building and which pain points it solves. ",
-          "created_at": "2026-07-10T15:50:29Z",
-          "scraped_at": "2026-07-15T09:22:40.185669Z",
-          "depth": 0,
-          "score": 6,
-          "permalink": "/r/Emailmarketing/comments/1usr5he/how_do_you_keep_track_of_all_your_lifecycle/owpxm4w/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "У меня такая проблема с каждым клиентом, с которым я работаю. Никто на самом деле не знает, что именно отправляется, и моя первая работа часто состоит в том, чтобы документировать в электронной таблице, что, когда и как. Иногда, если команда достаточно маленькая, есть столбец для журнала изменений. В других случаях у каждого потока есть собственная страница Notion, и там все документируется.   \nИногда я планирую взаимодействия на доске Miro, которую, возможно, больше никогда не откроют! Интересно посмотреть, что вы создаете и какие болевые точки это решает."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/Emailmarketing/comments/1usr5he/how_do_you_keep_track_of_all_your_lifecycle/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Я провел годы, работая с командами по продуктам, маркетингу и аналитике, и одна постоянная проблема, которую я видел во всех компаниях, заключается в том, что путь может быть построен в ESP, но обратная связь происходит в Slack или на собраниях, одобрения трудно отследить, а более широкий опыт клиентов становится трудным для других команд.\n\nESP показывает путь, но обычно он создается для людей, которые им управляют. Я обнаружил, что это становится запутанным, когда командам по продукту, поддержке, руководству, обеспечению соответствия требованиям или другим командам необходимо понимать весь опыт работы с клиентами, не находясь внутри ESP.\n\nКак ваша команда справляется с этим сегодня? Документируете ли вы где-нибудь весь путь или полагаетесь в основном на ESP и подтверждающие документы?\n\nРаскрытие информации: я кое-что строил вокруг этой проблемы, но меня в первую очередь интересует понимание того, как другие команды в настоящее время справляются с ней.",
-      "title_ru": "Как вы отслеживаете все электронные письма жизненного цикла после их публикации?"
-    },
-    {
-      "id": "1ur4r0m",
-      "title": "When will car dealerships and realtors clean up the email addresses in their lists?",
-      "score": 11,
-      "comments_count": 12,
-      "date": "2026-07-08",
-      "content_en": "I've been on the ARPAnet/internet for 40 years.   I'm old, and hate it when people don't learn from experience.  \n  \nI've been fighting \"reverse identify theft\" for about 20 years now. \n\nI've noticed a pattern, that retailers, Car Dealerships, and Real Estate professionals do NOT do any validation of their data.  Validation would be to send a \"please confirm your email address\"\n\nHere's what I expect would happen:\n\nCustomer email address is requested  \nThere are three options here:  \n1) Customer provides it on paper, by typing it in, or  \n2) Customer refuses to provide it  \n3) Email lists manager requests it from a third party  \n  \nIn case #1, the older a customer is, the less likely they able to provide it accurately \n\nIn case #2, the clerk at the point of customer contact might just \"make one up\" and add on FirstName.FirstInitialOfLastName@gmail.com - the \"They don't pay me enough to get an accurate address\" reaction.  I actually called a Lenscrafters location in California where the sales clerk started laughing, the laugh of a person who was caught.\n\nIn case #3, I've seen database companies scrape names from LinkedIn, and then use the pattern first.last@name\\_of\\_company.com  \n  \nWhat can be done to ensure that all these technically inept firms, house sellers, car sellers, and others realize that user-submitted data should be treated with suspicion until it's verified by confirming that the email address actually belongs to their customer?  \n(The end user has to complete the processs by clicking on a link)",
-      "comments_en": [
-        {
-          "comment_id": "owd1til",
-          "full_comment_id": "t1_owd1til",
-          "post_full_id": "t3_1ur4r0m",
-          "post_id": "1ur4r0m",
-          "post_title": "When will car dealerships and realtors clean up the email addresses in their lists?",
-          "author": "Beneficial_Ask6414",
-          "text": "they won't ever clean it up because bad data doesn't cost them a dime until someone sues",
-          "created_at": "2026-07-08T20:39:11Z",
-          "scraped_at": "2026-07-15T09:22:41.750755Z",
-          "depth": 0,
-          "score": 3,
-          "permalink": "/r/Emailmarketing/comments/1ur4r0m/when_will_car_dealerships_and_realtors_clean_up/owd1til/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "они никогда не будут их очищать, потому что плохие данные не будут стоить им ни копейки, пока кто-нибудь не подаст в суд"
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/Emailmarketing/comments/1ur4r0m/when_will_car_dealerships_and_realtors_clean_up/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Я работаю в ARPAnet/Интернете уже 40 лет.   Я стар и ненавижу, когда люди не учатся на собственном опыте.  \n  \nЯ борюсь с «кражей обратной идентификации» уже около 20 лет. \n\nЯ заметил закономерность: розничные продавцы, автосалоны и специалисты по недвижимости НЕ проводят никакой проверки своих данных.  Проверка будет заключаться в отправке сообщения «пожалуйста, подтвердите свой адрес электронной почты».\n\nВот что я ожидаю:\n\nТребуется адрес электронной почты клиента  \nЗдесь есть три варианта:  \n1) Клиент предоставляет его на бумажном носителе, напечатав его, или  \n2) Клиент отказывается предоставить его.  \n3) Менеджер списков адресов электронной почты запрашивает его у третьей стороны.  \n  \nВ случае №1, чем старше клиент, тем меньше вероятность, что он сможет предоставить ему точную информацию. \n\nВ случае №2 клерк в момент контакта с клиентом может просто «придумать один» и добавить FirstName.FirstInitialOfLastName@gmail.com — реакция «Они платят мне недостаточно, чтобы получить точный адрес».  На самом деле я позвонил в офис Lenscrafters в Калифорнии, где продавец начал смеяться, смех человека, которого поймали.\n\nВ случае №3 я видел, как компании, работающие с базами данных, извлекали имена из LinkedIn, а затем использовали шаблон first.last@name\\_of\\_company.com.  \n  \nЧто можно сделать, чтобы все эти технически некомпетентные фирмы, продавцы домов, продавцы автомобилей и другие осознали, что к предоставленным пользователями данным следует относиться с подозрением до тех пор, пока они не будут проверены путем подтверждения того, что адрес электронной почты действительно принадлежит их клиенту?  \n(Конечный пользователь должен завершить процессы, щелкнув ссылку)",
-      "title_ru": "Когда автосалоны и риэлторы почистят адреса электронной почты в своих списках?"
-    },
-    {
-      "id": "1uw6zs3",
-      "title": "Email Marketers - Looking for a newsletter platform with more creative design capabilities / options.",
-      "score": 9,
-      "comments_count": 16,
-      "date": "2026-07-14",
-      "content_en": "Hey all - hoping you can help! ’m looking for recommendations for an email newsletter platform for my media production work.\n\nThe newsletters will mainly showcase my latest work, so they’ll be fairly light on text and include imagery, GIFs, and embedded visual content. I’m after something that lets me create bold, creative, well-designed emails rather than the standard “Mailchimp template” look.\n\nKey things I’m looking for:\n\nWould love for it to have easy drag-and-drop builder (or good customisation options that need more work) with support for images and GIFs\n\nWe will only have a relatively small small mailing list to start with\n\nHas anyone found a platform that feels a bit more design-led? I’d love to hear what you’re using",
+      "id": "t3_1vi4fvi",
+      "title_en": "Any good email marketing content creators?",
+      "title_ru": "Есть ли хорошие создатели контента для электронной почты?",
+      "score": 21,
+      "comments_count": 15,
+      "date": "2026-08-07",
+      "content_en": "As the title says - do you have any recommendations on some genuinely good and useful content creators in email marketing industry? Basic youtube search yielded no results - just some basic slop essentially.\n\nWith good and useful I mean someone who posts and talks about everything related to the industry - copy/design/deliverability/other tips and is a genuine expert. There are some great ones on e-commerce/business but can't seem to find any niche creators for email.\n\nSo yeah - any suggestions?",
+      "content_ru": "Есть ли у вас какие-либо рекомендации по некоторым действительно хорошим и полезным создателям контента в индустрии электронного маркетинга? Базовый поиск на Youtube не дал никаких результатов - по сути, просто некоторая базовая ошибка.\n\nС хорошими и полезными я имею в виду кого-то, кто публикует и говорит обо всем, что связано с отраслью - копии / дизайн / доставка / другие советы и является настоящим экспертом. Есть некоторые отличные в электронной коммерции / бизнесе, но, похоже, не найти нишевых создателей для электронной почты.\n\nТак да - какие-нибудь предложения?",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/Emailmarketing/comments/1uw6zs3/email_marketers_looking_for_a_newsletter_platform/",
+      "original_url": "https://www.reddit.com/r/Emailmarketing/comments/1vi4fvi/any_good_email_marketing_content_creators/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Привет всем, надеюсь, вы сможете помочь! Мне нужны рекомендации по платформе электронной рассылки новостей для моей работы в области медиапроизводства.\n\nВ информационных бюллетенях будут в основном представлены мои последние работы, поэтому они будут довольно скудными по тексту и будут включать изображения, GIF-файлы и встроенный визуальный контент. Мне нужно что-то, что позволит мне создавать смелые, креативные, хорошо продуманные электронные письма, а не стандартный вид «шаблона Mailchimp».\n\nКлючевые вещи, которые я ищу:\n\nХотелось бы, чтобы у него был простой конструктор с возможностью перетаскивания (или хорошие возможности настройки, требующие дополнительной доработки) с поддержкой изображений и GIF-файлов.\n\nДля начала у нас будет относительно небольшой список рассылки.\n\nКто-нибудь нашел платформу, которая кажется более ориентированной на дизайн? Я хотел бы услышать, что вы используете",
-      "title_ru": "Маркетологи по электронной почте – Ищу платформу для информационных бюллетеней с более креативными возможностями/вариантами дизайна."
+      "ai_summary_ru": "Автор ищет экспертов по email-маркетингу, которые создают качественный контент по копирайтингу, дизайну и доставляемости писем. Поделитесь рекомендациями проверенных авторов или каналов в этой нише.",
+      "tags": [
+        "EmailMarketing"
+      ]
+    },
+    {
+      "id": "t3_1vef4tr",
+      "title_en": "Pruning cold subscribers",
+      "title_ru": "Обрезка холодных подписчиков",
+      "score": 12,
+      "comments_count": 24,
+      "date": "2026-08-03",
+      "content_en": "I maintain a \\~10,000 person or so mailing list of subscribers to our company / open source project. A fairly standard inbound marketing operation I've been running for 11 years or so.  \n  \nThe guidance from email marketing platforms like Kit these days is to focus on the rate of active engagement of subscribers, versus worrying about the overall size of the list. Ok, I get that; times have changed since I started this business. I suppose this should help me land in the focused inbox more often and have better deliverability rates.\n\nI've been pruning cold subscribers or so for 6 months - when am I supposed to be able to measure some benefit from doing this?",
+      "content_ru": "Я поддерживаю список подписчиков нашей компании / проекта с открытым исходным кодом в размере около 10 000 человек. Довольно стандартная операция входящего маркетинга, которой я занимаюсь уже около 11 лет.\n\nРуководство от платформ почтового маркетинга, таких как Kit в наши дни, заключается в том, чтобы сосредоточиться на скорости активного участия подписчиков, а не беспокоиться об общем размере списка. Хорошо, я понимаю, времена изменились с тех пор, как я начал этот бизнес. Я полагаю, что это должно помочь мне чаще приземляться в сфокусированном почтовом ящике и иметь лучшие показатели доставки.\n\nЯ обрезаю холодных подписчиков или около того в течение 6 месяцев - когда я должен быть в состоянии измерить какую-то выгоду от этого?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/Emailmarketing/comments/1vef4tr/pruning_cold_subscribers/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Вот вариант краткого содержания:\n\nАвтор планирует чистить базу рассылки (10 000 подписчиков) от неактивных пользователей для улучшения доставляемости писем. Он интересуется, через какой срок после удаления «холодных» контактов можно ожидать видимых результатов.",
+      "tags": [
+        "EmailMarketing"
+      ]
+    },
+    {
+      "id": "t3_1vee6vo",
+      "title_en": "Amazon SES emails going to spam despite healthy SMTP and low spam score",
+      "title_ru": "Электронные письма Amazon SES будут спамом, несмотря на здоровый SMTP и низкий уровень спама",
+      "score": 11,
+      "comments_count": 23,
+      "date": "2026-08-03",
+      "content_en": "&#x200B;\n\nHi everyone,\n\nI'm facing a deliverability issue with Amazon SES and would appreciate any advice.\n\nHere's the setup:\n\nAmazon SES says my SMTP server is healthy.\n\nThe email is very simple—just a short message with a single link.\n\nThe spam score is 0.2 (very low).\n\nThis is an email automation sent to subscribers who signed up themselves.\n\nAround 1,100 emails have been sent through the automation.\n\nThe open rate is only 4%, and it seems that most emails are landing in the spam folder.\n\nThe email copy has been reviewed and looks fine, so I don't think the content is the problem.\n\nHas anyone experienced something similar with Amazon SES?\n\nAny suggestions or troubleshooting steps would be greatly appreciated. Thanks!",
+      "content_ru": "#x200B;\n\nПривет всем,\n\nЯ столкнулся с проблемой доставки с Amazon SES и был бы признателен за любые советы.\n\nВот настройка:\n\nAmazon SES говорит, что мой SMTP-сервер здоров.\n\nЭлектронная почта очень проста - просто короткое сообщение с одной ссылкой.\n\nУровень спама 0,2 (очень низкий).\n\nЭто автоматизация электронной почты, отправляемая подписчикам, которые зарегистрировались сами.\n\nЧерез автоматизацию было отправлено около 1100 электронных писем.\n\nОткрытый тариф составляет всего 4%, и кажется, что большинство писем загружаются в папку спама.\n\nКопия электронной почты была просмотрена и выглядит хорошо, поэтому я не думаю, что проблема в содержании.\n\nКто-нибудь сталкивался с чем-то подобным в Amazon SES?\n\nЛюбые предложения или шаги по устранению неполадок будут высоко оценены. Спасибо!",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/Emailmarketing/comments/1vee6vo/amazon_ses_emails_going_to_spam_despite_healthy/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Письма через Amazon SES попадают в спам при низком уровне открытий (4%), несмотря на хорошие технические показатели и чистый контент. Автор ищет советы по диагностике и решению проблемы с доставляемостью.",
+      "tags": [
+        "EmailMarketing"
+      ]
+    },
+    {
+      "id": "t3_1vhq1xc",
+      "title_en": "Who actually owns the reply inbox for your campaigns?",
+      "title_ru": "Кто на самом деле владеет почтовым ящиком для ваших кампаний?",
+      "score": 8,
+      "comments_count": 13,
+      "date": "2026-08-07",
+      "content_en": "Every campaign we send gets a trickle of replies back. Out of a 20k send it's maybe 30 or 40. Some are real questions, a lot are out of office, and a steady handful are some version of \"take me off this list\" typed as a reply instead of clicking the unsubscribe link.\n\nThat last group is the one I keep going back and forth on. If nobody reads the reply inbox, those people stay subscribed, get the next send, and hit report spam instead. So the reply was really an opt-out request that never made it into the suppression list, and we found that out the expensive way.\n\nOurs currently goes to a shared inbox that one person checks a couple of times a week. They suppress anyone who asked out by hand. It works, but it works because that person has time, which is not a great thing to depend on.\n\nHow are others handling this:\n\nDo you send from a monitored address at all, or just use a noreply?\n\nIf it is monitored, who owns it day to day, marketing or support?\n\nHas anyone automated pulling the opt-out requests out of replies, or is everyone doing it by eye?\n\nMostly trying to work out whether we're overthinking it or whether most teams just absorb the complaints and move on.",
+      "content_ru": "Каждая кампания, которую мы отправляем, получает множество ответов. Из 20 тысяч посылок 30 или 40. Некоторые из них являются реальными вопросами, многие находятся вне офиса, а некоторые версии «снимите меня с этого списка», набранные в качестве ответа, вместо нажатия на ссылку отмены подписки.\n\nЭта последняя группа - та, в которую я продолжаю возвращаться. Если никто не читает почтовый ящик ответа, эти люди остаются подписанными, получают следующую отправку и вместо этого нажимают спам в отчете. Таким образом, ответ был запросом на отказ, который никогда не попадал в список подавления, и мы обнаружили, что это дорогой способ.\n\nВ настоящее время мы отправляем в общий почтовый ящик, который один человек проверяет пару раз в неделю. Они подавляют любого, кто просит от руки. Это работает, но это работает, потому что у этого человека есть время, от которого не стоит зависеть.\n\nКак другие справляются с этим:\n\nОтправляете ли вы с отслеживаемого адреса или просто используете норадреналин?\n\nЕсли это отслеживается, кто владеет им изо дня в день, маркетинг или поддержка?\n\nКто-нибудь автоматически удаляет запросы на отказ из ответов или все делают это на глаз?\n\nВ основном мы пытаемся выяснить, слишком ли мы обдумываем это или большинство команд просто принимают жалобы и двигаются дальше.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/Emailmarketing/comments/1vhq1xc/who_actually_owns_the_reply_inbox_for_your/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор ищет способы оптимизировать обработку входящих ответов на рассылки, чтобы вручную отписывать тех, кто просит об этом в письмах. Он интересуется, как другие компании автоматизируют этот процесс и кто в их командах отвечает за мониторинг «ответных» ящиков.",
+      "tags": [
+        "EmailMarketing"
+      ]
+    },
+    {
+      "id": "t3_1vgf7a3",
+      "title_en": "Question about Kit's free plan & email sequence",
+      "title_ru": "Вопрос о бесплатном плане и последовательности электронной почты Kit",
+      "score": 9,
+      "comments_count": 4,
+      "date": "2026-08-05",
+      "content_en": "Hi everyone! I'm a newsletter newbie so I might be missing something really simple here, but my free trial with Kit recently expired and while both the pricing page ([https://kit.com/pricing](https://kit.com/pricing)) and this help page ([https://help.kit.com/en/articles/9053602-the-kit-newsletter-plan](https://help.kit.com/en/articles/9053602-the-kit-newsletter-plan)) indicate I'm still entitled to a single basic visual automation and a single email sequence (which I had already set up as a welcome and was testing on a dummy email), when I'm in the dashboard and try to click on the email sequences, those pages are kinda locked and I have a blurb about how that's a paid feature and I need to upgrade... well, yeah, if I wanted to make more, but I thought I had the one of each?\n\nNow, I did poke around the Kit help section and found something about manually adding new subscribers to an email sequence that I already have... and I was able to see how to do that on my dashboard, but isn't that what the basic automation is for that I supposedly am entitled to? Or do you just have to manually add each new subscriber to the welcome sequence as they sign up?\n\nEven so... I just signed up with another test email and manually added that one to the welcome sequence, which is supposed to have a free download link that is sent immediately, but no such email has arrived to the test email.\n\nWhat happens if I want to change my lead magnet that I have in the existing welcome sequence? Can those emails only be edited on a paid plan? When I searched for \"welcome\" in my dashboard, it did show my sequence in the results, but when I clicked on it, it took me to an Upgrade Now page. \n\nI did ask the AI bot but haven't received any reply yet beyond the \"You will be notified...\" thing. And Google keeps telling me to click on things I can't find in my dashboard or which don't work. \n\nFrankly, if Kit is promising something on the free plan that isn't actually being delivered, that doesn't make me",
+      "content_ru": "Привет всем! Я новичок в новостной рассылке, поэтому я, возможно, упускаю что-то действительно простое здесь, но моя бесплатная пробная версия с Kit недавно истекла, и в то время как как страница ценообразования (https: / /kit.com / Priceing) и эта страница справки ([https: / / help.kit.com /en /articles / 9053602-the-kit-newsletter-plan]) указывают, что я все еще имею право на одну базовую визуальную автоматизацию и одну последовательность электронной почты (которую я уже настроил в качестве приветствия и тестировал на фиктивном электронном письме), когда я нахожусь на панели инструментов и пытаюсь нажать на последовательности электронной почты, эти страницы заблокированы, и у меня есть размытость о том, как это платная функция, и мне нужно обновить ... ну, да, если я хотел сделать больше, но я думал, что у меня есть одна из них?\n\nТеперь я покопался в разделе помощи Kit и нашел что-то о ручном добавлении новых подписчиков в последовательность электронной почты, которая у меня уже есть ... и я смог увидеть, как это сделать на моей приборной панели, но разве это не основная автоматизация для того, что я якобы имею право? Или вам просто нужно вручную добавить каждого нового подписчика в последовательность приветствия при регистрации?\n\nДаже так... Я только что подписался на другое тестовое электронное письмо и вручную добавил это в последовательность приветствия, которая должна иметь бесплатную ссылку для загрузки, которая отправляется немедленно, но такое электронное письмо не пришло на тестовое электронное письмо.\n\nЧто произойдет, если я захочу изменить свой свинцовый магнит, который у меня есть в существующей последовательности приветствия? Можно ли редактировать эти письма только по платному плану? Когда я искал «Добро пожаловать» на своей панели инструментов, он действительно показывал мою последовательность в результатах, но когда я нажал на него, он взял меня на страницу Upgrade Now.\n\nЯ спросил робота ИИ, но пока не получил никакого ответа, кроме «Вы будете уведомлены...». И Google постоянно говорит мне нажимать на вещи, которые я не могу найти на своей приборной панели или которые не работают.\n\nЧестно говоря, если Кит обещает что-то в бесплатном плане, что на самом деле не поставляется, это не заставляет меня так сильно стремиться придерживаться их ... но, может быть, я просто упускаю что-то с точки зрения доступа к последовательности электронной почты и автоматизации, которые я должен иметь даже на freebie?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/Emailmarketing/comments/1vgf7a3/question_about_kits_free_plan_email_sequence/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор столкнулся с блокировкой функций автоматизации в бесплатном плане Kit, несмотря на то что справка сервиса обещает доступ к одной последовательности писем. Пользователь просит совета, как получить доступ к обещанному функционалу или подтвердить, что сервис ограничивает возможности бесплатной версии сильнее, чем заявлено.",
+      "tags": [
+        "EmailMarketing"
+      ]
     }
   ]
 }
