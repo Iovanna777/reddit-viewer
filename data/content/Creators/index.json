@@ -2,46 +2,94 @@
   "title": "Creators",
   "posts": [
     {
-      "id": "1uvka25",
-      "title": "Title: If you were starting from scratch in 2026, which platform would you choose and why?",
+      "id": "t3_1vli9sa",
+      "title_en": "How are you actually using AI in your content workflow, if at all?",
+      "title_ru": "Как вы на самом деле используете ИИ в рабочем процессе контента?",
+      "score": 9,
+      "comments_count": 13,
+      "date": "2026-08-11",
+      "content_en": "Feels like every panel and article lately says AI is going to reshape the creator economy, but in practice I mostly just see people using it for captions or thumbnail ideas, nothing that changes the actual work.\n\nWondering what this looks like for people here. Is AI actually saving you meaningful time or improving your content, or is it still mostly hype compared to what it's supposed to be doing for creators?",
+      "content_ru": "Кажется, что каждая панель и статья в последнее время говорит, что ИИ изменит экономику создателя, но на практике я в основном вижу людей, использующих его для подписей или миниатюрных идей.\n\nИнтересно, как это выглядит для людей здесь. Действительно ли ИИ экономит ваше время или улучшает ваш контент, или он по-прежнему в основном шумиха по сравнению с тем, что он должен делать для создателей?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/creators/comments/1vli9sa/how_are_you_actually_using_ai_in_your_content/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Вот вариант краткого содержания:\n\nАвтор ставит под сомнение реальную пользу ИИ для создателей контента, отмечая, что на практике его потенциал часто сводится к мелочам вроде подписей. В связи с этим он призывает участников дискуссии поделиться опытом: помогает ли ИИ в работе или остается переоцененным инструментом?",
+      "tags": [
+        "Creators"
+      ]
+    },
+    {
+      "id": "t3_1vkvc0k",
+      "title_en": "Is anyone else's biggest struggle not making content, but actually hitting publish?",
+      "title_ru": "Неужели кто-то больше всего борется не за создание контента, а за публикацию?",
+      "score": 6,
+      "comments_count": 12,
+      "date": "2026-08-10",
+      "content_en": "I can film, edit, even feel good about something I made, and then just sit on it for days before actually posting. Second-guessing the caption, the timing, whether it's \"good enough\" compared to what else is out there.\n\nCurious if this is a common thing or if I'm overthinking the process way more than I need to. For people who post consistently, did you have to consciously get past this, or did it just stop being a big deal over time?",
+      "content_ru": "Я могу снимать, редактировать, даже чувствовать себя хорошо из-за того, что я сделал, а затем просто сидеть на нем в течение нескольких дней, прежде чем публиковать. Угадывая подпись, время, достаточно ли это «хорошо» по сравнению с тем, что есть.\n\nЛюбопытно, если это обычная вещь или если я слишком много думаю о процессе больше, чем мне нужно. Для людей, которые регулярно публикуют посты, вам нужно было сознательно пройти через это или со временем это перестало быть большой проблемой?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/creators/comments/1vkvc0k/is_anyone_elses_biggest_struggle_not_making/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор задается вопросом, нормально ли испытывать трудности с публикацией контента из-за перфекционизма и долгих раздумий. Он просит совета у тех, кто публикует посты регулярно: проходит ли этот страх со временем или требует сознательной борьбы?",
+      "tags": [
+        "Creators"
+      ]
+    },
+    {
+      "id": "t3_1vk1n78",
+      "title_en": "Looking for 10 Active YouTubers to Build a Small Creator Network",
+      "title_ru": "10 активных ютуберов создадут небольшую сеть",
+      "score": 7,
+      "comments_count": 4,
+      "date": "2026-08-09",
+      "content_en": "I'm looking for **10 active YouTube creators** who would be interested in forming a small private network.\n\nI'm currently doing around **10M monthly views on YouTube**, and one thing I've been missing is having a small circle of other creators who are also actively growing.\n\nNot looking to build a huge community or promote anything.\n\nI just want to connect with a handful of serious creators where we can talk openly about what's working, share experiences, give each other feedback, and potentially collaborate.\n\nThings like:\n\n• Titles, thumbnails & retention  \n• Shorts & long-form strategies  \n• Analytics & channel growth  \n• Monetization & sponsorships  \n• Editors, designers & useful contacts  \n• Collaborations  \n• Sharing wins, failures and things we've learned\n\n**Looking for creators with either:**\n\n**10K+ subscribers OR 1M+ views in the last 30 days**\n\nNiche doesn't really matter. I'm more interested in people who are active, serious about YouTube and currently growing.\n\n**This isn't a paid group and I'm not selling anything.**\n\nI want to start with around 10 people, see if we actually have a good group, and go from there.\n\nIf you're interested, send me a DM with your channel and roughly how many monthly views you're currently getting.\n\nWould be cool to build a genuinely useful circle of creators. 🤝",
+      "content_ru": "Я ищу 10 активных создателей YouTube, которые были бы заинтересованы в создании небольшой частной сети.\n\nВ настоящее время я просматриваю около 10 миллионов ежемесячных просмотров на YouTube, и одна вещь, которую я пропустил, - это небольшой круг других создателей, которые также активно растут.\n\nНе стремитесь создать огромное сообщество или продвигать что-либо.\n\nЯ просто хочу связаться с несколькими серьезными создателями, где мы можем открыто говорить о том, что работает, делиться опытом, давать друг другу обратную связь и потенциально сотрудничать.\n\nТакие вещи как:\n\n• Титулы, миниатюры и удержание\n• Короткие и длинные стратегии\n• Аналитика и рост каналов\n• Монетизация и спонсорство\n• Редакторы, дизайнеры и полезные контакты\n• Сотрудничество\n• Обмен выигрышами, неудачами и вещами, которые мы узнали\n\n**В поисках создателей с любым из них: **\n\n** 10К+ подписчиков или 1М+ просмотров за последние 30 дней**\n\nНиша не имеет значения. Меня больше интересуют люди, которые активны, серьезно относятся к YouTube и в настоящее время растут.\n\nЭто не платная группа, и я ничего не продаю.\n\nЯ хочу начать с 10 человек, посмотреть, действительно ли у нас хорошая группа, и пойти оттуда.\n\nЕсли вам интересно, отправьте мне DM с вашим каналом и примерное количество ежемесячных просмотров, которые вы в настоящее время получаете.\n\nБыло бы здорово создать действительно полезный круг создателей",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/creators/comments/1vk1n78/looking_for_10_active_youtubers_to_build_a_small/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор с охватом 10 млн просмотров в месяц ищет 10 активных YouTube-блогеров (от 10к подписчиков или 1 млн просмотров) для создания закрытого комьюнити по обмену опытом и стратегиями роста. Для участия напишите автору в личные сообщения с ссылкой на канал и статистикой.",
+      "tags": [
+        "Creators"
+      ]
+    },
+    {
+      "id": "t3_1vm2361",
+      "title_en": "Starting a new niche in YouTube",
+      "title_ru": "Начало новой ниши в YouTube",
       "score": 4,
-      "comments_count": 5,
-      "date": "2026-07-13",
-      "content_en": "I'm thinking about getting back into content creation but I'm not sure where I should focus my time. I had a YouTube channel that I stopped uploading to about a year ago. Now I'm debating whether to revive it or just start fresh.\n\nI have a few ideas, but I haven't settled on a single niche yet. My goal isn't to go viral overnight but rather build something  that could eventually become a source of income alongside university.\n\nIf you were in my position:\n\n\\- Which platform would you focus on first: YouTube, Instagram, TikTok, or something else?\n\n\\- Would you create both short-form and long-form content from the beginning, or focus on just one first?\n\n\\- Is it a good idea to post the same content across multiple platforms, or should each platform get its own version?\n\n\\- Would you restart the old YouTube channel with new branding or create a completely new one?\n\nI'd really appreciate advice from people who've actually gone through this or are currently building a creator business. I'd rather learn from real experiences than spend months figuring everything out by trial and error.\n\nPs : I won't be replying till tomorrow at 8:00 am because I am sleeping now. I humbly apologise in advance😔🙏",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/creators/comments/1uvka25/title_if_you_were_starting_from_scratch_in_2026/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Я подумываю о том, чтобы вернуться к созданию контента, но не уверен, на чем мне следует сосредоточить свое время. У меня был канал на YouTube, который я перестал загружать около года назад. Сейчас думаю, возродить его или начать заново.\n\nУ меня есть несколько идей, но я еще не остановился на какой-то одной нише. Моя цель — не стать вирусным в одночасье, а скорее создать что-то, что в конечном итоге могло бы стать источником дохода наряду с университетом.\n\nЕсли бы вы были на моем месте:\n\n\\- На какой платформе вы бы сосредоточились в первую очередь: YouTube, Instagram, TikTok или что-то еще?\n\n\\- Вы бы с самого начала создавали как короткий, так и длинный контент или сначала сосредоточились только на одном?\n\n\\- Хорошая ли идея публиковать один и тот же контент на нескольких платформах или каждая платформа должна иметь свою собственную версию?\n\n\\- Вы бы перезапустили старый канал YouTube с новым брендом или создали совершенно новый?\n\nЯ бы очень признателен за советы от людей, которые действительно прошли через это или сейчас строят творческий бизнес. Я предпочитаю учиться на реальном опыте, чем тратить месяцы на то, чтобы все выяснить методом проб и ошибок.\n\nP.S. Я не буду отвечать до завтра в 8:00, потому что сейчас сплю. Заранее смиренно извиняюсь😔🙏",
-      "title_ru": "Название: Если бы вы начинали с нуля в 2026 году, какую платформу вы бы выбрали и почему?"
-    },
-    {
-      "id": "1uwc5oi",
-      "title": "How do you monetize your content? How many of you sell courses, digital products or coach clients?",
-      "score": 2,
-      "comments_count": 14,
-      "date": "2026-07-14",
-      "content_en": "Basically what I wrote in the title.  \nDo you offer your own online/digital products and services, or you mostly work with brands?\n\nI know it’s different for everyone, but I just want to hear how you monetize.",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/creators/comments/1uwc5oi/how_do_you_monetize_your_content_how_many_of_you/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "В общем, то, что я написал в заголовке.  \nПредлагаете ли вы собственные онлайн-/цифровые продукты и услуги или в основном работаете с брендами?\n\nЯ знаю, что у всех это по-разному, но я просто хочу услышать, как вы монетизируете.",
-      "title_ru": "Как вы монетизируете свой контент? Кто из вас продает курсы, цифровые продукты или консультирует клиентов?"
-    },
-    {
-      "id": "1uvk4bn",
-      "title": "Designed a print-magazine inspired editorial portfolio system for creators. What do you think of the visual hierarchy?",
-      "score": 2,
       "comments_count": 1,
-      "date": "2026-07-13",
-      "content_en": "Hey everyone,\n\nI’ve been working on a new portfolio framework aimed at creators and freelancers who want to pitch to premium, high-end brands. I felt like a lot of existing templates are a bit too chaotic, so I wanted to build something heavily inspired by clean, editorial print design.\n\n**The goals for this layout were:**\n\n* **High-End Typography:** Focusing on stark serif headers to give off a luxury agency feel.\n* **Frictionless Scannability:** Organizing the video showcases, pricing packages, and philosophy into distinct, highly digestible visual cards.\n* **Adaptability:** Making sure the system looks striking across different aesthetics (I built 4 distinct colorways: Charcoal, Espresso, Merlot, and Midnight).\n\nI wanted to get some eyes on the visual hierarchy and pacing of the layout. Does the grid setup feel intuitive for a brand manager to review? Would love any brutally honest feedback on the typography or spacing!",
+      "date": "2026-08-12",
+      "content_en": "To make a long story short I’m starting a new niche . I was in a motivation niche and will be in a new niche. I’m currently making the videos and haven’t made the account yet . I was planning to create the account, schedule the videos then repeat. Is that a bad idea?",
+      "content_ru": "Короче говоря, я начинаю новую нишу. Я был в нише мотивации и буду в новой нише. В настоящее время я делаю видео и еще не сделал учетную запись. Я планировал создать учетную запись, запланировать видео, а затем повторить. Это плохая идея?",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/creators/comments/1uvk4bn/designed_a_printmagazine_inspired_editorial/",
+      "original_url": "https://www.reddit.com/r/creators/comments/1vm2361/starting_a_new_niche_in_youtube/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Привет всем,\n\nЯ работаю над новой структурой портфолио, предназначенной для авторов и фрилансеров, которые хотят работать с премиальными и элитными брендами. Мне показалось, что многие существующие шаблоны слишком хаотичны, поэтому я хотел создать что-то, вдохновленное чистым редакционным печатным дизайном.\n\n**Цели создания этого макета:**\n\n* **Высококачественная типографика.** Акцент на четких заголовках с засечками, которые создают атмосферу роскошного агентства.\n* **Удобство сканирования.** Организация видеопрезентаций, ценовых пакетов и философии в отдельных, легко усваиваемых визуальных карточках.\n* **Адаптируемость.** Убедитесь, что система выглядит эффектно в различных эстетических вариантах (я создал 4 различных цветовых решения: «угольный», «эспрессо», «мерло» и «полуночный»).\n\nЯ хотел взглянуть на визуальную иерархию и темп макета. Насколько интуитивно понятна настройка сетки для бренд-менеджера? Буду рад любым откровенно честным отзывам о типографике и интервалах!",
-      "title_ru": "Разработана система редакционного портфолио для авторов, вдохновленная печатными журналами. Что вы думаете о визуальной иерархии?"
+      "ai_summary_ru": "Автор переходит из ниши мотивации в новую и интересуется, эффективна ли стратегия: сначала создать контент, а затем запустить аккаунт и начать регулярный постинг.",
+      "tags": [
+        "Creators"
+      ]
+    },
+    {
+      "id": "t3_1vitj2u",
+      "title_en": "Creators who monetize what's something about the money side nobody warns you about?",
+      "title_ru": "Создатели, которые монетизируют что-то о деньгах, о которых вас никто не предупреждает?",
+      "score": 4,
+      "comments_count": 6,
+      "date": "2026-08-08",
+      "content_en": "Everyone talks about growing an audience, getting views, going viral but almost nobody talks about the actual money side until you're already in it. Taxes, inconsistent income, expenses eating into what you make, brands lowballing you, platforms changing payout structures overnight.\n\nFor those of you who've been doing this a while, what's something about the financial/business side of content creation that genuinely caught you off guard? Doesn't have to be a huge amount, just curious what people wish they knew earlier.\n\nTrying to go in with realistic expectations instead of just the highlight reel version everyone posts about.",
+      "content_ru": "Все говорят о том, чтобы увеличить аудиторию, получить просмотры, стать вирусными, но почти никто не говорит о фактической стороне денег, пока вы уже в ней. Налоги, непоследовательный доход, расходы на то, что вы делаете, бренды, которые вас обманывают, платформы, меняющие структуру выплат в одночасье.\n\nДля тех из вас, кто занимался этим какое-то время, что-то в финансовой / деловой стороне создания контента, что действительно застало вас врасплох? Это не должно быть большой суммой, просто любопытно, что люди хотели бы знать раньше.\n\nПытаясь войти с реалистичными ожиданиями, а не только с основной версией барабана, о которой все пишут.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/creators/comments/1vitj2u/creators_who_monetize_whats_something_about_the/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор призывает создателей контента обсудить скрытые финансовые и организационные трудности индустрии (налоги, нестабильный доход, недобросовестные бренды), чтобы сформировать реалистичные ожидания от блогерства.",
+      "tags": [
+        "Creators"
+      ]
     }
   ]
 }
