@@ -2,46 +2,94 @@
   "title": "passive_income",
   "posts": [
     {
-      "id": "1uvop1a",
-      "title": "I started earning royalties from recordings of old household appliances",
-      "score": 1160,
+      "id": "t3_1v9cde3",
+      "title_en": "A forgotten trash bin text reminder is making me $185 a month and Idk what to do next",
+      "title_ru": "Забытое напоминание о мусорном баке приносит мне 185 долларов в месяц, и я знаю, что делать дальше",
+      "score": 5726,
+      "comments_count": 200,
+      "date": "2026-07-28",
+      "content_en": "This started because my neighborhood changed trash collection from Friday to Thursday and people kept missing it. Our Facebook group was basically the same post every week asking if tomorrow was trash day.\n\nI made a really basic text reminder that messages everyone the night before and sends a second message when recycling is included. Our HOA offered me $25 a month to maintain it because apparently they were tired of answering the same question too.\n\nI mentioned it to a friend who manages a few small apartment buildings and he wanted one for each property. I now have 7 communities paying between $20 and $35 a month. It costs me around $14 total for the texting service and I probably spend 20 minutes a month checking that the schedules havent changed.\n\nIt only makes around $185 after costs, but I’ve just been putting it into savings alongside the Ѕtake money since I never expected it to make anything.\n\nOne property manager now wants me to add water shutoff notices, street cleaning reminders and package room updates. That sounds less passive and more like accidentally becoming their notification department.\n\nWould you keep this extremely simple and sell it to more HOAs, or add the extra features and charge more?",
+      "content_ru": "Это началось, потому что мой район изменил сбор мусора с пятницы на четверг, и люди продолжали его пропускать. Наша группа в Фейсбуке каждую неделю писала один и тот же пост, спрашивая, будет ли завтра день мусора.\n\nЯ сделал очень простое текстовое напоминание о том, что сообщения все накануне вечером и отправляет второе сообщение при включении утилизации. Наш ТСЖ предложил мне 25 долларов в месяц, чтобы я его сохранил, потому что, видимо, они устали отвечать на тот же вопрос.\n\nЯ упомянул об этом другу, который управляет несколькими небольшими многоквартирными домами, и он хотел по одному на каждую собственность. Сейчас у меня 7 общин, которые платят от 20 до 35 долларов в месяц. Это стоит мне около 14 долларов, и я, вероятно, трачу 20 минут в месяц на проверку того, что расписание не изменилось.\n\nОн составляет всего около 185 долларов после затрат, но я просто вкладывал его в сбережения вместе с деньгами, так как я никогда не ожидал, что он что-то сделает.\n\nОдин управляющий недвижимостью теперь хочет, чтобы я добавил уведомления об отключении воды, напоминания об уборке улиц и обновления пакетов номеров. Это звучит менее пассивно и больше похоже на случайное превращение в отдел уведомлений.\n\nБудете ли вы держать это чрезвычайно простым и продавать его большему количеству ТСЖ или добавлять дополнительные функции и взимать больше?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/passive_income/comments/1v9cde3/a_forgotten_trash_bin_text_reminder_is_making_me/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор создал простой сервис автоматических SMS-напоминаний о вывозе мусора, который приносит небольшой пассивный доход. Теперь перед ним стоит выбор: сохранить проект в текущем виде для масштабирования или расширять функционал, превращая его в полноценную службу уведомлений для управляющих компаний.",
+      "tags": [
+        "passive_income"
+      ]
+    },
+    {
+      "id": "t3_1vf8npb",
+      "title_en": "My first passive side project.",
+      "title_ru": "Первый пассивный проект.",
+      "score": 880,
+      "comments_count": 161,
+      "date": "2026-08-04",
+      "content_en": "I noticed on the Garmin App store developers were making literally hundreds of thousands of $ selling watch faces and small applications, I'm not talking huge companies, I'm talking solo developers making very minimal applications and raking in the cash.\n\nI looked for a gap and found neither garmin or Wearos / samsung watches have a flight tracking application like FlightRadar24, I decided to give it a shot.\n\nI ended up making FlightScanner over the past few months.\n\nIt turns your watch into a live aircraft radar, showing nearby planes/helicopters around your current location. You can tap aircraft to view information such as its callsign, altitude, speed, registration and direction of travel.\n\nI expected a few downloads here and there but hit it off with over 1000 downloads on Garmin before launching on Android based watches and securing enough funding to continue the apps data costs for months and months to come and turning a nice monthly profit.\n\nI expected some aviation enthusiasts to download it and have some fun but it's turned into a full side project taking up hours of my time to answer user queries and to fix bugs.\n\nMy main priority now is trying to figure out a marketing strategy and getting it onto the front page of both Garmin's store and Google Play. If anything it's turned into a passive income for sure at around $150 a month currently. \n\n[https://play.google.com/store/apps/details?id=com.alexd.flightscanner](https://play.google.com/store/apps/details?id=com.alexd.flightscanner)\n\n[https://apps.garmin.com/en-GB/apps/54094e6b-a4a5-436d-940b-095b49e0cfab](https://apps.garmin.com/en-GB/apps/54094e6b-a4a5-436d-940b-095b49e0cfab)",
+      "content_ru": "Я заметил, что разработчики Garmin App Store зарабатывают буквально сотни тысяч долларов, продавая часы и небольшие приложения, я не говорю об огромных компаниях, я говорю о сольных разработчиках, делающих очень минимальные приложения и зарабатывающих деньги.\n\nЯ искал щель и не нашел ни гармин, ни часы Wearos / samsung не имеют приложения для отслеживания полетов, как FlightRadar24.\n\nЗа последние несколько месяцев я сделал FlightScanner.\n\nОн превращает ваши часы в радар самолета, показывая близлежащие самолеты / вертолеты вокруг вашего текущего местоположения. Вы можете использовать самолет для просмотра информации, такой как его позывной, высота, скорость, регистрация и направление движения.\n\nЯ ожидал несколько загрузок здесь и там, но начал с более чем 1000 загрузок на Garmin, прежде чем запустить часы на базе Android и обеспечить достаточное финансирование, чтобы продолжать расходы на данные приложений в течение нескольких месяцев и месяцев.\n\nЯ ожидал, что некоторые энтузиасты авиации загрузят его и повеселиться, но он превратился в полноценный побочный проект, который занимает часы моего времени, чтобы отвечать на запросы пользователей и исправлять ошибки.\n\nМоим главным приоритетом сейчас является попытка выяснить маркетинговую стратегию и вывести ее на первую страницу как магазина Garmin, так и Google Play. Во всяком случае, в настоящее время он превращается в пассивный доход примерно в 150 долларов в месяц.\n\n[https://play.google.com/store/apps/details?id=com.alexd.flightscanner] (https://play.google.com/store/apps/details?id=com.alexd.flightscanner)\n\n[https://apps.garmin.com/en-GB/apps/54094e6b-a4a5-436d-940b-095b49e0cfab] (https://apps.garmin.com/en-GB/apps/54094e6b-a4a5-436d-940b-095b49e0cfab)",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/passive_income/comments/1vf8npb/my_first_passive_side_project/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Разработчик создал приложение FlightScanner для отслеживания полетов на часах Garmin и Android, которое набрало более 1000 загрузок и приносит около $150 пассивного дохода в месяц. Сейчас автор работает над масштабированием проекта и улучшением маркетинговой стратегии.",
+      "tags": [
+        "passive_income"
+      ]
+    },
+    {
+      "id": "t3_1v1yn9i",
+      "title_en": "My dad’s handwritten greenhouse plans are making $150 a month",
+      "title_ru": "Рукописные планы моего отца по оранжерее зарабатывают 150 долларов в месяц",
+      "score": 580,
+      "comments_count": 27,
+      "date": "2026-07-20",
+      "content_en": "My dad has been building small backyard greenhouses for years and keeps all his measurements and material lists in this beat up notebook. A few months ago I cleaned everything up in Canva and made three downloadable plans for different sizes, mostly because people in his Facebook gardening group kept asking him the same questions.\n\nI listed them on Etsy for $9 each and forgot about it. They barely sold at first, but one customer uploaded a finished greenhouse in their review and sales started coming in pretty consistently after that. Last month they made $153 after fees. I spend maybe 20 minutes answering messages and most weeks there are none.\n\nI was already saving money that I won on Ѕtake for a different project so I only spent about $25 on the listings and some nicer diagrams. Now I’m wondering if I should make more plans for things like cold frames and potting benches, or leave it alone since the current listings are doing fine. Has anyone scaled something this niche without turning it into a second job?",
+      "content_ru": "Мой отец годами строил небольшие оранжереи на заднем дворе и хранит все свои измерения и списки материалов в этом избитом блокноте. Несколько месяцев назад я убрал все в Canva и сделал три скачиваемых плана для разных размеров, в основном потому, что люди в его группе по садоводству в Facebook продолжали задавать ему одни и те же вопросы.\n\nЯ перечислил их на Etsy за 9 долларов каждый и забыл об этом. Сначала они почти не продавались, но один клиент загрузил готовую теплицу в свой обзор, и после этого продажи начали поступать довольно последовательно. В прошлом месяце они заработали $153 после сборов. Я провожу около 20 минут, отвечая на сообщения, и в большинстве недель их нет.\n\nЯ уже экономил деньги, которые выиграл на беру для другого проекта, поэтому я потратил только около 25 долларов на списки и некоторые более приятные диаграммы. Теперь я задаюсь вопросом, должен ли я составлять больше планов для таких вещей, как холодные рамы и горшковые скамейки, или оставить их в покое, поскольку текущие списки работают нормально. Кто-нибудь заполнил эту нишу, не превратив ее во вторую работу?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/passive_income/comments/1v1yn9i/my_dads_handwritten_greenhouse_plans_are_making/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор перевел рукописные чертежи отца по постройке оранжерей в цифровые планы и начал продавать их на Etsy, получая пассивный доход. Теперь он раздумывает, стоит ли расширять ассортимент, не превращая проект в полноценную вторую работу.",
+      "tags": [
+        "passive_income"
+      ]
+    },
+    {
+      "id": "t3_1v7pwza",
+      "title_en": "Warren Buffett says “If you don't find a way to make money while you sleep, you will work until you die.” How are you making money while you sleep?",
+      "title_ru": "Уоррен Баффет говорит: «Если вы не найдете способ заработать деньги во время сна, вы будете работать, пока не умрете». Как зарабатывать деньги во время сна?",
+      "score": 584,
+      "comments_count": 120,
+      "date": "2026-07-27",
+      "content_en": "My biggest fear is working until I die",
+      "content_ru": "Мой самый большой страх работает, пока я не умру",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/passive_income/comments/1v7pwza/warren_buffett_says_if_you_dont_find_a_way_to/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор делится экзистенциальным страхом перед пожизненной необходимостью работать.",
+      "tags": [
+        "passive_income"
+      ]
+    },
+    {
+      "id": "t3_1vp1nan",
+      "title_en": "Making about $2K/month printing custom stuff on Etsy",
+      "title_ru": "Зарабатывая около 2 тысяч долларов в месяц, печатая пользовательские вещи на Etsy",
+      "score": 537,
       "comments_count": 34,
-      "date": "2026-07-13",
-      "content_en": "A few years ago I was helping my uncle clear out an appliance repair shop he had owned since the 90s. Before throwing everything away, I recorded the sounds of some of the older machines because I do audio work as a hobby. Washing machine cycles, old microwave buttons, refrigerator hums, mechanical timers, stuff like that.\n\nI uploaded around 70 clips to two stock audio sites and completely forgot about them. They now bring in anywhere from $35 to $110 a month, mostly purchased by indie game developers and people making YouTube videos. One recording of a broken dryer drum has somehow made more than all the others combined.\n\nIt is not life changing money, but it helped while I was budgeting and trying to keep some money saved. The weird part is the shop is gone now, so I cannot recreate most of those sounds.\n\nHas anyone built a bigger stock audio library around one specific niche? I am wondering if it makes sense to start visiting estate sales and repair shops for more recordings, or if I just got lucky with a very strange collection.",
+      "date": "2026-08-15",
+      "content_en": "Spent $2,500 in April. eufyMake E1 printer was about $2,300 of that, rest was blanks and a heat press.\n\nMay: $600. Mostly figuring out what to sell and how to photograph it.\n\nJune: $1,900. Got some organic Etsy traffic and a bulk order from a dog grooming shop that wanted branded tags. Covered the equipment cost.\n\nJuly: $2,400. About 8-10 hours a week, mostly evenings.\n\nPet tags are the best margin item by far. The grooming shop reorders monthly now which is nice stable income on top of the Etsy stuff.",
+      "content_ru": "В апреле было потрачено 2500 долларов. принтер eufyMake E1 стоил около 2300 долларов, отдых был пустым и тепловым прессом.\n\nМай: $600. В основном выясняется, что продавать и как фотографировать.\n\nИюнь: 1900 долларов. Получил органический трафик Etsy и оптовый заказ от магазина по уходу за собаками, который хотел фирменные теги. Покрывала стоимость оборудования.\n\nИюль: 2400 долларов. 8-10 часов в неделю, в основном по вечерам.\n\nТеги Pet - лучший маржинальный пункт на сегодняшний день. Магазин груминга теперь перезаказывает ежемесячно, что является хорошим стабильным доходом поверх вещей Etsy.",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/passive_income/comments/1uvop1a/i_started_earning_royalties_from_recordings_of/",
+      "original_url": "https://www.reddit.com/r/passive_income/comments/1vp1nan/making_about_2kmonth_printing_custom_stuff_on_etsy/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Несколько лет назад я помогал своему дяде расчистить мастерскую по ремонту бытовой техники, которой он владел с 90-х годов. Прежде чем выбросить все, я записал звуки некоторых старых машин, потому что работа со звуком является моим хобби. Циклы стиральной машины, старые кнопки микроволновой печи, гудение холодильника, механические таймеры и тому подобное.\n\nЯ загрузил около 70 клипов на два стоковых аудиосайта и совершенно забыл о них. Сейчас они приносят от 35 до 110 долларов в месяц, в основном их покупают инди-разработчики игр и люди, снимающие видео на YouTube. Одна запись сломанного сушильного барабана каким-то образом принесла больше, чем все остальные вместе взятые.\n\nЭто не меняет жизнь, но они помогли мне составить бюджет и попытаться сохранить немного денег. Самое странное, что магазина больше нет, поэтому я не могу воссоздать большую часть этих звуков.\n\nКто-нибудь создавал большую стандартную аудиотеку вокруг одной конкретной ниши? Я задаюсь вопросом, имеет ли смысл начать посещать магазины по продаже и ремонту недвижимости в поисках новых записей, или мне просто повезло с очень странной коллекцией.",
-      "title_ru": "Я начал зарабатывать гонорары с записей старой бытовой техники"
-    },
-    {
-      "id": "1uums80",
-      "title": "People who make more than $2k a month online, what do you do?",
-      "score": 976,
-      "comments_count": 659,
-      "date": "2026-07-12",
-      "content_en": "I know there are ways to make money online but I can’t seem to find one that isn’t already over saturated. And the niche ones are being gatekept by those who do it, in hopes to decrease competition. My Skills? I know how to use ai tools, I know how to go viral with ease, and I can do an insane number of calisthenics. That’s pretty much it",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/passive_income/comments/1uums80/people_who_make_more_than_2k_a_month_online_what/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Я знаю, что есть способы заработать деньги в Интернете, но я не могу найти тот, который еще не перенасыщен. А те, кто это делает, придерживают ниши в надежде снизить конкуренцию. Мои навыки? Я знаю, как использовать инструменты искусственного интеллекта, я знаю, как легко стать вирусным, и я могу выполнять безумное количество художественных упражнений. Вот и все",
-      "title_ru": "Люди, которые зарабатывают в Интернете более 2 тысяч долларов в месяц, чем вы занимаетесь?"
-    },
-    {
-      "id": "1urw212",
-      "title": "Made $1800 Clipping For Podcasts Last Month",
-      "score": 298,
-      "comments_count": 101,
-      "date": "2026-07-09",
-      "content_en": "At the title says I was able to make $1800 from clipping podcasts last month and in total have made close to $2400 since Mid May. The thing is I want to make this my full time business but I just don’t know where to find contact information for podcast hosts or how to price it. Does anyone have any advice for me on how I could monetize this skill going forward?\n\nAnd for anyone giving me hate go kick rocks. I made $2400 online something 99% of people will never be able to do in their lives. All I’m trying to do is take my skill and help channels and creators grow all while being able to support myself and make a future for myself and my family. If you can’t respect that then get out of here\n\nFor any podcasters who want to either work with me or who want to learn how to make clips go viral for their own content please comment below and maybe I’ll make something that shows you all how to do this. Because I will say with Tik Tok I have some tricks on how to get views and it works.\n\nFor those interested in seeing the views and podcasts check out my main channel Iron Clips On TikTok I’m the one with 1.1M views on the wolf video.",
-      "comments_en": [],
-      "original_url": "https://www.reddit.com/r/passive_income/comments/1urw212/made_1800_clipping_for_podcasts_last_month/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "В заголовке говорится, что я смог заработать 1800 долларов на вырезках подкастов в прошлом месяце, а с середины мая в общей сложности я заработал около 2400 долларов. Дело в том, что я хочу сделать это своим постоянным бизнесом, но я просто не знаю, где найти контактную информацию о хостах подкастов или как ее оценить. Кто-нибудь может дать мне какой-нибудь совет о том, как я могу монетизировать этот навык в будущем?\n\nИ тот, кто вызывает у меня ненависть, пинайте камни. Я заработал 2400 долларов в Интернете, чего 99% людей никогда не смогут сделать в своей жизни. Все, что я пытаюсь сделать, это применить свои навыки и помочь каналам и создателям расти, одновременно имея возможность поддерживать себя и создавать будущее для себя и своей семьи. Если ты не можешь это уважать, тогда уходи отсюда\n\nПодкастеры, которые хотят либо работать со мной, либо научиться делать вирусные клипы для своего собственного контента, оставьте комментарий ниже, и, возможно, я сделаю что-нибудь, что покажет вам, как это сделать. Потому что я скажу, что с Tik Tok у меня есть несколько приемов, как набрать просмотры, и это работает.\n\nЕсли вам интересно посмотреть просмотры и подкасты, посетите мой основной канал Iron Clips на TikTok. У меня 1,1 миллиона просмотров видео с волком.",
-      "title_ru": "Заработал 1800 долларов на вырезках для подкастов в прошлом месяце"
+      "ai_summary_ru": "За четыре месяца бизнес на печати тегов для питомцев вышел на самоокупаемость. Основной доход приносит Etsy и стабильные оптовые заказы от груминг-салона при минимальных затратах времени.",
+      "tags": [
+        "passive_income"
+      ]
     }
   ]
 }
