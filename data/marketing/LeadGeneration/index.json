@@ -2,82 +2,94 @@
   "title": "LeadGeneration",
   "posts": [
     {
-      "id": "1utnxue",
-      "title": "We've been trying to get clients for our digital marketing agency",
-      "score": 14,
-      "comments_count": 48,
-      "date": "2026-07-11",
-      "content_en": "Hey everyone,\n\nNeed some advice. We've been trying to get clients for our digital marketing agency, mainly in the UAE. We ran Meta Lead Ads (instant forms), but the leads were low quality and the CAC was pretty high.\n\nApart from networking and referrals, what has actually worked for you? Cold email, Google Ads, LinkedIn outreach, or something else?\n\nWe're mainly targeting the UAE, GCC, Europe, the US, and Australia. Would love to hear what's worked for you.",
-      "comments_en": [
-        {
-          "comment_id": "owydb74",
-          "full_comment_id": "t1_owydb74",
-          "post_full_id": "t3_1utnxue",
-          "post_id": "1utnxue",
-          "post_title": "We've been trying to get clients for our digital marketing agency",
-          "author": "polygraph-net",
-          "text": "> We've been trying to get clients for our digital marketing agency, mainly in the UAE. We ran Meta Lead Ads (instant forms), but the leads were low quality and the CAC was pretty high.\n\nI'm not trying to be mean.\n\nYou should already know (1) instant forms guarantees fake leads from click fraud bots and (2) will train Meta to send you even more fake traffic.\n\nYou should be sending the clicks to a landing page you control, and put bot protection on that page to stop the fake leads. That will ensure Meta is trained to send you human traffic.\n\nOf course make sure your ad and landing page are in sync, the page has a nice UX/UI, loads quickly, and has a simple form.\n\nIf I were you I'd make a list of every local business, find the find the owner, and introduce yourself as the local digital marketing agency. Offer them a good deal.",
-          "created_at": "2026-07-11T20:10:17Z",
-          "scraped_at": "2026-07-15T09:43:24.021683Z",
-          "depth": 0,
-          "score": 12,
-          "permalink": "/r/LeadGeneration/comments/1utnxue/weve_been_trying_to_get_clients_for_our_digital/owydb74/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "> Мы пытаемся найти клиентов для нашего агентства цифрового маркетинга, в основном в ОАЭ. Мы запускали мета-объявления для лидов (мгновенные формы), но лиды были низкого качества, а CAC был довольно высоким.\n\nЯ не пытаюсь быть злым.\n\nВы уже должны знать, что (1) мгновенные формы гарантируют фальшивые лиды от ботов, занимающихся мошенничеством с кликами, и (2) научат Meta отправлять вам еще больше фальшивого трафика.\n\nВам следует отправлять клики на целевую страницу, которую вы контролируете, и установить на этой странице защиту от ботов, чтобы остановить фальшивые лиды. Это гарантирует, что Meta обучена отправлять вам человеческий трафик.\n\nКонечно, убедитесь, что ваше объявление и целевая страница синхронизированы, страница имеет приятный UX/UI, быстро загружается и имеет простую форму.\n\nНа вашем месте я бы составил список всех местных предприятий, нашел владельца и представился как местное агентство цифрового маркетинга. Предложите им выгодную сделку."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1utnxue/weve_been_trying_to_get_clients_for_our_digital/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Привет всем,\n\nНужен совет. Мы пытались найти клиентов для нашего агентства цифрового маркетинга, в основном в ОАЭ. Мы запускали мета-объявления для лидов (мгновенные формы), но лиды были низкого качества, а CAC был довольно высоким.\n\nЧто вам действительно помогло, помимо связей и рекомендаций? Холодная электронная почта, Google Ads, LinkedIn или что-то еще?\n\nВ основном мы нацелены на ОАЭ, страны Персидского залива, Европу, США и Австралию. Хотелось бы услышать, что сработало для вас.",
-      "title_ru": "Мы пытаемся привлечь клиентов для нашего агентства цифрового маркетинга."
-    },
-    {
-      "id": "1uwimz7",
-      "title": "Looking for advice on generating leads for a long-distance moving company",
-      "score": 9,
-      "comments_count": 20,
-      "date": "2026-07-14",
-      "content_en": "Hey everyone,  \nI own a long-distance moving company in the U.S., and I’m looking for advice from people who’ve successfully generated leads in the home services industry.  \nWhat’s been the best way for you to get customers who are actually ready to book not just people shopping around?  \nI’ve looked into Meta ads, Google Ads, SEO, and lead providers(was the worst experience ever), but I’d love to hear what’s working for you right now.  \nA few questions:  \nWhich channel brings you the highest quality leads?  \nAre Google Local Services Ads worth it for movers?  \nHas anyone had success with Facebook lead forms or Reddit?  \nAny agencies or strategies you’d recommend (or avoid)?  \nI’m open to both organic and paid methods. Thanks in advance for any advice!",
-      "comments_en": [
-        {
-          "comment_id": "oxl1qba",
-          "full_comment_id": "t1_oxl1qba",
-          "post_full_id": "t3_1uwimz7",
-          "post_id": "1uwimz7",
-          "post_title": "Looking for advice on generating leads for a long-distance moving company",
-          "author": "shanksgan",
-          "text": "your instinct on referrals is right, but for a mover the highest-value referral isnt a past customer (they wont move again for years). its the people who touch movers repeatedly, before anyone needs you:\n\nrealtors and relocation agents (someone above is pointing at this). one busy realtor can send you a dozen moves a year.\n\napartment and storage managers. they know whos moving weeks before you do.\n\ncorporate HR and relocation teams. this is the B2B goldmine. companies relocating employees are exactly the \"ready to book, not shopping\" leads you want, the company pays and just needs it handled. two or three corporate relocation accounts is steady high-value volume ads cant match.\n\nso id spend less on lead providers (you already learned that lesson) and more on building 20-30 repeat referral relationships. one good realtor or corporate account outproduces a month of meta ads, because the trust is already there when the lead lands.\n\npaid channels get you strangers comparing three quotes. referral sources get you people who were told \"just call these guys.\"",
-          "created_at": "2026-07-15T00:06:36Z",
-          "scraped_at": "2026-07-15T09:43:25.579956Z",
-          "depth": 0,
-          "score": 3,
-          "permalink": "/r/LeadGeneration/comments/1uwimz7/looking_for_advice_on_generating_leads_for_a/oxl1qba/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "ваше чутье относительно рекомендаций верно, но для человека, который переезжает, самый ценный реферал — это не бывший клиент (он не переедет снова в течение многих лет). это люди, которые неоднократно прикасаются к грузчикам, прежде чем вы кому-нибудь понадобитесь:\n\nриэлторы и агенты по переезду (кто-то выше указывает на это). один занятой риэлтор может отправить вам дюжину переездов в год.\n\nуправляющие квартирами и складами. они знают, кто переезжает, на несколько недель раньше вас.\n\nкорпоративные команды по управлению персоналом и переездам. это золотая жила B2B. Компании, перемещающие сотрудников, - это именно те лиды, которые вам нужны, «готовы забронировать, а не делать покупки», компания платит и просто нуждается в их обработке. два или три аккаунта по корпоративному переезду — это стабильный объем рекламы с высокой стоимостью, который не может сравниться.\n\nпоэтому я буду тратить меньше на поставщиков потенциальных клиентов (вы уже усвоили этот урок) и больше на построение 20-30 повторных реферальных отношений. один хороший риэлторский или корпоративный аккаунт дает больше, чем месяц метарекламы, потому что доверие уже есть, когда приземляется лид.\n\nплатные каналы позволяют незнакомцам сравнивать три цитаты. Реферальные источники приводят к вам людей, которым сказали: «Просто позвоните этим ребятам»."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1uwimz7/looking_for_advice_on_generating_leads_for_a/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Привет всем,  \nЯ владею компанией по перевозке грузов на дальние расстояния в США, и мне нужен совет от людей, которые успешно привлекли потенциальных клиентов в сфере услуг на дому.  \nКак вам лучше всего привлечь клиентов, которые действительно готовы бронировать, а не просто людей, которые делают покупки?  \nЯ изучил метаобъявления, рекламу Google, SEO и ведущих поставщиков (это был худший опыт за всю историю), но мне бы хотелось услышать, что работает для вас прямо сейчас.  \nНесколько вопросов:  \nКакой канал приносит вам самые качественные лиды?  \nСтоит ли использовать рекламу местных услуг Google для переездчиков?  \nКто-нибудь добился успеха с формами для потенциальных клиентов Facebook или Reddit?  \nКакие агентства или стратегии вы бы порекомендовали (или избегали)?  \nЯ открыт как для органических, так и для платных методов. Заранее спасибо за любой совет!",
-      "title_ru": "Ищу совет по привлечению потенциальных клиентов для компании, занимающейся перевозками на дальние расстояния."
-    },
-    {
-      "id": "1usj4fv",
-      "title": "How do you distinguish between good leads and bad leads?",
-      "score": 9,
-      "comments_count": 35,
-      "date": "2026-07-10",
-      "content_en": "How do you factor out good leads from the list of leads you capture via a form?  \nSuppose you get 20 form submissions a day. How do you find whom to contact first out of those 20 leads?  \nWhich one are worth contacting and whom will be waste of your time?  \nAny tools you use? Or your intuitions only?",
+      "id": "t3_1n6at65",
+      "title_en": "How are you all generating leads right now?",
+      "title_ru": "Как вы все генерируете лиды прямо сейчас?",
+      "score": 77,
+      "comments_count": 278,
+      "date": "2025-09-02",
+      "content_en": "Are you leaning toward AI automation or sticking with traditional methods? If you are using AI, which tools have proven effective for you, and which ones have turned out to be overhyped?\n\nAlso curious, which platforms are giving you the best ROI for leads (LinkedIn, cold email, ads, or something else)?\n\nWould love to hear what’s been working in real-world practice.",
+      "content_ru": "Вы склоняетесь к автоматизации ИИ или придерживаетесь традиционных методов? Если вы используете ИИ, какие инструменты оказались эффективными для вас, а какие оказались завышенными?\n\nТакже любопытно, какие платформы дают вам лучший ROI для потенциальных клиентов (LinkedIn, холодная электронная почта, реклама или что-то еще)?\n\nХотелось бы узнать, что работает в реальной практике.",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1usj4fv/how_do_you_distinguish_between_good_leads_and_bad/",
+      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1n6at65/how_are_you_all_generating_leads_right_now/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Как выделить хороших потенциальных клиентов из списка потенциальных клиентов, которые вы захватываете через форму?  \nПредположим, вы получаете 20 отправок форм в день. Как вы находите, с кем связаться в первую очередь из этих 20 потенциальных клиентов?  \nК кому стоит обратиться, а на кого вы потеряете время?  \nКакие-нибудь инструменты вы используете? Или только ваша интуиция?",
-      "title_ru": "Как отличить хороших лидов от плохих?"
+      "ai_summary_ru": "Автор спрашивает о личном опыте использования ИИ-инструментов в работе и просит поделиться наиболее эффективными каналами привлечения клиентов с высоким ROI.",
+      "tags": [
+        "LeadGeneration"
+      ]
+    },
+    {
+      "id": "t3_1sfu8ri",
+      "title_en": "Is Any Lead Generation Method Still Working in 2026?",
+      "title_ru": "Работает ли метод генерации свинца в 2026 году?",
+      "score": 68,
+      "comments_count": 282,
+      "date": "2026-04-08",
+      "content_en": "Hey everyone,\n\nSince AI has entered the market, there’s been a massive surge in cold outreach across email, DMs, paid ads, and even people replying to posts offering services. Costs are rising and it’s getting harder to know what actually works.\n\nI’m curious to hear from you all, what’s working for you right now?\n\nWould be great if you can share in a simple format, for example:\n\n“LinkedIn outreach with voice notes for a SaaS company targeting a US audience is working.”\n\nAlso, how do you see things evolving going forward?\n\nWhat do you think will continue to work and stay relevant in the future?\n\nLooking forward to learning from your experiences.",
+      "content_ru": "Привет всем,\n\nС тех пор, как ИИ вышел на рынок, наблюдается огромный всплеск холодного охвата электронной почты, платных объявлений и даже людей, отвечающих на сообщения, предлагающие услуги. Расходы растут, и становится все труднее понять, что на самом деле работает.\n\nМне интересно услышать от всех вас, что работает для вас сейчас?\n\nБыло бы здорово, если бы вы могли поделиться в простом формате, например:\n\n\"Связанный Работает информационно-пропагандистская работа с голосовыми заметками для компании SaaS, ориентированной на американскую аудиторию».\n\nКроме того, как вы видите, что вещи развиваются в будущем?\n\nКак вы думаете, что будет продолжать работать и оставаться актуальным в будущем?\n\nС нетерпением жду возможности учиться на своем опыте.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1sfu8ri/is_any_lead_generation_method_still_working_in/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор поста отмечает рост конкуренции и затрат в маркетинге из-за бума ИИ и просит поделиться актуальными стратегиями лидогенерации. Также он предлагает обсудить, какие методы привлечения клиентов сохранят эффективность в будущем.",
+      "tags": [
+        "LeadGeneration"
+      ]
+    },
+    {
+      "id": "t3_1nih1mo",
+      "title_en": "Found 9,400+ decision-makers actively researching our competitors - here's how we convert them",
+      "title_ru": "Найдено 9400+ лиц, принимающих решения, активно исследующих наших конкурентов - вот как мы их конвертируем",
+      "score": 66,
+      "comments_count": 19,
+      "date": "2025-09-16",
+      "content_en": "New client of ours was struggling with traditional lead gen - cold calling, bought lists, the usual stuff that barely worked anymore.\n\nHere’s the strat we’ve successfully run for them and several others at this point to generate over $1M in sales this year for those who implemented it correctly:\n\n**We’re using intent data to track decision makers (ceos, cmos, founders) who are actively researching competitors.**\n\nThink about it: If they’re researching competitors over industry generic terms, they’re literally one decision away from a purchase.\n\nAKA, **buying** intent.\n\n**Step 1:** use a platform that offers intent data (apollo, lusha, but we use listkit since the data updates every 24 hours). the key was avoiding 30-90 day old stale data bc those ppl already made a buying decision.\n\n**Step 2:** list all your most popular competitors set up searches for people researching their main competitors, filtered specifically for decision-makers - **ceos, cmos, founders, owners.** Again these people were already in buying mode. Set other stuff like company size, location, etc.\n\n**Step 3:** pull fresh leads every single day. Most people set this up once and forget about it, but the real magic happens when you consistently tap into new decision-makers entering research mode every 24 hours.\n\n**step 4:** deployed this simple competitor intercept email:\n\n\"hi \\[name\\],\n\nnoticed you're researching \\[competitor\\].\n\nwe help companies like \\[company\\] get \\[specific benefit\\] without \\[competitor's main drawback\\].\n\nfor example, we helped \\[client\\] \\[specific result\\], saving them \\[quantifiable outcome\\].\n\nmind if i share a quick video showing what this could look like for you?\"\n\nkept it direct, simple, focused on one specific result for one specific type of client.\n\nwhat I really like about this approach is you'll virtually never run out of highly-qualified leads since the data refreshes daily, and with new decision-makers entering buying mode.\n\nWe use listkit's intent data for this",
+      "content_ru": "Наш новый клиент боролся с традиционным свинцовым поколением - холодными звонками, покупными списками, обычными вещами, которые уже почти не работали.\n\nВот страта, которую мы успешно использовали для них и некоторых других на данный момент, чтобы генерировать более 1 миллиона долларов в продажах в этом году для тех, кто правильно реализовал его:\n\nМы используем данные о намерениях для отслеживания лиц, принимающих решения (ceos, cmos, учредителей), которые активно исследуют конкурентов.\n\nПодумайте об этом: если они исследуют конкурентов по отраслевым общим терминам, они буквально на один шаг от покупки.\n\nАКА, ** намерение купить**.\n\nШаг 1: используйте платформу, которая предлагает данные о намерениях (Apollo, Lusha, но мы используем список, поскольку данные обновляются каждые 24 часа). Ключ заключался в том, чтобы избежать 30-90-дневных устаревших данных, которые уже приняли решение о покупке.\n\nШаг 2: Перечислите всех ваших самых популярных конкурентов, настройте поиск людей, исследующих своих основных конкурентов, отфильтрованных специально для лиц, принимающих решения - **ceos, cmos, учредителей, владельцев. Опять же, эти люди уже были в режиме покупки. Установите другие вещи, такие как размер компании, местоположение и т. Д.\n\nШаг 3: * * тянуть свежие лиды каждый день. Большинство людей настраивают это один раз и забывают об этом, но настоящая магия происходит, когда вы постоянно подключаетесь к новым лицам, принимающим решения, вводящим режим исследования каждые 24 часа.\n\nШаг 4:** развернул этот простой конкурент перехватывает электронную почту:\n\n\"Привет [имя],\n\nЗаметили, что вы исследуете конкурента.\n\nМы помогаем таким компаниям, как \\[компания\\], получать \\[конкретную выгоду\\] без \\[основного недостатка конкурента\\].\n\nНапример, мы помогли [клиенту] [конкретному результату], сохранив их [количественный результат].\n\nНе возражаете, если я поделюсь быстрым видео, показывающим, как это может выглядеть для вас?\n\nОн был прямым, простым, сосредоточенным на одном конкретном результате для одного конкретного типа клиента.\n\nЧто мне действительно нравится в этом подходе, так это то, что у вас практически никогда не закончатся высококвалифицированные лиды, поскольку данные обновляются ежедневно, а новые лица, принимающие решения, входят в режим покупки.\n\nМы используем данные о намерениях Listkit для всего этого процесса, но любой инструмент, который предлагает его, работает. Требуется около 5 минут для установки и 1-2 минуты в день, чтобы вытащить новые зацепки.\n\nУдачи!\n\n!",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1nih1mo/found_9400_decisionmakers_actively_researching/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Для генерации качественных лидов используйте данные о намерениях: отслеживайте лиц, принимающих решения, которые ежедневно ищут ваших конкурентов, и предлагайте им адресное решение через короткие письма. Этот подход позволяет работать только с «горячей» аудиторией и кратно увеличивать продажи.",
+      "tags": [
+        "LeadGeneration"
+      ]
+    },
+    {
+      "id": "t3_1oll2i3",
+      "title_en": "I want someone who can help me in lead generation",
+      "title_ru": "Я хочу кого-то, кто может помочь мне в поколении лидеров",
+      "score": 54,
+      "comments_count": 236,
+      "date": "2025-11-01",
+      "content_en": "I want someone who knows how to generate qualified leads, each and every insights of lead generation because i really need some qualified leads.",
+      "content_ru": "Я хочу, чтобы кто-то, кто знает, как генерировать квалифицированные лиды, каждое понимание генерации лидов, потому что мне действительно нужны квалифицированные лиды.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1oll2i3/i_want_someone_who_can_help_me_in_lead_generation/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор ищет эксперта по генерации квалифицированных лидов для настройки эффективного привлечения целевых клиентов.",
+      "tags": [
+        "LeadGeneration"
+      ]
+    },
+    {
+      "id": "t3_1qpgk8j",
+      "title_en": "What’s the first thing you automate in outbound (without ruining quality)",
+      "title_ru": "Какая первая вещь, которую вы автоматизируете в исходе (без ухудшения качества)",
+      "score": 55,
+      "comments_count": 20,
+      "date": "2026-01-28",
+      "content_en": "When you start scaling outbound, there’s always a tradeoff between speed and quality. Automate too early and everything starts feeling generic. Wait too long and reps end up spending most of their time on manual work.  \nWhat do you automate first and at what point do you feel automation actually helps quality instead of hurting it? ",
+      "content_ru": "Когда вы начинаете масштабироваться, всегда есть компромисс между скоростью и качеством. Автоматизируйтесь слишком рано, и все начинает ощущаться как общее. Подождите слишком долго, и повторители в конечном итоге тратят большую часть своего времени на ручную работу.\nЧто вы автоматизируете в первую очередь и в какой момент вы чувствуете, что автоматизация действительно помогает качеству, а не вредит ему?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1qpgk8j/whats_the_first_thing_you_automate_in_outbound/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Масштабирование бизнеса требует баланса между скоростью и качеством при внедрении автоматизации. Поделитесь опытом: что стоит автоматизировать в первую очередь, чтобы упростить процессы, не теряя при этом в качестве?",
+      "tags": [
+        "LeadGeneration"
+      ]
     }
   ]
 }

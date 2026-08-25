@@ -1,0 +1,83 @@
+{
+  "title": "LeadGeneration",
+  "posts": [
+    {
+      "id": "1utnxue",
+      "title": "We've been trying to get clients for our digital marketing agency",
+      "score": 14,
+      "comments_count": 48,
+      "date": "2026-07-11",
+      "content_en": "Hey everyone,\n\nNeed some advice. We've been trying to get clients for our digital marketing agency, mainly in the UAE. We ran Meta Lead Ads (instant forms), but the leads were low quality and the CAC was pretty high.\n\nApart from networking and referrals, what has actually worked for you? Cold email, Google Ads, LinkedIn outreach, or something else?\n\nWe're mainly targeting the UAE, GCC, Europe, the US, and Australia. Would love to hear what's worked for you.",
+      "comments_en": [
+        {
+          "comment_id": "owydb74",
+          "full_comment_id": "t1_owydb74",
+          "post_full_id": "t3_1utnxue",
+          "post_id": "1utnxue",
+          "post_title": "We've been trying to get clients for our digital marketing agency",
+          "author": "polygraph-net",
+          "text": "> We've been trying to get clients for our digital marketing agency, mainly in the UAE. We ran Meta Lead Ads (instant forms), but the leads were low quality and the CAC was pretty high.\n\nI'm not trying to be mean.\n\nYou should already know (1) instant forms guarantees fake leads from click fraud bots and (2) will train Meta to send you even more fake traffic.\n\nYou should be sending the clicks to a landing page you control, and put bot protection on that page to stop the fake leads. That will ensure Meta is trained to send you human traffic.\n\nOf course make sure your ad and landing page are in sync, the page has a nice UX/UI, loads quickly, and has a simple form.\n\nIf I were you I'd make a list of every local business, find the find the owner, and introduce yourself as the local digital marketing agency. Offer them a good deal.",
+          "created_at": "2026-07-11T20:10:17Z",
+          "scraped_at": "2026-07-15T09:43:24.021683Z",
+          "depth": 0,
+          "score": 12,
+          "permalink": "/r/LeadGeneration/comments/1utnxue/weve_been_trying_to_get_clients_for_our_digital/owydb74/",
+          "is_stickied": false,
+          "is_submitter": false,
+          "text_ru": "> Мы пытаемся найти клиентов для нашего агентства цифрового маркетинга, в основном в ОАЭ. Мы запускали мета-объявления для лидов (мгновенные формы), но лиды были низкого качества, а CAC был довольно высоким.\n\nЯ не пытаюсь быть злым.\n\nВы уже должны знать, что (1) мгновенные формы гарантируют фальшивые лиды от ботов, занимающихся мошенничеством с кликами, и (2) научат Meta отправлять вам еще больше фальшивого трафика.\n\nВам следует отправлять клики на целевую страницу, которую вы контролируете, и установить на этой странице защиту от ботов, чтобы остановить фальшивые лиды. Это гарантирует, что Meta обучена отправлять вам человеческий трафик.\n\nКонечно, убедитесь, что ваше объявление и целевая страница синхронизированы, страница имеет приятный UX/UI, быстро загружается и имеет простую форму.\n\nНа вашем месте я бы составил список всех местных предприятий, нашел владельца и представился как местное агентство цифрового маркетинга. Предложите им выгодную сделку."
+        }
+      ],
+      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1utnxue/weve_been_trying_to_get_clients_for_our_digital/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "Привет всем,\n\nНужен совет. Мы пытались найти клиентов для нашего агентства цифрового маркетинга, в основном в ОАЭ. Мы запускали мета-объявления для лидов (мгновенные формы), но лиды были низкого качества, а CAC был довольно высоким.\n\nЧто вам действительно помогло, помимо связей и рекомендаций? Холодная электронная почта, Google Ads, LinkedIn или что-то еще?\n\nВ основном мы нацелены на ОАЭ, страны Персидского залива, Европу, США и Австралию. Хотелось бы услышать, что сработало для вас.",
+      "title_ru": "Мы пытаемся привлечь клиентов для нашего агентства цифрового маркетинга."
+    },
+    {
+      "id": "1uwimz7",
+      "title": "Looking for advice on generating leads for a long-distance moving company",
+      "score": 9,
+      "comments_count": 20,
+      "date": "2026-07-14",
+      "content_en": "Hey everyone,  \nI own a long-distance moving company in the U.S., and I’m looking for advice from people who’ve successfully generated leads in the home services industry.  \nWhat’s been the best way for you to get customers who are actually ready to book not just people shopping around?  \nI’ve looked into Meta ads, Google Ads, SEO, and lead providers(was the worst experience ever), but I’d love to hear what’s working for you right now.  \nA few questions:  \nWhich channel brings you the highest quality leads?  \nAre Google Local Services Ads worth it for movers?  \nHas anyone had success with Facebook lead forms or Reddit?  \nAny agencies or strategies you’d recommend (or avoid)?  \nI’m open to both organic and paid methods. Thanks in advance for any advice!",
+      "comments_en": [
+        {
+          "comment_id": "oxl1qba",
+          "full_comment_id": "t1_oxl1qba",
+          "post_full_id": "t3_1uwimz7",
+          "post_id": "1uwimz7",
+          "post_title": "Looking for advice on generating leads for a long-distance moving company",
+          "author": "shanksgan",
+          "text": "your instinct on referrals is right, but for a mover the highest-value referral isnt a past customer (they wont move again for years). its the people who touch movers repeatedly, before anyone needs you:\n\nrealtors and relocation agents (someone above is pointing at this). one busy realtor can send you a dozen moves a year.\n\napartment and storage managers. they know whos moving weeks before you do.\n\ncorporate HR and relocation teams. this is the B2B goldmine. companies relocating employees are exactly the \"ready to book, not shopping\" leads you want, the company pays and just needs it handled. two or three corporate relocation accounts is steady high-value volume ads cant match.\n\nso id spend less on lead providers (you already learned that lesson) and more on building 20-30 repeat referral relationships. one good realtor or corporate account outproduces a month of meta ads, because the trust is already there when the lead lands.\n\npaid channels get you strangers comparing three quotes. referral sources get you people who were told \"just call these guys.\"",
+          "created_at": "2026-07-15T00:06:36Z",
+          "scraped_at": "2026-07-15T09:43:25.579956Z",
+          "depth": 0,
+          "score": 3,
+          "permalink": "/r/LeadGeneration/comments/1uwimz7/looking_for_advice_on_generating_leads_for_a/oxl1qba/",
+          "is_stickied": false,
+          "is_submitter": false,
+          "text_ru": "ваше чутье относительно рекомендаций верно, но для человека, который переезжает, самый ценный реферал — это не бывший клиент (он не переедет снова в течение многих лет). это люди, которые неоднократно прикасаются к грузчикам, прежде чем вы кому-нибудь понадобитесь:\n\nриэлторы и агенты по переезду (кто-то выше указывает на это). один занятой риэлтор может отправить вам дюжину переездов в год.\n\nуправляющие квартирами и складами. они знают, кто переезжает, на несколько недель раньше вас.\n\nкорпоративные команды по управлению персоналом и переездам. это золотая жила B2B. Компании, перемещающие сотрудников, - это именно те лиды, которые вам нужны, «готовы забронировать, а не делать покупки», компания платит и просто нуждается в их обработке. два или три аккаунта по корпоративному переезду — это стабильный объем рекламы с высокой стоимостью, который не может сравниться.\n\nпоэтому я буду тратить меньше на поставщиков потенциальных клиентов (вы уже усвоили этот урок) и больше на построение 20-30 повторных реферальных отношений. один хороший риэлторский или корпоративный аккаунт дает больше, чем месяц метарекламы, потому что доверие уже есть, когда приземляется лид.\n\nплатные каналы позволяют незнакомцам сравнивать три цитаты. Реферальные источники приводят к вам людей, которым сказали: «Просто позвоните этим ребятам»."
+        }
+      ],
+      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1uwimz7/looking_for_advice_on_generating_leads_for_a/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "Привет всем,  \nЯ владею компанией по перевозке грузов на дальние расстояния в США, и мне нужен совет от людей, которые успешно привлекли потенциальных клиентов в сфере услуг на дому.  \nКак вам лучше всего привлечь клиентов, которые действительно готовы бронировать, а не просто людей, которые делают покупки?  \nЯ изучил метаобъявления, рекламу Google, SEO и ведущих поставщиков (это был худший опыт за всю историю), но мне бы хотелось услышать, что работает для вас прямо сейчас.  \nНесколько вопросов:  \nКакой канал приносит вам самые качественные лиды?  \nСтоит ли использовать рекламу местных услуг Google для переездчиков?  \nКто-нибудь добился успеха с формами для потенциальных клиентов Facebook или Reddit?  \nКакие агентства или стратегии вы бы порекомендовали (или избегали)?  \nЯ открыт как для органических, так и для платных методов. Заранее спасибо за любой совет!",
+      "title_ru": "Ищу совет по привлечению потенциальных клиентов для компании, занимающейся перевозками на дальние расстояния."
+    },
+    {
+      "id": "1usj4fv",
+      "title": "How do you distinguish between good leads and bad leads?",
+      "score": 9,
+      "comments_count": 35,
+      "date": "2026-07-10",
+      "content_en": "How do you factor out good leads from the list of leads you capture via a form?  \nSuppose you get 20 form submissions a day. How do you find whom to contact first out of those 20 leads?  \nWhich one are worth contacting and whom will be waste of your time?  \nAny tools you use? Or your intuitions only?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/LeadGeneration/comments/1usj4fv/how_do_you_distinguish_between_good_leads_and_bad/",
+      "is_read": false,
+      "is_favorite": false,
+      "content_ru": "Как выделить хороших потенциальных клиентов из списка потенциальных клиентов, которые вы захватываете через форму?  \nПредположим, вы получаете 20 отправок форм в день. Как вы находите, с кем связаться в первую очередь из этих 20 потенциальных клиентов?  \nК кому стоит обратиться, а на кого вы потеряете время?  \nКакие-нибудь инструменты вы используете? Или только ваша интуиция?",
+      "title_ru": "Как отличить хороших лидов от плохих?"
+    }
+  ]
+}
