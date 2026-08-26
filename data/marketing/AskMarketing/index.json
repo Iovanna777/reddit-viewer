@@ -2,46 +2,94 @@
   "title": "AskMarketing",
   "posts": [
     {
-      "id": "1urfora",
-      "title": "The Best Marketing Rarely Feels Like Marketing",
-      "score": 27,
-      "comments_count": 34,
-      "date": "2026-07-09",
-      "content_en": "The brands I remember aren't necessarily the ones with the biggest ad budgets. They're the ones that consistently provide value before asking for anything in return.\n\nA helpful article, a useful tool, an honest case study or even a thoughtful social post can build more trust than a dozen sales pitches.\n\nPeople don't mind being marketed to. They mind being marketed to without getting anything useful in return. Has your opinion of a brand ever changed because of its marketing? What did they do differently?",
+      "id": "t3_1vyrc8k",
+      "title_en": "Competition with real prize",
+      "title_ru": "Конкуренция с реальным призом",
+      "score": 1,
+      "comments_count": 1,
+      "date": "2026-08-26",
+      "content_en": "I just launched a mobile game app, and want to promote it. Then came this idea: What about i create a competition and whoever gets the highest score during a certain amount of time (say, a week) earns a prize. For convenience, it could be a crypto currency, like USDT or Bitcoin. \n\nMy question is: Does it fly, and are there any potential legal complications with this kind of campaign?",
+      "content_ru": "Я только что запустил мобильное игровое приложение и хочу его продвигать. Затем пришла эта идея: Как насчет того, чтобы создать соревнование, и тот, кто получает самый высокий балл в течение определенного периода времени (скажем, недели), зарабатывает приз. Для удобства это может быть криптовалюта, такая как USDT или Bitcoin.\n\nВозникает вопрос: а есть ли какие-то юридические сложности с такой кампанией?",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/AskMarketing/comments/1urfora/the_best_marketing_rarely_feels_like_marketing/",
+      "original_url": "https://www.reddit.com/r/AskMarketing/comments/1vyrc8k/competition_with_real_prize/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Бренды, которые я помню, не обязательно имеют самые большие рекламные бюджеты. Именно они постоянно предоставляют ценность, прежде чем просить что-либо взамен.\n\nПолезная статья, полезный инструмент, честный практический пример или даже продуманный пост в социальной сети могут вызвать больше доверия, чем дюжина рекламных предложений.\n\nЛюди не против того, чтобы их продавали. Они против того, чтобы их продавали, не получая взамен ничего полезного. Менялось ли когда-нибудь ваше мнение о бренде из-за его маркетинга? Что они сделали по-другому?",
-      "title_ru": "Лучший маркетинг редко похож на маркетинг"
+      "ai_summary_ru": "Разработчик мобильной игры планирует привлечь пользователей через конкурс с денежными (криптовалютными) призами за лучшие результаты. Автор интересуется, какие юридические риски и сложности могут возникнуть при проведении такой акции.",
+      "tags": [
+        "AskMarketing"
+      ]
     },
     {
-      "id": "1uw1bdq",
-      "title": "Has AI changed our standards for \"good content\"?",
-      "score": 20,
-      "comments_count": 24,
-      "date": "2026-07-14",
-      "content_en": "AI has made it easy to produce content that's factually correct, well-structured and SEO-friendly. And in many cases, that's enough to perform reasonably well. But I sometimes get the impression that our industry's definition of *quality* has quietly shifted.\n\nContent that I would personally have considered unfinished a few years ago is now often published because it's already good enough for search engines or LLMs.\n\nI'm not talking about factual accuracy. I'm talking about the extra effort that makes content genuinely enjoyable to read: original insights, strong storytelling, memorable examples or a unique voice.\n\n**Do you see the same trend, or is it in my head?** Has AI changed your own expectations of what \"high-quality content\" looks like?",
+      "id": "t3_1vyr755",
+      "title_en": "One URL just doesn't want to get indexed, whatever I do.",
+      "title_ru": "Один URL просто не хочет индексироваться, что бы я ни делал.",
+      "score": 1,
+      "comments_count": 2,
+      "date": "2026-08-26",
+      "content_en": "It does belong to the sitemap and the internal linking is correct.\n\nIt is one of my first articles.\n\nIt is different enough than my other articles.\n\nWhat steps can I take to ensure this url does get indexed?",
+      "content_ru": "Он действительно принадлежит карте сайта, и внутренняя ссылка правильна.\n\nЭто одна из моих первых статей.\n\nОн отличается от других моих статей.\n\nКакие шаги я могу предпринять, чтобы этот URL был проиндексирован?",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/AskMarketing/comments/1uw1bdq/has_ai_changed_our_standards_for_good_content/",
+      "original_url": "https://www.reddit.com/r/AskMarketing/comments/1vyr755/one_url_just_doesnt_want_to_get_indexed_whatever/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "ИИ упростил создание фактического, хорошо структурированного и оптимизированного для SEO контента. И во многих случаях этого достаточно, чтобы работать достаточно хорошо. Но иногда у меня создается впечатление, что определение *качества* в нашей отрасли незаметно изменилось.\n\nКонтент, который я лично посчитал бы незавершенным несколько лет назад, теперь часто публикуется, потому что он уже достаточно хорош для поисковых систем или LLM.\n\nЯ не говорю о фактической точности. Я говорю о дополнительных усилиях, которые делают контент по-настоящему приятным для чтения: оригинальные идеи, яркое повествование, запоминающиеся примеры или уникальный голос.\n\n**Вы замечаете ту же тенденцию или она у меня в голове?** Изменил ли ИИ ваши представления о том, что такое «высококачественный контент»?",
-      "title_ru": "Изменил ли ИИ наши стандарты «хорошего контента»?"
+      "ai_summary_ru": "Автор ищет способы ускорить индексацию своей статьи, несмотря на наличие корректной внутренней ссылки и присутствие в карте сайта.",
+      "tags": [
+        "AskMarketing"
+      ]
     },
     {
-      "id": "1uvdh1n",
-      "title": "Marketers being replaced by AI: true or false?",
-      "score": 20,
-      "comments_count": 32,
-      "date": "2026-07-13",
-      "content_en": "used to be that marketing meant doing everything yourself. write the copy, build the campaign, dig through the data, make the report, repeat. now AI can take a crack ANDD do it much better ANNDDDD do it in way less time at most of that. which sounds scary if you think about it a certain way.\n\n but I actually think the job is shifting into something more interesting. Less 'person who makes all the assets' and more 'person who designs the system, gives it context, reviews what comes out, and makes sure the brand stays human.' strategist. editor. workflow designer. those are the parts AI can't really do on its own.\n\n the competition is moving from 'who has the best tool' to 'who has the best system.' and building good systems is still a very human skill. Who’s to say you can build an excellent system with human intelligence supported by artifical intelligence??\n\n i see it as an upgrade tbh. but curious what others think…. does this feel like more responsibility or less?",
+      "id": "t3_1vyqt1o",
+      "title_en": "Looking for advice on marketing a AI Social Listening & Lead Gen tool",
+      "title_ru": "Поиск советов по маркетингу инструмента AI Social Listening & Lead Gen",
+      "score": 1,
+      "comments_count": 2,
+      "date": "2026-08-26",
+      "content_en": "Hi everyone,\n\nI’ve built a SaaS tool that helps businesses monitor social channels (Reddit, X, FB) to identify potential leads discussing specific pain points using AI.\n\nThe core product is validated with good initial user feedback, but I'm currently struggling to scale user acquisition and build brand awareness.\n\nFor those who have marketed B2B lead generation or social listening tools before:\n\n* Which channels (cold outreach, content marketing, SEO, paid ads) gave you the best ROI early on?\n* Where do potential buyers for this type of software usually look for solutions?\n\nWould love to hear your insights or experience!",
+      "content_ru": "Привет всем,\n\nЯ создал инструмент SaaS, который помогает компаниям отслеживать социальные каналы (Reddit, X, FB) для выявления потенциальных потенциальных клиентов, обсуждающих конкретные болевые точки с помощью ИИ.\n\nОсновной продукт подтвержден хорошей первоначальной обратной связью с пользователем, но в настоящее время я изо всех сил пытаюсь масштабировать приобретение пользователей и повысить узнаваемость бренда.\n\nДля тех, кто ранее продавал B2B-инструменты для прослушивания:\n\n* Какие каналы (холодная реклама, контент-маркетинг, SEO, платная реклама) дали вам лучший ROI на ранней стадии?\nГде потенциальные покупатели этого типа программного обеспечения обычно ищут решения?\n\nХотелось бы услышать ваши идеи или опыт!",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/AskMarketing/comments/1uvdh1n/marketers_being_replaced_by_ai_true_or_false/",
+      "original_url": "https://www.reddit.com/r/AskMarketing/comments/1vyqt1o/looking_for_advice_on_marketing_a_ai_social/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Раньше считалось, что маркетинг означает делать все самому. напишите текст, создайте кампанию, покопайтесь в данных, сделайте отчет, повторите. теперь ИИ может сделать это ИD сделать это намного лучше ANNDDDD сделать это в большинстве случаев за гораздо меньше времени. что звучит пугающе, если подумать об этом определенным образом.\n\n но на самом деле я думаю, что работа превращается во что-то более интересное. Меньше «человека, который создает все активы», и больше «человека, который проектирует систему, придает ей контекст, анализирует то, что получается, и следит за тем, чтобы бренд оставался человечным». стратег. редактор. дизайнер рабочего процесса. это те части, которые ИИ не может сделать самостоятельно.\n\n конкуренция переходит от «у кого лучший инструмент» к «у кого лучшая система». а создание хороших систем по-прежнему остается очень человеческим навыком. Кто сказал, что можно построить превосходную систему с человеческим интеллектом, поддерживаемым искусственным интеллектом??\n\n я рассматриваю это как обновление, если честно. но интересно, что думают другие.... это похоже на большую ответственность или на меньшую?",
-      "title_ru": "Маркетологов заменяет ИИ: правда или ложь?"
+      "ai_summary_ru": "Разработчик SaaS-инструмента для лидогенерации через ИИ-мониторинг соцсетей ищет советы по масштабированию продаж. Автор просит поделиться опытом эффективных каналов привлечения B2B-клиентов на ранних стадиях проекта.",
+      "tags": [
+        "AskMarketing"
+      ]
+    },
+    {
+      "id": "t3_1ve49bh",
+      "title_en": "If you had to restart your digital marketing career in 2026, what would you focus on first?",
+      "title_ru": "Если бы вам пришлось перезапустить карьеру цифрового маркетинга в 2026 году, на чем бы вы сосредоточились в первую очередь?",
+      "score": 72,
+      "comments_count": 106,
+      "date": "2026-08-03",
+      "content_en": "I'm curious to hear from experienced marketers. If you had to start over in 2026 with no clients or network, what would you focus on first? What skills, platforms, or strategies would give the best long-term results? I'm still learning and would appreciate any advice.",
+      "content_ru": "Мне интересно услышать от опытных маркетологов. Если бы вам пришлось начать все заново в 2026 году без клиентов или сети, на чем бы вы сосредоточились в первую очередь? Какие навыки, платформы или стратегии дадут наилучшие долгосрочные результаты? Я все еще учусь и буду признателен за любой совет.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/AskMarketing/comments/1ve49bh/if_you_had_to_restart_your_digital_marketing/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор поста просит опытных маркетологов дать советы по стратегии развития с нуля в 2026 году. В центре внимания — поиск наиболее эффективных навыков и инструментов для долгосрочного успеха.",
+      "tags": [
+        "AskMarketing"
+      ]
+    },
+    {
+      "id": "t3_1vnz90g",
+      "title_en": "What's a red flag in a job interview that tells you the marketing team is a mess?",
+      "title_ru": "Что за красный флаг на собеседовании, который говорит вам, что маркетинговая команда - это беспорядок?",
+      "score": 64,
+      "comments_count": 68,
+      "date": "2026-08-14",
+      "content_en": "For me one clear sign is when nobody can tell me what happened to the person who had the role before. If the answer is vague, or they seem uncomfortable, it usually means there was high turnover or a bad situation they would rather not discuss.\n\nWhat do you notice in an interview that tells you the marketing team is disorganized or heading for trouble?",
+      "content_ru": "Для меня одним из явных признаков является то, что никто не может сказать мне, что случилось с человеком, который играл эту роль раньше. Если ответ расплывчатый, или они кажутся неудобными, это обычно означает, что была высокая текучесть кадров или плохая ситуация, которую они предпочитают не обсуждать.\n\nЧто вы замечаете в интервью, которое говорит вам, что маркетинговая команда дезорганизована или движется к неприятностям?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/AskMarketing/comments/1vnz90g/whats_a_red_flag_in_a_job_interview_that_tells/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор отмечает, что уклонение интервьюеров от ответа о судьбе предшественника — верный признак проблем или высокой текучести кадров в маркетинговой команде. А какие еще «красные флаги» на собеседовании указывают на дезорганизацию в отделе?",
+      "tags": [
+        "AskMarketing"
+      ]
     }
   ]
 }
