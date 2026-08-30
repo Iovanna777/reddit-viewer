@@ -2,68 +2,94 @@
   "title": "SaaS",
   "posts": [
     {
-      "id": "1urv4mu",
-      "title": "Keep going. No matter what.",
-      "score": 1824,
-      "comments_count": 229,
-      "date": "2026-07-09",
-      "content_en": "Coding on the train, judged by strangers, locked tf in. Nothing else like the feeling of public productivity.\n\nSometimes you just have to open your laptop anywhere and get things done. P.S Ignore the .env file on my screen this is for people that want to win.\n\nAnd what am I working on? ha💸ha💸ha💸. you already saw me post here before- you know what I built alr",
-      "comments_en": [
-        {
-          "comment_id": "owisn6b",
-          "full_comment_id": "t1_owisn6b",
-          "post_full_id": "t3_1urv4mu",
-          "post_id": "1urv4mu",
-          "post_title": "Keep going. No matter what.",
-          "author": "peterchester_",
-          "text": "Let's hope it's just bait 🥲",
-          "created_at": "2026-07-09T16:36:13Z",
-          "scraped_at": "2026-07-15T09:51:24.437163Z",
-          "depth": 0,
-          "score": 354,
-          "permalink": "/r/SaaS/comments/1urv4mu/keep_going_no_matter_what/owisn6b/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Будем надеяться, что это просто приманка 🥲"
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/SaaS/comments/1urv4mu/keep_going_no_matter_what/",
+      "id": "t3_1w2b86a",
+      "title_en": "How people globalize their app in AI era?",
+      "title_ru": "Как люди глобализируют свое приложение в эпоху ИИ?",
+      "score": 1,
+      "comments_count": 2,
+      "date": "2026-08-30",
+      "content_en": "hi how do you guys globalize your app using AI? I checked there are solutions like lingo.dev and tolgee but also heard they have a complicated setup and problems of its own. Is there any good tools to automatically create the keys with better UI context?",
+      "content_ru": "как вы глобализируете свое приложение с помощью ИИ? Я проверил, есть ли такие решения, как линго. Разработчики и тольге, но также слышали, что у них сложная установка и собственные проблемы. Есть ли хорошие инструменты для автоматического создания ключей с лучшим пользовательским интерфейсом?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SaaS/comments/1w2b86a/how_people_globalize_their_app_in_ai_era/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Программирование в поезде, по мнению незнакомцев, заперто. Ничто не сравнится с ощущением общественной продуктивности.\n\nИногда вам просто нужно где угодно открыть ноутбук и заняться делами. P.S. Не обращайте внимания на файл .env на моем экране, это для людей, которые хотят победить.\n\nИ над чем я работаю? ха💸ха💸ха💸. вы уже видели, как я писал здесь раньше — вы знаете, что я построил",
-      "title_ru": "Продолжать идти. Несмотря ни на что."
+      "ai_summary_ru": "Автор ищет удобные инструменты на базе ИИ для автоматизации локализации приложений, чтобы избежать сложностей, возникающих при работе с популярными сервисами вроде Lingo или Tolgee.",
+      "tags": [
+        "SaaS"
+      ]
     },
     {
-      "id": "1usjvot",
-      "title": "First time getting a dispute, how do I handle it?",
-      "score": 457,
-      "comments_count": 148,
-      "date": "2026-07-10",
-      "content_en": "First time getting a dispute for my SaaS.\n\nI have evidence that they have used the product, they are disputing the second payment from the recurring subscription. Should I dispute or just accept or refund?\n\nAny experience helps.\n\nEDIT: Okay to give some more information, I don't care about the 8 bucks, and I'd have refunded if they ever reached out. But now there is also a 20 euros dispute fee if I accept it. And the user used the product, and then likely forgot to cancel the subscription and went this route instead.\n\nEDIT2: Just accepted the dispute and refunded their money. I figure the $20 fee for the dispute is gone no matter what, and you can only dispute to get back the $7.99 user has chargebacked(?). And to do that you need to pay another $20 fee which you do not get back if you lose the dispute, which is very possible.  \nAnyways, with disputes this small, seems best is to just accept and move on.  \nTo be fair, I've turned on the automatic invoice deliveries so it might help.\n\nAlso received a couple dms asking what the product is. It's called PodTyper, users paste a podcast url like from Spotify and get a full transcript and summaries. It's mostly for professionals like researchers, investors etc that needs to get information fast. That's why this is surprising because although it's a B2C app the audience is using it for professionals reasons. (At least seems to be the case)",
-      "comments_en": [
-        {
-          "comment_id": "owo7f7b",
-          "full_comment_id": "t1_owo7f7b",
-          "post_full_id": "t3_1usjvot",
-          "post_id": "1usjvot",
-          "post_title": "First time getting a dispute, how do I handle it?",
-          "author": "TenPinPro",
-          "text": "Just refund and block their account. It's $7.99, not worth a bad review.\n\nThey may have used it but have been unhappy with the quality or it didn't meet their expectations, etc. This happens.\n\nDo reach out and ask for feedback, though.",
-          "created_at": "2026-07-10T10:37:16Z",
-          "scraped_at": "2026-07-15T09:51:26.389965Z",
-          "depth": 0,
-          "score": 406,
-          "permalink": "/r/SaaS/comments/1usjvot/first_time_getting_a_dispute_how_do_i_handle_it/owo7f7b/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Просто верните деньги и заблокируйте их аккаунт. Это 7,99 долларов, не стоит плохого отзыва.\n\nВозможно, они воспользовались им, но остались недовольны качеством или оно не оправдало их ожиданий и т. д. Такое случается.\n\nТем не менее, обратитесь и попросите обратную связь."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/SaaS/comments/1usjvot/first_time_getting_a_dispute_how_do_i_handle_it/",
+      "id": "t3_1w2avp8",
+      "title_en": "How does Stripe prorate the first invoice when billing is anchored to the 1st?",
+      "title_ru": "Как Stripe выставляет первый счет, когда выставление счетов привязано к 1-му?",
+      "score": 1,
+      "comments_count": 0,
+      "date": "2026-08-30",
+      "content_en": "I was looking at the tradeoff between giving every customer the same billing date and letting each subscription follow its own cycle.\n\nWith Stripe, setting `billing_cycle_anchor` to a fixed future date can create a prorated period between the end of a trial and that anchor. The first invoice may therefore cover only that partial period before the regular billing cycle begins.\n\nWe decided not to set an explicit `billing_cycle_anchor`. The cycle now starts at `trial_end`, so the first post-trial invoice covers a full billing period and renewals follow that date.\n\nIf you bill every customer on a fixed day of the month, has the simpler reconciliation been worth handling the prorated period?",
+      "content_ru": "Я рассматривал компромисс между предоставлением каждому клиенту одной и той же даты выставления счетов и разрешением каждой подписке следовать своему собственному циклу.\n\nС Stripe установка «billing cycle anchor» на фиксированную будущую дату может создать пропорциональный период между окончанием испытания и этим якорем. Таким образом, первый счет-фактура может охватывать только тот частичный период до начала регулярного цикла выставления счетов.\n\nМы решили не устанавливать явную \"billing cycle anchor\". Цикл начинается с «trial end», поэтому первый послесудебный счет-фактура охватывает полный расчетный период, и продление следует за этой датой.\n\nЕсли вы выставляете счет каждому клиенту в определенный день месяца, стоит ли проводить более простую выверку?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SaaS/comments/1w2avp8/how_does_stripe_prorate_the_first_invoice_when/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Впервые получаю спор по моему SaaS.\n\nУ меня есть доказательства того, что они использовали продукт, они оспаривают второй платеж из рекуррентной подписки. Стоит ли оспаривать или просто принять или вернуть деньги?\n\nЛюбой опыт помогает.\n\nРЕДАКТИРОВАТЬ: Хорошо, чтобы дать дополнительную информацию, меня не волнуют 8 долларов, и я бы вернул деньги, если бы они когда-нибудь обратились к нам. Но теперь, если я приму это, взимается плата за спор в размере 20 евро. А пользователь воспользовался продуктом, а затем, вероятно, забыл отменить подписку и вместо этого пошел по этому пути.\n\nEDIT2: Только что принял спор и вернул деньги. Я полагаю, что комиссия в размере 20 долларов США за спор исчезла, несмотря ни на что, и вы можете оспорить только то, чтобы вернуть пользователю возвратный платеж в размере 7,99 долларов США (?). И для этого вам нужно заплатить еще 20 долларов США, которые вы не вернете, если проиграете спор, что вполне возможно.  \nВ любом случае, с такими небольшими спорами, кажется, лучше всего просто принять и двигаться дальше.  \nЧестно говоря, я включил автоматическую доставку счетов, так что это может помочь.\n\nТакже получил пару сообщений с вопросом, что это за продукт. Он называется PodTyper, пользователи вставляют URL-адрес подкаста, как из Spotify, и получают полную расшифровку и резюме. В основном это касается профессионалов, таких как исследователи, инвесторы и т. д., которым необходимо быстро получать информацию. Вот почему это удивительно, потому что, хотя это приложение B2C, аудитория использует его в профессиональных целях. (По крайней мере, так кажется)",
-      "title_ru": "Впервые возник спор, как мне с ним справиться?"
+      "ai_summary_ru": "Вместо привязки всех счетов к единой дате, компания решила начинать цикл оплаты сразу после окончания пробного периода. Это упрощает выставление первого полноценного счета, хотя и ставит вопрос об удобстве сверки при отсутствии фиксированной даты платежа для всех клиентов.",
+      "tags": [
+        "SaaS"
+      ]
+    },
+    {
+      "id": "t3_1w2bg61",
+      "title_en": "What if we stopped validating SaaS with waitlists and asked customers to actually commit?",
+      "title_ru": "Что, если мы прекратим проверять SaaS с помощью списков ожидания и попросим клиентов выполнить обязательства?",
+      "score": 2,
+      "comments_count": 0,
+      "date": "2026-08-30",
+      "content_en": "I've been thinking about the amount of software that gets built, launched and then quietly abandoned.\n\nOne thing bothers me about the usual validation process.\n\nWe ask people:\n\n\"Would you use this?\"\n\nWe collect emails.\n\nWe build a waitlist.\n\nWe interview potential users.\n\nMaybe 100 people tell us the idea sounds great.\n\nThen the product launches and suddenly those 100 interested people become 3 paying customers.\n\nSo I'm wondering whether the validation itself needs to change.\n\nWhat if, instead of building first, you found 5–10 businesses experiencing the same operational problem and defined the common workflow with them?\n\nYou show them exactly what you intend to build and what the eventual monthly subscription will cost.\n\nBut instead of asking:\n\n\"Would you buy this?\"\n\nyou ask for an actual commitment.\n\nSomething like:\n\n\\- They agree to a 12-month subscription if the agreed product is successfully delivered.  \n\\- They put down a small refundable commitment deposit.  \n\\- Development only starts if a minimum number of businesses commit.  \n\\- If the threshold isn't reached, everyone gets their deposit back and the product doesn't get built.  \n\\- The businesses don't fund development.  \n\\- During development, they get staging access, demos and regular feedback loops so the product can be corrected while it's being built rather than after launch.  \n\\- Once the agreed product is delivered, their deposit is credited toward the subscription and the one-year agreement begins.\n\nThe developer takes the financial risk of actually building it.\n\nThe customers take a small commitment risk to demonstrate that their interest is real.\n\nAnd if you can't convince even 5–10 people experiencing the problem to commit a small amount before development, perhaps that's exactly the signal you needed not to spend six months building it.\n\nI'm interested in attacking the idea rather than promoting anything.\n\nAs a business owner, would you participate if you had staging access throughout developme",
+      "content_ru": "Я думал о количестве программного обеспечения, которое будет построено, запущено, а затем тихо заброшено.\n\nОдна вещь беспокоит меня в обычном процессе проверки.\n\nМы просим людей:\n\n«Вы бы использовали это?»\n\nМы собираем электронные письма.\n\nМы создаем лист ожидания.\n\nМы берем интервью у потенциальных пользователей.\n\nМожет быть, 100 человек говорят нам, что идея звучит здорово.\n\nЗатем продукт запускается, и эти 100 заинтересованных людей становятся 3 платными клиентами.\n\nПоэтому я задаюсь вопросом, должна ли сама проверка меняться.\n\nЧто, если бы вместо того, чтобы строить сначала, вы нашли 5-10 предприятий, испытывающих ту же операционную проблему, и определили общий рабочий процесс с ними?\n\nВы показываете им, что именно вы собираетесь построить и сколько будет стоить ежемесячная подписка.\n\nВместо того чтобы спрашивать:\n\n«Вы бы купили это?»\n\nВы требуете реального обязательства.\n\nЧто-то вроде:\n\nОни соглашаются на 12-месячную подписку, если согласованный продукт успешно доставлен.\nОни внесли небольшой возвратный депозит обязательств.\nРазвитие начинается только тогда, когда совершается минимальное количество предприятий.\nЕсли порог не достигнут, каждый получает свой депозит обратно, и продукт не создается.\nБизнес не финансирует развитие.\nВо время разработки они получают доступ к постановке, демо-версии и регулярные циклы обратной связи, чтобы продукт мог быть исправлен во время его создания, а не после запуска.\nПосле того, как согласованный продукт доставлен, их депозит зачисляется на подписку и начинается годовое соглашение.\n\nРазработчик берет на себя финансовый риск его фактического создания.\n\nКлиенты берут на себя небольшой риск, чтобы продемонстрировать, что их интересы реальны.\n\nИ если вы не можете убедить даже 5-10 человек, испытывающих проблему, совершить небольшую сумму до разработки, возможно, это именно тот сигнал, который вам нужен, чтобы не тратить шесть месяцев на его создание.\n\nЯ заинтересован в том, чтобы атаковать идею, а не продвигать что-либо.\n\nКак владелец бизнеса, вы бы участвовали, если бы у вас был доступ на протяжении всего процесса разработки?\n\nДостаточно ли значим возвратный депозит, чтобы отделить реальных покупателей от «интересных звуков»?\n\nКак основатель SaaS, как вы думаете, что может нарушить эту модель?\nБудет ли это слишком трудно получить до того, как появится рабочий продукт?\n\nИ самое главное: даст ли это вам более убедительные доказательства, чем список ожидания, интервью или запуск MVP?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SaaS/comments/1w2bg61/what_if_we_stopped_validating_saas_with_waitlists/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Традиционная проверка идей через опросы и листы ожидания часто дает ложные результаты. Автор предлагает заменить их моделью предзаказа с депозитными обязательствами: разработка продукта начинается только после того, как 5–10 компаний подтвердят готовность купить его деньгами.",
+      "tags": [
+        "SaaS"
+      ]
+    },
+    {
+      "id": "t3_1w2caxk",
+      "title_en": "Any ideas on how to get people to get people on an app? open to any idea",
+      "title_ru": "Есть идеи о том, как заставить людей заводить людей в приложение? Открыт для любой идеи",
+      "score": 1,
+      "comments_count": 0,
+      "date": "2026-08-30",
+      "content_en": "Ive recently launched a construction based application in australia,  \nIt relies on small buisness's and sole operators creating free accounts then coontracting them or their workers to other companies that need workers on a short notice basis.\n\nProblem is, the marketing team i have are only interested in META content and think it is supiror to all other kinds of outreach, \n\nIm not looking for an answer im just seeking advice or ideas of what other people have done to get some users on their software early stages?",
+      "content_ru": "Недавно компания Ive запустила строительное приложение в Австралии.\nОн опирается на мелких и индивидуальных операторов, создающих бесплатные счета, а затем привлекающих их или их работников в другие компании, которые нуждаются в работниках в короткие сроки.\n\nПроблема в том, что маркетинговая команда, которая у меня есть, интересуется только контентом META и считает, что он выше всех других видов охвата.\n\nЯ не ищу ответ, я просто ищу советы или идеи о том, что другие люди сделали, чтобы привлечь некоторых пользователей на ранних стадиях их программного обеспечения?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SaaS/comments/1w2caxk/any_ideas_on_how_to_get_people_to_get_people_on/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Вот краткое содержание вашего поста:\n\nКомпания Ive запустила в Австралии платформу для поиска временного персонала в строительстве, но столкнулась с зависимостью маркетинга от контента в Meta. Автор ищет альтернативные стратегии и каналы для привлечения первых пользователей в B2B-сервис.",
+      "tags": [
+        "SaaS"
+      ]
+    },
+    {
+      "id": "t3_1w2c9au",
+      "title_en": "I have got founders using my product for investor meetings, client calls and product demo but getting feedback is surprisingly hard",
+      "title_ru": "У меня есть основатели, использующие мой продукт для встреч с инвесторами, звонков клиентов и демонстрации продукта, но получить обратную связь на удивление трудно",
+      "score": 1,
+      "comments_count": 1,
+      "date": "2026-08-30",
+      "content_en": "I have been building Warmcal for 2 years now. \n\nRecently I started seeing more founders sign up and actually use it for things like:\n\n• Investor meetings  \n• Client meetings  \n• Product demos  \n• Sales calls  \n• General networking\n\nWhich is honestly pretty exciting.\n\nBut I have run into a weird problem.\n\nPeople will sign up, use it but cannot be reached.\n\nI have tried asking for feedback because I genuinely want to make the product better and see where they are getting most value but getting someone to reply to a feedback email seems to be much harder than getting them to sign up in the first place.\n\nSo I am curious:\n\nIf you use a warmcal as a founder, what is one thing you wish it did better?\n\nCould be something small. Something annoying. Something you currently do manually. Or something you wish existed.\n\nI would love some brutally honest feedback. ",
+      "content_ru": "Я строю Warmcal уже 2 года.\n\nНедавно я начал видеть, как все больше учредителей регистрируются и фактически используют его для таких вещей, как:\n\n• Встречи инвесторов\n• Клиентские встречи\n• Демо-версия продукта\n• Продажа звонков\n• Общая сеть\n\nЧто, честно говоря, довольно захватывающе.\n\nНо я столкнулся со странной проблемой.\n\nЛюди зарегистрируются, используют его, но не могут быть достигнуты.\n\nЯ пытался попросить обратную связь, потому что я действительно хочу сделать продукт лучше и увидеть, где они получают наибольшую ценность, но заставить кого-то ответить на электронное письмо с обратной связью, кажется, намного сложнее, чем заставить их зарегистрироваться.\n\nТак что мне любопытно:\n\nЕсли вы используете теплицаль в качестве основателя, что вы хотите, чтобы он сделал лучше?\n\nМожет быть что-то маленькое. Что-то раздражает. То, что вы сейчас делаете вручную. Или что-то, чего вы хотите, существует.\n\nЯ хотел бы получить очень честный отзыв.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/SaaS/comments/1w2c9au/i_have_got_founders_using_my_product_for_investor/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Основатель Warmcal собирает отзывы пользователей, чтобы улучшить продукт. Если вы используете сервис, напишите в комментариях, какие функции стоит добавить или исправить.",
+      "tags": [
+        "SaaS"
+      ]
     }
   ]
 }
