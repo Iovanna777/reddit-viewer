@@ -2,82 +2,94 @@
   "title": "microsaas",
   "posts": [
     {
-      "id": "1uw0ewp",
-      "title": "Drop your SaaS I'll be your first user",
-      "score": 38,
-      "comments_count": 220,
-      "date": "2026-07-14",
-      "content_en": "I Will test your SaaS end to end, I will identify what makes the SaaS good or what breaks user flow even an AI couldn't identify.\n\nI will be your first paid customer to test your entire paid plans. \n\nI will be your first feedback provider.\n\nLet's go...",
-      "comments_en": [
-        {
-          "comment_id": "oxg5frw",
-          "full_comment_id": "t1_oxg5frw",
-          "post_full_id": "t3_1uw0ewp",
-          "post_id": "1uw0ewp",
-          "post_title": "Drop your SaaS I'll be your first user",
-          "author": "Hollow-Harbor-8260",
-          "text": "It is deeply kind of you to offer this because watching those first few users struggle through a broken payment flow is usually when we feel the most vulnerable.",
-          "created_at": "2026-07-14T10:29:43Z",
-          "scraped_at": "2026-07-15T09:55:41.248102Z",
-          "depth": 0,
-          "score": 3,
-          "permalink": "/r/microsaas/comments/1uw0ewp/drop_your_saas_ill_be_your_first_user/oxg5frw/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Очень любезно с вашей стороны предложить это, потому что, наблюдая за тем, как первые несколько пользователей борются с нарушенным потоком платежей, мы обычно чувствуем себя наиболее уязвимыми."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/microsaas/comments/1uw0ewp/drop_your_saas_ill_be_your_first_user/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Я протестирую ваш SaaS от начала до конца, я определю, что делает SaaS хорошим, а что нарушает поток пользователей, что даже ИИ не сможет определить.\n\nЯ буду вашим первым платным клиентом, который протестирует все ваши платные планы. \n\nЯ буду вашим первым поставщиком обратной связи.\n\nПойдем...",
-      "title_ru": "Откажитесь от SaaS, я буду вашим первым пользователем"
-    },
-    {
-      "id": "1uw91cs",
-      "title": "How I made $0 in one month with $0 ads",
-      "score": 30,
-      "comments_count": 12,
-      "date": "2026-07-14",
-      "content_en": "Step 1: Did nothing.\n\n\n\nStep 2: Scrolled on Tiktok\n\n\n\nStep 3: Checked my bank account. Still $0.\n\n\n\nStep 4: Did nothing again.\n\n\n\nBut here’s the thing: I didn’t quit. I kept doing nothing every day.\n\n\n\nMy advice to you? Stick with it. Trust in doing nothing. One day, your $0 might turn into... maybe $1. Dream big, keep going, and remember: success is just failing over and over until something works.",
-      "comments_en": [
-        {
-          "comment_id": "oxh3ehr",
-          "full_comment_id": "t1_oxh3ehr",
-          "post_full_id": "t3_1uw91cs",
-          "post_id": "1uw91cs",
-          "post_title": "How I made $0 in one month with $0 ads",
-          "author": "JouniFlemming",
-          "text": "Finally some honest advice that is not AI generated or end up with a pitch to buy something. Have my upvote.",
-          "created_at": "2026-07-14T13:44:55Z",
-          "scraped_at": "2026-07-15T09:55:42.835165Z",
-          "depth": 0,
-          "score": 3,
-          "permalink": "/r/microsaas/comments/1uw91cs/how_i_made_0_in_one_month_with_0_ads/oxh3ehr/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Наконец, несколько честных советов, которые не были созданы ИИ и не заканчиваются предложением что-то купить. Примите мой голос."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/microsaas/comments/1uw91cs/how_i_made_0_in_one_month_with_0_ads/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Шаг 1: Ничего не делал.\n\n\n\nШаг 2. Прокрутка в Tiktok\n\n\n\nШаг 3. Проверил свой банковский счет. Все еще 0 долларов.\n\n\n\nШаг 4: Опять ничего не делал.\n\n\n\nНо вот в чем дело: я не ушел. Я продолжал ничего не делать каждый день.\n\n\n\nМой вам совет? Придерживайтесь этого. Доверьтесь ничегонеделанию. Однажды ваш 0 долларов может превратиться в… возможно, 1 доллар. Мечтайте по-крупному, продолжайте идти и помните: успех – это просто неудача снова и снова, пока что-то не сработает.",
-      "title_ru": "Как я заработал 0 долларов за месяц на рекламе за 0 долларов"
-    },
-    {
-      "id": "1utj4wv",
-      "title": "Just hit $3,300/month and 18,500+ users with my social media scraping API 🎉",
-      "score": 30,
-      "comments_count": 50,
-      "date": "2026-07-11",
-      "content_en": "(Yep, $3,300 a month, not $3,300K 😅)\n\nSocialKit is coming up on a year since launch. The curve was slow and honestly that's the point:\n\n- Month 1: $13 MRR\n- Month 3: $118 MRR\n- Month 5: $370 MRR\n- Now: $2,500 MRR, plus one-time purchases that add a pretty consistent $700-1,000 every month, so ~$3,300/month total\n\n(https://trustmrr.com/startup/socialkit)\n\nSome more numbers:\n\n- 18,500+ users\n- 140+ active paying customers\n\nWhat's been working:\n\n- SEO from day 0 (blogs, free tools, competitor pages, youtube). It compounds. Most customers still come from organic\n- Talking to users directly, even on WhatsApp\n- being consistent\n\nWhat I'm betting on now: AI agents. MCP + agent skills so agents can pull transcripts, comments, and stats from any social video directly. New APIs coming for that use case.\n\nHere's the product if you want to check it out: SocialKit .dev\n\nLet me know if you're growing your stuff too, if you have any feedback I'd be happy to hear it :)",
+      "id": "t3_1w37dc6",
+      "title_en": "A tool that writes your freelance proposals for you  explaining what it is and looking for early feedback",
+      "title_ru": "Инструмент, который пишет ваши внештатные предложения для вас, объясняя, что это такое, и ищет ранние отзывы",
+      "score": 1,
+      "comments_count": 0,
+      "date": "2026-08-31",
+      "content_en": "Wanted to lay this out clearly since a few people here asked what I'm actually building.\n\n\n\nProposalize takes a handful of details  service type, client, budget, scope  and generates a complete, ready-to-send proposal in under a minute, instead of the usual 1-2 hours of writing and formatting by hand.\n\n\n\nWhat makes it different from just \"AI writes a document\":\n\n\n\n\\- Every proposal has separate, clear sections for Scope, Assumptions, and Exclusions, so there's a lot less room for \"I thought that was included\" disputes later.\n\n\\- If the scope you give it is too vague, it flags that and tells you exactly what to clarify with the client first, instead of generating something that looks polished but is built on shaky ground.\n\n\\- It's built for solo freelancers and small teams specifically  not another CRM/sales suite with a proposal feature bolted on.\n\n\n\nThis isn't built and launched yet  I'm still gathering validation before committing to build it out fully. If this sounds like something that would genuinely help your workflow, we'd really appreciate you joining the waitlist: [https://forms.gle/Fn945G9AR13YMKeA6](https://forms.gle/Fn945G9AR13YMKeA6)",
+      "content_ru": "Я хотел прояснить это, так как несколько человек спросили, что я на самом деле строю.\n\n\n\nProposalize берет несколько деталей типа обслуживания, клиента, бюджета, объема и генерирует полное, готовое к отправке предложение менее чем за минуту, вместо обычных 1-2 часов написания и форматирования вручную.\n\n\n\nЧто отличает его от простого «ИИ пишет документ»:\n\n\n\nКаждое предложение имеет отдельные, четкие разделы для Сферы, Предположений и Исключений, поэтому гораздо меньше места для споров «Я думал, что это было включено» позже.\n\nЕсли область, которую вы даете, слишком расплывчата, она показывает это и говорит вам, что нужно уточнить с клиентом, вместо того, чтобы создавать что-то, что выглядит отполированным, но построено на шаткой земле.\n\nОн создан для индивидуальных фрилансеров и небольших команд, а не для другого пакета CRM / продаж с включенной функцией предложения.\n\n\n\nЭто не построено и не запущено, но я все еще собираю подтверждение, прежде чем взять на себя обязательство построить его полностью. Если это звучит как что-то, что действительно поможет вашему рабочему процессу, мы будем очень признательны, если вы присоединитесь к списку ожидания: [https://forms.gle/Fn945G9AR13YMKeA6] (https://forms.gle/Fn945G9AR13YMKeA6)",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/microsaas/comments/1utj4wv/just_hit_3300month_and_18500_users_with_my_social/",
+      "original_url": "https://www.reddit.com/r/microsaas/comments/1w37dc6/a_tool_that_writes_your_freelance_proposals_for/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "(Да, 3300 долларов в месяц, а не 3300 тысяч 😅)\n\nSocialKit появится через год с момента запуска. Кривая была медленной, и, честно говоря, в этом вся суть:\n\n- Месяц 1: минимальная нормальная цена 13 долларов США.\n- Месяц 3: МРР 118 долларов США.\n- Месяц 5: минимальная нормальная цена 370 долларов США.\n- Сейчас: 2500 долларов США MRR плюс разовые покупки, которые добавляют довольно стабильно 700–1000 долларов США каждый месяц, итого ~ 3300 долларов США в месяц.\n\n(https://trustmrr.com/startup/socialkit)\n\nЕще немного цифр:\n\n- 18 500+ пользователей\n- 140+ активных платежеспособных клиентов\n\nЧто работает:\n\n- SEO с 0 дня (блоги, бесплатные инструменты, страницы конкурентов, YouTube). Это усугубляет. Большинство клиентов по-прежнему приходят из органических\n- Общение с пользователями напрямую, даже в WhatsApp\n- быть последовательным\n\nНа что я сейчас делаю ставку: на агентов ИИ. MCP + навыки агентов, позволяющие агентам напрямую извлекать расшифровки, комментарии и статистику из любого социального видео. Для этого варианта использования появятся новые API.\n\nВот продукт, если вы хотите его попробовать: SocialKit .dev.\n\nДайте мне знать, если вы тоже выращиваете свои растения, если у вас есть какие-либо отзывы, я буду рад их услышать :)",
-      "title_ru": "Просто заработайте 3300 долларов в месяц и наберите более 18 500 пользователей с помощью моего API для парсинга в социальных сетях 🎉"
+      "ai_summary_ru": "Proposalize — это ИИ-инструмент для фрилансеров, который создает точные и структурированные коммерческие предложения за минуту вместо часов ручной работы. Автор собирает базу заинтересованных пользователей для запуска проекта; записаться можно по ссылке: https://forms.gle/Fn945G9AR13YMKeA6.",
+      "tags": [
+        "microsaas"
+      ]
+    },
+    {
+      "id": "t3_1vqbjq6",
+      "title_en": "I have a SaaS idea I haven't seen anyone doing. If it works, it'll probably get copied within 3 months.",
+      "title_ru": "У меня есть идея SaaS, которую я не видел. Если это сработает, он, вероятно, будет скопирован в течение 3 месяцев.",
+      "score": 0,
+      "comments_count": 27,
+      "date": "2026-08-16",
+      "content_en": "I've been working on a SaaS idea for a while and I'm in kind of a weird spot.\n\nI know saying \"there's nothing else like this\" on the internet is basically asking for someone to show up in the comments with 7 links proving you wrong lol. But I've done a lot of digging and, at least so far, I haven't found anyone doing exactly this.\n\nAnd it's not some crazy groundbreaking idea.\n\nThe problem already exists, a lot of people deal with it, and the solutions they're using right now are pretty bad. So from what I've been able to validate so far, the demand seems to be there.\n\nI'm obviously not going to explain what it is here. That's not really the point of the post.\n\nWhat keeps bothering me is that the idea isn't that hard to understand once you see it working.\n\nRight now, it's not obvious. But if I launch it and it starts making money, I think it becomes obvious pretty quickly.\n\nAnd there's no insane proprietary tech behind it that would stop someone else from building something similar. If it works, I honestly think clones start showing up within 3 months or so.\n\nI know the standard answer is \"ideas are worthless, execution is everything.\" And I agree. I'm not trying to somehow protect the idea forever because obviously that's not realistic.\n\nMy question is more practical:\n\nIf you knew before launching that you probably only had a few months of a head start, what would you do differently?\n\nWould you try to grow as fast as possible? Avoid building in public? Focus way more on distribution than product? Try to build something around the SaaS that's harder to copy?\n\nI'd especially like to hear from people who've actually been through this.\n\nIf you launched something relatively new, started getting traction, and then competitors started copying you: did it actually hurt the business, or did you eventually realize you were worrying way too much about clones?\n\n",
+      "content_ru": "Я работаю над идеей SaaS некоторое время, и я в каком-то странном месте.\n\nЯ знаю, что сказать «нет ничего подобного» в Интернете — это просто попросить кого-то появиться в комментариях с 7 ссылками, доказывающими, что вы ошибаетесь. Но я много копал и, по крайней мере, до сих пор, я не нашел никого, кто бы делал именно это.\n\nИ это не какая-то безумная новаторская идея.\n\nПроблема уже существует, многие люди с ней сталкиваются, и решения, которые они используют сейчас, довольно плохие. Исходя из того, что я смог подтвердить до сих пор, спрос, похоже, есть.\n\nЯ, очевидно, не собираюсь объяснять, что это здесь. На самом деле, это не суть поста.\n\nЧто меня беспокоит, так это то, что эту идею не так трудно понять, когда вы видите, что она работает.\n\nПрямо сейчас это не очевидно. Но если я запущу его и он начнет зарабатывать деньги, я думаю, что это станет очевидным довольно быстро.\n\nИ за этим не стоит безумная запатентованная технология, которая помешала бы кому-то другому создать что-то подобное. Если это сработает, я думаю, что клоны начнут появляться в течение 3 месяцев или около того.\n\nЯ знаю стандартный ответ: «Идеи бесполезны, исполнение — это все». И я согласен. Я не пытаюсь как-то защитить идею навсегда, потому что, очевидно, это нереально.\n\nМой вопрос более практичен:\n\nЕсли бы вы знали перед запуском, что у вас, вероятно, было всего несколько месяцев, что бы вы сделали по-другому?\n\nХотите расти как можно быстрее? Избегайте строительства в общественных местах? Сосредоточьтесь больше на дистрибуции, чем на продукте? Попробуйте создать что-то вокруг SaaS, что сложнее скопировать?\n\nОсобенно хотелось бы услышать от людей, которые действительно прошли через это.\n\nЕсли вы запустили что-то относительно новое, начали получать тягу, а затем конкуренты начали копировать вас: действительно ли это навредило бизнесу, или вы в конечном итоге поняли, что слишком много беспокоитесь о клонах?\n\n?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/microsaas/comments/1vqbjq6/i_have_a_saas_idea_i_havent_seen_anyone_doing_if/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор разрабатывает SaaS-продукт в нише с подтвержденным спросом, но опасается, что из-за простоты идеи его быстро скопируют конкуренты. Он ищет советы у опытных фаундеров: как лучше выстроить стратегию запуска и стоит ли на самом деле так сильно бояться клонов.",
+      "tags": [
+        "microsaas"
+      ]
+    },
+    {
+      "id": "t3_1vi3wdh",
+      "title_en": "Drop your Saas and I'll give you feedback",
+      "title_ru": "Брось свой Саас, и я дам тебе обратную связь",
+      "score": 2,
+      "comments_count": 68,
+      "date": "2026-08-07",
+      "content_en": "[](https://www.reddit.com/r/SideProject/)\n\nDrop your website, landing page, portfolio, or startup below.\n\nI'll give honest feedback on things like:\n\n• First impression\n\n• UX/UI\n\n• Copywriting\n\n• SEO basics\n\n• Conversion opportunities\n\n• Performance issues I notice\n\n",
+      "content_ru": "[](https://www.reddit.com/r/SideProject/)\n\nБросьте свой сайт, целевую страницу, портфолио или стартап ниже.\n\nЯ дам честные отзывы о таких вещах, как:\n\n• Первое впечатление\n\n• UX/UI\n\n• Копирайтинг\n\n• Основы SEO\n\n• Возможности конверсии\n\n• Проблемы с производительностью, которые я замечаю\n\n",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/microsaas/comments/1vi3wdh/drop_your_saas_and_ill_give_you_feedback/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор предлагает бесплатный профессиональный аудит вашего сайта, лендинга или стартапа. В разбор входят оценка дизайна, UX, SEO, текстов и конверсии.",
+      "tags": [
+        "microsaas"
+      ]
+    },
+    {
+      "id": "t3_1vuwyt2",
+      "title_en": "I launched a SaaS 3 days ago. Here are 5 decisions I already regret — and 2 I'd make again.",
+      "title_ru": "Я запустил SaaS 3 дня назад. Вот 5 решений, о которых я уже сожалею, и 2, которые я бы сделал снова.",
+      "score": 0,
+      "comments_count": 7,
+      "date": "2026-08-22",
+      "content_en": "\n\nI launched Auralith Forge (online audio mastering) 72 hours ago. Solo dev, €65/mo infra, zero ad spend.\n\nDisclosure up front: I built this. I'll drop the link once at the end. This post is about the decisions, not the product.\n\nDecision 1: Freemium (3 free masters/mo) instead of a free trial\n\nVerdict so far: Right call.\n\nMusicians don't release on a schedule. A 7-day trial might hit them between projects. A monthly quota lets them come back when they actually have a track. Downside: lower urgency to convert.\n\nDecision 2: No pay-per-track option\n\nVerdict: Probably wrong.\n\nI only offer subscriptions (€9.99 and €19.99). Every musician I talked to pre-launch said \"I hate another monthly sub.\" I ignored them because subscriptions are predictable. Now I'm watching free users master 3 tracks and bounce instead of paying €4.99 for one more.\n\nIf you were building this, would you add a per-track tier or stick to subs-only?\n\nDecision 3: Firestore as the only database\n\nVerdict: Mixed.\n\nZero ops, real-time sync, free tier covers early stage. But aggregation queries are painful — \"how many masters did all users complete this month?\" requires client-side math or Cloud Functions. If your data model is relational-ish, Firestore fights you. If it's document-shaped, it's magic.\n\nDecision 4: Built the checkout flow before the before/after demo player\n\nVerdict: Stupid. Fixing this week.\n\nPeople won't pay for mastering until they hear it. I built Polar checkout, subscription logic, and webhook resilience before I built a side-by-side audio player on the homepage. Classic engineer mistake: solving hard problems no one asked for instead of obvious ones everyone expects.\n\nDecision 5: \"Reference track matching\" as the headline feature\n\nVerdict: Wrong for SEO, right for retention.\n\nYou upload a song you love, the engine matches its tone/loudness/width. Technically the coolest thing I built. But nobody searches \"reference track matching\" — they search \"online mastering.\" I'm rewriting landin",
+      "content_ru": "Я запустил Auralith Forge 72 часа назад. Solo dev, €65/mo infra, ноль рекламных расходов.\n\nРаскрытие информации: Я построил это. Я оставлю ссылку в конце. Эта статья о решениях, а не о продукте.\n\nРешение 1: Freemium (3 бесплатных мастера/мо) вместо бесплатной пробной версии\n\nВердикт: Правильный вызов.\n\nМузыканты не выходят по расписанию. 7-дневный судебный процесс может ударить по ним между проектами. Ежемесячная квота позволяет им вернуться, когда у них действительно есть след. Недостаток: снижение срочности конвертации.\n\nРешение 2: Отсутствие опции оплаты за трек\n\nВердикт: Наверное, неправильно.\n\nЯ предлагаю только подписки (9,99 евро и 19,99 евро). Каждый музыкант, с которым я разговаривал перед запуском, говорил: «Я ненавижу другую ежемесячную подлодку». Я проигнорировал их, потому что подписки предсказуемы. Теперь я смотрю, как бесплатные пользователи осваивают 3 трека и отскакивают вместо того, чтобы платить 4,99 евро за еще один.\n\nЕсли бы вы строили это, вы бы добавили ярус на дорожку или придерживались только подлодок?\n\nРешение 3: Фейерверк как единственная база данных\n\nВердикт: Смешанный.\n\nНулевые операции, синхронизация в реальном времени, бесплатный уровень охватывает раннюю стадию. Но запросы на агрегацию болезненны — «сколько мастеров все пользователи завершили в этом месяце?» требует математики на стороне клиента или облачных функций. Если ваша модель данных реляционна, Firestore борется с вами. Если это в форме документа, то это магия.\n\nРешение 4: Создал поток кассовых сборов до / после демо-плеера\n\nВердикт: Глупый. Ремонт на этой неделе.\n\nЛюди не будут платить за мастерство, пока не услышат его. Я создал Polar checkout, логику подписки и устойчивость к веб-хукам, прежде чем я создал бок о бок аудиоплеер на главной странице. Классическая ошибка инженера: решение сложных задач, о которых никто не просил, вместо очевидных, которые все ожидают.\n\nРешение 5: «Соответствие эталонного трека» в качестве заголовка\n\nВердикт: неправильно для SEO, правильно для удержания.\n\nВы загружаете песню, которую любите, двигатель соответствует ее тону/громкости/ширине. Технически самая крутая вещь, которую я построил. Но никто не ищет «соответствие эталонного трека» — они ищут «онлайн-обучение». Я переписываю копию целевой страницы, чтобы показать, что люди на самом деле вводят в Google.\n\n2 решения, которые я приму снова:\n\nНастоящий DSP движок, а не обертка API. Python FastAPI + numpy/scipy/librosa/pedalboard. Строить сложнее, но я владею стеком и запасом.\n\nПолярный вместо полосатого. Рекордный продавец обрабатывает НДС / налог во всем мире. Я не хочу думать о соблюдении налогов в 30 странах.\n\nЧто мне от вас нужно:\n\nЕсли бы ты был на моем месте, что бы ты первым делом починил в ближайшие 7 дней?\n\nЯ думаю, что это \"добавить зарплату за трек\", но я могу ошибаться. Хотелось бы услышать, что вы расставляете приоритеты.\n\nLink (аффилированный — я построил это): [auralithforge.app] (http://auralithforge.app) — бесплатный уровень 3 мастера/месяц, без CC. Если что-то из вышеперечисленного резонирует, и вы хотите увидеть, как это на самом деле работает, то оно есть.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/microsaas/comments/1vuwyt2/i_launched_a_saas_3_days_ago_here_are_5_decisions/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Разработчик Auralith Forge делится инсайтами запуска своего сервиса, отмечая ошибки в монетизации и выборе приоритетов. Автор ищет обратную связь: стоит ли внедрять оплату за разовые треки и какие задачи решать в первую очередь.",
+      "tags": [
+        "microsaas"
+      ]
+    },
+    {
+      "id": "t3_1vhkbn7",
+      "title_en": "Burned ~$900 letting an AI agent \"refactor\" my side project and ended up reverting almost everything",
+      "title_ru": "Сожженные $900, позволившие агенту ИИ «рефакторировать» мой побочный проект, и в конечном итоге вернули почти все",
+      "score": 0,
+      "comments_count": 14,
+      "date": "2026-08-06",
+      "content_en": "I got a little too excited about vibe coding my micro saas and just let the agent run wild across the whole codebase. It felt productive watching it churn, but half the changes broke things I didn't even know were connected.\n\n  \nBy the time I stopped, I'd spent around $900 in credits and had to throw out roughly 95% of what it produced, then crawl back to my old commit. The working version was already there the whole time.\n\n  \nAnyone else torch real money before learning to keep the AI on a short leash?",
+      "content_ru": "Я был слишком взволнован вибрацией, кодирующей мои микросаасы, и просто позволил агенту разбежаться по всей кодовой базе. Он чувствовал себя продуктивным, наблюдая, как он струится, но половина изменений сломала то, что я даже не знал, было связано.\n\n\nК тому времени, когда я остановился, я потратил около 900 долларов в кредитах и должен был выбросить примерно 95% того, что он произвел, а затем вернуться к своему старому обязательству. Рабочая версия уже была там все время.\n\n\nКто-нибудь еще поджигает реальные деньги, прежде чем научиться держать ИИ на коротком поводке?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/microsaas/comments/1vhkbn7/burned_900_letting_an_ai_agent_refactor_my_side/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор делится неудачным опытом: слепое доверие ИИ привело к потере 900 долларов и необходимости отката изменений. Он призывает коллег контролировать работу нейросетей, чтобы избежать подобных финансовых и технических потерь.",
+      "tags": [
+        "microsaas"
+      ]
     }
   ]
 }
