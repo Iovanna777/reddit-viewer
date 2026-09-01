@@ -1,0 +1,95 @@
+{
+  "title": "buildinpublic",
+  "posts": [
+    {
+      "id": "t3_1rjztdg",
+      "title_en": "I built a tool to turn any coordinate into minimalist map art",
+      "title_ru": "Я создал инструмент, чтобы превратить любую координату в минималистское картографическое искусство",
+      "score": 2099,
+      "comments_count": 241,
+      "date": "2026-03-03",
+      "content_en": "I’ve always loved those clean, high-end city posters you see on Etsy, but I wanted a way to customize every single detail myself without being a GIS expert. I’ve been building [Terraink ](https://www.reddit.com/r/terraink)as a side project to do exactly that.\n\nI just pushed a massive update that moves the app from a static generator to a fully interactive canvas. Instead of \"generating\" and waiting, you can now fly across the globe in real-time. I swapped the backend to MapLibre, which allowed me to add:\n\n* **Total Theme Customization:** You can now click \"Customize\" on any preset to change every hex code for land, water, parks, and roads.\n* **Layer Toggles:** You can strip the map down to just the road \"skeleton\" or include buildings and parks for more texture.\n* **Vector Scaling:** Since it’s all vector-based now, you can zoom out from a single neighborhood to an entire continent, and the labels/details update intelligently.\n* **High-Res PDF Export:** For those who want to actually print these at 300 DPI for their walls.\n\nIt’s completely free and open-source. I’m currently working on adding SVG exports and custom typography settings so you can upload your own fonts for the labels.\n\nCheck it out here: [https://github.com/yousifamanuel/terraink](https://github.com/yousifamanuel/terraink)\n\nI'd love to hear what layers or \"art styles\" you think I should add next!",
+      "content_ru": "Мне всегда нравились эти чистые, высококачественные городские плакаты, которые вы видите на Etsy, но я хотел сам настроить каждую деталь, не будучи экспертом по ГИС. Я создавал [Terraink] (https://www.reddit.com/r/terraink) как побочный проект, чтобы сделать именно это.\n\nЯ просто нажал массивное обновление, которое перемещает приложение от статического генератора к полностью интерактивному холсту. Вместо того, чтобы «генерировать» и ждать, вы можете летать по всему миру в режиме реального времени. Я поменял бэкэнд на MapLibre, что позволило мне добавить:\n\n** Общая настройка темы:** Теперь вы можете нажать «Customize» на любой предустановке, чтобы изменить каждый шестнадцатеричный код для земли, воды, парков и дорог.\n***Мягкие очки** Вы можете раздеть карту до дорожного «скелета» или включить здания и парки для большей текстуры.\n** Векторное масштабирование:** Поскольку все это теперь основано на векторах, вы можете масштабировать один район на целый континент, и метки / детали обновляются интеллектуально.\n** Экспорт PDF: ** Для тех, кто хочет напечатать их на 300 DPI для своих стен.\n\nЭто абсолютно бесплатный и открытый исходный код. В настоящее время я работаю над добавлением экспорта SVG и пользовательских настроек типографики, чтобы вы могли загружать свои собственные шрифты для этикеток.\n\nПроверьте это здесь: [https://github.com/yousifamanuel/terraink] (https://github.com/yousifamanuel/terraink)\n\nЯ хотел бы услышать, какие слои или «стили искусства» вы думаете, что я должен добавить дальше!",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/buildinpublic/comments/1rjztdg/i_built_a_tool_to_turn_any_coordinate_into/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор представил обновленный инструмент Terraink с открытым исходным кодом, который позволяет создавать и настраивать высококачественные векторные карты для печати в режиме реального времени. Проект стал полностью интерактивным и поддерживает экспорт в PDF с возможностью гибкой настройки дизайна без навыков работы с ГИС.",
+      "tags": [
+        "buildinpublic"
+      ]
+    },
+    {
+      "id": "t3_1rt68jr",
+      "title_en": "I built an offline survival AI [Update]",
+      "title_ru": "Я создал автономный ИИ выживания [Обновление]",
+      "score": 1148,
+      "comments_count": 199,
+      "date": "2026-03-14",
+      "content_en": "14k users in the app store, and we're the world's #1 rated survival AI (called, \"The Ark\").\n\nWe're finally selling the physical devices which is awesome.\n\nIt's...  \n\\- Waterproof (IP68 rating when closed)  \n\\- Portable (<1ft wide, \\~3lbs)  \n\\- Rugged (can run it over with a car)\n\nThe AI can provide sources for its answers (even while offline), referencing the exact page of the study guide stored on-device.\n\nIt can do so much like offline maps or even offline texting up to 50miles, but basically it ensures you're prepared for any emergency- lost in the wild, natural disasters, nuclear warfare, etc.\n\nHere's the mobile app: [https://apps.apple.com/us/app/survival-ai-the-ark/id6746391165](https://apps.apple.com/us/app/survival-ai-the-ark/id6746391165)  \nTo reserve a physical device: [https://scorpiodevices.store/order](https://scorpiodevices.store/order)\n\n\\_\\_\\_\\_\\_\\_  \n  \nSo for buildinpublic, my strategy was to make a mobile app first to iterate as fast as possible based on user feedback until I had the best product and then get into hardware.\n\nIt sounds like a cop-out or not something to really internalize, but what's helped me the most is always knowing what my constraint is (answer is \"supply\" or \"demand\") and then only working toward that.\n\nI plan to do a small batch (less than 100) orders then get into manufacturing and take it as large-scale as possible.\n\nI made some mistakes with the mobile app like developing too many features for it before I got into hardware.\n\nI've made mobile apps before but I had to work with electrical engineers to tutor me so that I can make the device myself.\n\nI've been working 10+ hours every single day for about a year now. I wanted to get into law enforcement originally to save lives, but ended up in tech. I felt my career was very fun but like a video game that wasn't fulfilling. Starting this company helped bridge that gap for me.   \n  \nI want this to be my magnum opus, so I'm going to work on this as long as it takes. I have a lot",
+      "content_ru": "14 000 пользователей в магазине приложений, и мы являемся ИИ с рейтингом выживания No 1 в мире (так называемый «Ковчег»).\n\nМы наконец-то продаем физические устройства, которые просто великолепны.\n\nЭто...\nВодонепроницаемость (рейтинг IP68 при закрытии)\nПортативный (<1ft Ширина, ~3lbs)\nЖесткий (может проехать с автомобилем)\n\nИИ может предоставить источники для своих ответов (даже в автономном режиме), ссылаясь на точную страницу руководства по исследованию, хранящегося на устройстве.\n\nОн может делать так же, как офлайн-карты или даже офлайн-сообщения до 50 миль, но в основном он гарантирует, что вы готовы к любой чрезвычайной ситуации, потерянной в дикой природе, стихийных бедствиях, ядерной войне и т. Д.\n\nВот мобильное приложение: [https://apps.apple.com/us/app/survival-ai-the-ark/id6746391165] (https://apps.apple.com/us/app/survival-ai-the-ark/id6746391165)\nЗарезервировать физическое устройство: [https://scorpiodevices.store/order] (https://scorpiodevices.store/order)\n\n\\         \n\nТак что для buildinpublic моя стратегия заключалась в том, чтобы сначала сделать мобильное приложение как можно быстрее, основываясь на отзывах пользователей, пока у меня не будет лучшего продукта, а затем перейти на аппаратное обеспечение.\n\nЗвучит как выговор или не что-то, чтобы действительно усвоить, но то, что помогло мне больше всего, это всегда знать, что является моим ограничением (ответ - это \"предложение\" или \"спрос\"), а затем только работать над этим.\n\nЯ планирую сделать небольшую партию (менее 100) заказов, а затем приступить к производству.\n\nЯ сделал несколько ошибок с мобильным приложением, например, разработал слишком много функций для него, прежде чем попал в аппаратное обеспечение.\n\nРаньше я делал мобильные приложения, но мне приходилось работать с инженерами-электриками, чтобы я мог самостоятельно создавать устройство.\n\nЯ работаю более 10 часов каждый день в течение года. Изначально я хотел попасть в правоохранительные органы, чтобы спасти жизни, но в конечном итоге оказался в сфере технологий. Я чувствовал, что моя карьера была очень веселой, но как видеоигра, которая не была полноценной. Создание этой компании помогло мне преодолеть этот пробел.\n\nЯ хочу, чтобы это был мой magnum opus, так что я буду работать над этим столько, сколько потребуется. У меня много крутых планов, и я думаю, что это может помочь многим людям.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/buildinpublic/comments/1rt68jr/i_built_an_offline_survival_ai_update/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Разработчики мобильного ИИ-помощника для выживания «Ковчег» открыли предзаказ на одноименное защищенное офлайн-устройство. Гаджет обладает высокой прочностью, водонепроницаемостью и предоставляет доступ к базе знаний по выживанию без подключения к сети.",
+      "tags": [
+        "buildinpublic"
+      ]
+    },
+    {
+      "id": "t3_1qxamnm",
+      "title_en": "My first month after quitting my 9-5 to be a full time indie hacker",
+      "title_ru": "Мой первый месяц после ухода из 9-5, чтобы быть штатным инди-хакером",
+      "score": 940,
+      "comments_count": 335,
+      "date": "2026-02-06",
+      "content_en": "After years of hesitating, I finally quit my 9-5 in Dec to go full time on myself.\n\nThe plan is to move from away from my 9-5 to freelancing/consulting and building my own products.  \nThis is the safest path for me to have more flexibility and freedom.  \nI have saving but still have a family to feed (I have a 3yo kid) so cannot risk everything in the product path.  \nGoing back to a 9-5 is the last thing I want to do.\n\nHere is the recap of my first month being self-employed (or unemployed):\n\n* Revenue: $0 (obviously)\n* Product: Got an idea from my accountant wife. She was drowning in manual data entry. So I built a tool to help her extracting data from pdf file. The plan is the ship the MVP in Feb. Building the waitlist now.\n* Personal brand: Started to be active on X (I'm an introvert btw). No traction so far though.\n* Freelance: I shared my story to one of my close friends a few months back and surprisingly got 2 potential leads from him.\n\nI just want to share my journey. Also wondering if anyone has been on a similar path? Would love to hear any advice. Thank you.",
+      "content_ru": "После многих лет колебаний я, наконец, бросил 9-5 в декабре, чтобы полностью посвятить себя.\n\nПлан состоит в том, чтобы перейти от 9-5 к фрилансу и созданию собственных продуктов.\nЭто самый безопасный путь для меня, чтобы иметь больше гибкости и свободы.\nУ меня есть сбережения, но у меня все еще есть семья (у меня есть 3-летний ребенок), поэтому я не могу рисковать всем на пути продукта.\nВозвращение на 9-5 - это последнее, что я хочу сделать.\n\nВот краткий обзор моего первого месяца работы на себя (или без работы):\n\n* Выручка: $0 (очевидно)\nПродукт: У меня есть идея от жены-бухгалтера. Она утонула в ручном вводе данных. Поэтому я создал инструмент, чтобы помочь ей извлечь данные из файла pdf. Планируется корабль MVP в феврале. Постройте лист ожидания сейчас.\nЛичный бренд: начал активироваться на X (я интроверт). До сих пор никакой тяги.\nЯ поделился своей историей с одним из своих близких друзей несколько месяцев назад и неожиданно получил от него 2 потенциальных зацепки.\n\nЯ просто хочу поделиться своим путешествием. Интересно, был ли кто-нибудь на аналогичном пути? Хотелось бы услышать любой совет. Спасибо.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/buildinpublic/comments/1qxamnm/my_first_month_after_quitting_my_95_to_be_a_full/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор уволился с работы, чтобы развивать собственный софт и фриланс, и подводит итоги первого месяца. Сейчас он работает над MVP для автоматизации бухгалтерских задач и развивает личный бренд, ища советов у тех, кто прошел аналогичный путь.",
+      "tags": [
+        "buildinpublic"
+      ]
+    },
+    {
+      "id": "t3_1s1vk3y",
+      "title_en": "Quit my corporate job 6 months ago to build something meaningful",
+      "title_ru": "Бросить работу 6 месяцев назад, чтобы создать что-то значимое",
+      "score": 617,
+      "comments_count": 124,
+      "date": "2026-03-23",
+      "content_en": "After being unhappy in my corporate 9 to 5 for over a year, I decided to leave and go full time on building something myself.\n\nIt was a scary move to make that has been full of ups and downs, but it's worth it - there’s nothing more valuable than working on a mission that truly gets you out of bed in the morning.\n\nAs for what exactly I've been doing for the past half year, I’ve been trying to fix the broken 5-star review system:\n\nMy friends and I found that we never trusted the 5-stars on websites when we shopped and always turned to social media.\n\nSo I created Honestly, a Chrome extension & Shopify app that finds, verifies and brings real reviews from Reddit, TikTok, YouTube, and Instagram to every product page online.\n\nToday, I am fortunate to have 200+ Chrome extension users and 6 paying Shopify brands! It's a very magical feeling and safe to say I won’t be going back to my old job any time soon haha.\n\nIf you are considering making the leap of faith, I encourage you to take it. Could be the best decision you ever make.\n\nAnd if you want to support the journey or provide feedback on Honestly, check it out [here](https://chromewebstore.google.com/detail/honestly/mjnniilmpkfkkeadhkcdakibbpmpaehl). ",
+      "content_ru": "После того, как я был недоволен своими корпоративными 9-5 годами, я решил уйти и полностью посвятить себя созданию чего-то.\n\nЭто был страшный шаг, который был полон взлетов и падений, но это того стоит - нет ничего более ценного, чем работа над миссией, которая действительно поднимает вас с постели утром.\n\nЧто касается того, чем я занимаюсь последние полгода, я пытаюсь исправить сломанную 5-звездочную систему обзора:\n\nМы с друзьями обнаружили, что никогда не доверяли 5-звездочным сайтам, когда делали покупки, и всегда обращались к социальным сетям.\n\nПоэтому я создал приложение Honestly, расширение Chrome и Shopify, которое находит, проверяет и приносит реальные отзывы от Reddit, TikTok, YouTube и Instagram на каждую страницу продукта в Интернете.\n\nСегодня мне повезло иметь более 200 пользователей Chrome и 6 платных брендов Shopify! Это очень волшебное чувство, и можно с уверенностью сказать, что я не вернусь на свою старую работу в ближайшее время.\n\nЕсли вы планируете совершить прыжок веры, я призываю вас принять его. Это может быть лучшее решение, которое вы когда-либо принимали.\n\nИ если вы хотите поддержать путешествие или предоставить обратную связь на Honestly, проверьте это [здесь] (https://chromewebstore.google.com/detail/honestly/mjnniilmpkfkkeadhkcdakibbpmpaehl).",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/buildinpublic/comments/1s1vk3y/quit_my_corporate_job_6_months_ago_to_build/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор ушел с работы, чтобы создать сервис Honestly, который подтягивает реальные отзывы из соцсетей на страницы товаров в интернет-магазинах. Приложение уже нашло первых платных клиентов и успешно развивается.",
+      "tags": [
+        "buildinpublic"
+      ]
+    },
+    {
+      "id": "t3_1sj85k2",
+      "title_en": "My side project got featured on Japanese national TV",
+      "title_ru": "Мой сайд-проект появился на японском национальном телевидении",
+      "score": 540,
+      "comments_count": 111,
+      "date": "2026-04-12",
+      "content_en": "I built Kumamap, a free bear incident map for Japan tracking 129k+ incidents across all 47 prefectures. The stack is SvelteKit, Tailwind, Cloudflare Workers, D1, R2, and MapLibre. Total cost: $5/month\n\nFuji TV's Nonstop! featured it on April 10th. I didn't think people were still watching TV but my servers got slammed the moment it aired. Got a huge wave of subscribers within hours\n\nHappy to answer any questions about the tech, the process, or working with Japanese media\n\n[https://kumamap.com/en/blog/fuji-tv](https://kumamap.com/en/blog/fuji-tv)",
+      "content_ru": "Я построил карту инцидентов с медведями Kumamap для Японии, отслеживающую 129 тысяч инцидентов во всех 47 префектурах. Это SvelteKit, Tailwind, Cloudflare Workers, D1, R2 и MapLibre. Общая стоимость: $5/месяц\n\nНонстоп от Fuji TV был показан 10 апреля. Я не думал, что люди все еще смотрят телевизор, но мои серверы захлопнулись в тот момент, когда он вышел в эфир. Получил огромную волну подписчиков за несколько часов\n\nРад ответить на любые вопросы о технологии, процессе или работе с японскими СМИ.\n\n[https://kumamap.com/en/blog/fuji-tv] (https://kumamap.com/en/blog/fuji-tv)",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/buildinpublic/comments/1sj85k2/my_side_project_got_featured_on_japanese_national/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор создал карту инцидентов с медведями в Японии (Kumamap) на базе SvelteKit и Cloudflare. После упоминания сервиса на телевидении проект выдержал резкий наплыв пользователей при стоимости обслуживания всего $5 в месяц.",
+      "tags": [
+        "buildinpublic"
+      ]
+    }
+  ]
+}
