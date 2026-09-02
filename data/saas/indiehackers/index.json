@@ -2,64 +2,94 @@
   "title": "indiehackers",
   "posts": [
     {
-      "id": "1urlmie",
-      "title": "Marketing is the hardest part of running a saas. and we all know it",
-      "score": 38,
-      "comments_count": 117,
-      "date": "2026-07-09",
-      "content_en": "I have been thinking about this a lot tbh.\n\nbuilding the product was never the hard part for me. getting people to actually see it, that's the part that breaks my brain.\n\nso trying to understand something. if ai could help with your marketing, what would you actually want it to do.( Selling nothing)\n\nfew questions that I have.\n\n\\- if an ai found people online already talking about your exact problem, would you want it to reply for you, or just hand you the list and let you write the reply yourself?\n\n\\- when it comes to posting content, what you like is an ai which gives you an exact already trending post format that will make your posts better chance to go viral or anything else?\n\n\\- for analytics, let's be honest most tools just throw numbers at you. karma, likes, comments. do you actually want someone to just tell you in plain english what's working and what to stop doing, instead of you staring at a graph trying to figure it out.\n\nand the main question. do you want ai to basically run your marketing end to end, or do you want it to just handle the boring repetitive parts while you still do the actual talking and bit thinking.\n\nnot selling anything, just trying to figure out where the line you are comfortable with between ai doing the work and ai helping you do the work. \n\nI am trying something and making this solution better for founders. So I would appreciate it if you can share your thoughts",
-      "comments_en": [
-        {
-          "comment_id": "owgxxpe",
-          "full_comment_id": "t1_owgxxpe",
-          "post_full_id": "t3_1urlmie",
-          "post_id": "1urlmie",
-          "post_title": "Marketing is the hardest part of running a saas. and we all know it",
-          "author": "Insignie",
-          "text": "It's hardest because it's the one part with no compile step. Code either runs or it doesn't, but you can do everything \"right\" in marketing and still hear nothing for weeks, and that ambiguity is brutal for a builder brain. What helped me was treating one channel like a product: pick it, commit for a couple of months, measure it, instead of spray-and-pray. Doesn't make it easy, just less maddening.",
-          "created_at": "2026-07-09T11:22:14Z",
-          "scraped_at": "2026-07-15T09:58:48.718867Z",
-          "depth": 0,
-          "score": 8,
-          "permalink": "/r/indiehackers/comments/1urlmie/marketing_is_the_hardest_part_of_running_a_saas/owgxxpe/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "Это сложнее всего, потому что это часть без этапа компиляции. Код либо работает, либо нет, но вы можете делать все «правильно» в маркетинге и при этом ничего не слышать неделями, и эта двусмысленность жестока для мозга строителя. Что мне помогло, так это отношение к одному каналу как к продукту: выберите его, зафиксируйте на пару месяцев, измерьте его, а не распыляйте и молитесь. Это не облегчает задачу, а лишь меньше сводит с ума."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/indiehackers/comments/1urlmie/marketing_is_the_hardest_part_of_running_a_saas/",
+      "id": "t3_1p4osbl",
+      "title_en": "I just sold my startup for $980M and I’m still in the womb (breakdown included)",
+      "title_ru": "Я только что продал свой стартап за 980 миллионов долларов, и я все еще в утробе матери",
+      "score": 0,
+      "comments_count": 10,
+      "date": "2025-11-23",
+      "content_en": "Hey everyone! This is John (9 months old)\n\nTyping this from inside my temporary studio apartment (aka my mom).\n\nDoctor says I’m crowning soon, so I’ll keep this brief.\n\n# How it started:\n\nAround Week 14, I overheard my parents arguing about hospital bills.  \nMassive market gap detected:\n\n**Prenatal financial anxiety is severely underserved.**\n\n# Launching the product:\n\nI deployed v1 during a routine ultrasound.  \nThe technician accidentally saw my dashboard and said “this is better than what our hospital uses.”\n\nBoom: first enterprise client.  \nACV: $12M + free applesauce post-birth.\n\nI slapped a Stripe link on the heartbeat monitor.  \nARR started climbing faster than my amniotic fluid levels.\n\n# Here’s what I learned (3 steps):\n\n1. **Solve real pain.** Expecting parents will spend $400 on a vibrating crib - they will definitely pay for predictive kick analytics.\n2. **Move stupid fast.** The window between morning nausea and afternoon cravings is TINY. Ship before the hormones ship you\n3. **Know when to exit.** I got in contact with a Fortune 500 medical supplier with a $980M offer. I accepted so I could focus on being born.\n\n# What’s next?\n\nProbably learning to open my eyes.  \nMaybe a seed round after that.\n\nAnyway, I hear the doctor saying “push,” so I gotta dip.\n\n\\- John | *Fetus, 0*",
+      "content_ru": "Всем привет! Джон (9 месяцев)\n\nНабирая это из моей временной квартиры-студии (моя мама).\n\nДоктор говорит, что я скоро короную, так что я буду держать это кратко.\n\n# Как это началось:\n\nОколо 14 недели я подслушал, как мои родители спорили о больничных счетах.\nОбнаружен огромный разрыв на рынке:\n\n**Дородовая финансовая тревога сильно недооценена.**\n\n# Запуск продукта:\n\nЯ развернул v1 во время обычного ультразвука.\nТехник случайно увидел мою приборную панель и сказал: «Это лучше, чем то, что использует наша больница».\n\nБум: первый бизнес-клиент.\nACV: 12 миллионов долларов + бесплатный яблочный соус после родов.\n\nЯ похлопал Стрип по монитору сердцебиения.\nARR начал подниматься быстрее, чем мой уровень амниотической жидкости.\n\nВот что я узнал (3 шага):\n\n1. ** Реальная боль. ** Ожидающие родители потратят 400 долларов на вибрирующие кроватки - они обязательно заплатят за прогнозную аналитику.\n2. ** Быстрее двигайся глупо** Окно между утренней тошнотой и тягой ко дню - ТИНИ. Корабль, прежде чем гормоны отправят вас\n3.**Знать, когда выходить.** Я связался с поставщиком медицинских услуг из списка Fortune 500 с предложением в 980 миллионов долларов. Я согласился, чтобы сосредоточиться на рождении.\n\n# Что дальше?\n\nВозможно, я научусь открывать глаза.\nМожет быть, семя после этого.\n\nВ любом случае, я слышу, как доктор говорит \"толкай\", так что мне нужно окунуться.\n\nДжон Фетус, 0",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/indiehackers/comments/1p4osbl/i_just_sold_my_startup_for_980m_and_im_still_in/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Я много думал об этом, если честно.\n\nСоздание продукта никогда не было для меня сложной задачей. заставить людей действительно увидеть это — вот та часть, которая ломает мне мозг.\n\nпоэтому пытаюсь что-то понять. Если бы искусственный интеллект мог помочь вам в маркетинге, какую бы функцию вы на самом деле хотели от него? (Ничего не продавать)\n\nнесколько вопросов, которые у меня есть.\n\n\\- если ИИ обнаружит в Интернете, что люди уже обсуждают именно вашу проблему, вы бы хотели, чтобы он ответил вам или просто передал вам список, и вы позволили бы вам написать ответ самостоятельно?\n\n\\- когда дело доходит до публикации контента, что вам нравится, так это искусственный интеллект, который дает вам точный, уже популярный формат сообщений, который повысит шансы ваших сообщений стать вирусными или что-то еще?\n\n\\- что касается аналитики, давайте будем честными: большинство инструментов просто выдают вам цифры. карма, лайки, комментарии. Вы действительно хотите, чтобы кто-то просто сказал вам на простом английском языке, что работает, а что прекратить делать, вместо того, чтобы вы смотрели на график, пытаясь понять это?\n\nи главный вопрос. Хотите ли вы, чтобы ИИ в основном управлял вашим маркетингом от начала до конца, или вы хотите, чтобы он просто обрабатывал скучные повторяющиеся части, в то время как вы все еще говорите и немного думаете.\n\nЯ ничего не продаю, просто пытаюсь выяснить, где для вас комфортная грань между тем, как ИИ выполняет работу, и ИИ, помогающим вам выполнять работу. \n\nЯ пытаюсь кое-что сделать и сделать это решение лучше для основателей. Поэтому буду признателен, если поделитесь своими мыслями",
-      "title_ru": "Маркетинг — самая сложная часть работы Saas. и мы все это знаем"
+      "ai_summary_ru": "9-месячный младенец в ироничной форме рассказывает о создании успешного финтех-стартапа для родителей прямо из утробы матери. Проект был продан корпорации за 980 миллионов долларов, после чего основатель решил сфокусироваться на рождении.",
+      "tags": [
+        "indiehackers"
+      ]
     },
     {
-      "id": "1utj4yj",
-      "title": "Just hit $3,300/month and 18,500+ users with my social media scraping API 🎉",
-      "score": 31,
-      "comments_count": 64,
-      "date": "2026-07-11",
-      "content_en": "(Yep, $3,300 a month, not $3,300K 😅)\n\nSocialKit is coming up on a year since launch. The curve was slow and honestly that's the point:\n\n- Month 1: $13 MRR\n- Month 3: $118 MRR\n- Month 5: $370 MRR\n- Now: $2,500 MRR, plus one-time purchases that add a pretty consistent $700-1,000 every month, so ~$3,300/month total\n\n(https://trustmrr.com/startup/socialkit)\n\nSome more numbers:\n\n- 18,500+ users\n- 140+ active paying customers\n\nWhat's been working:\n\n- SEO from day 0 (blogs, free tools, competitor pages, youtube). It compounds. Most customers still come from organic\n- Talking to users directly, even on WhatsApp\n- being consistent\n\nWhat I'm betting on now: AI agents. MCP + agent skills so agents can pull transcripts, comments, and stats from any social video directly. New APIs coming for that use case.\n\nHere's the product if you want to check it out: SocialKit .dev\n\nLet me know if you're growing your stuff too, if you have any feedback I'd be happy to hear it :)",
+      "id": "t3_1u4u8ca",
+      "title_en": "I got tired of endless scrolling and bad search results, so I built an AI search engine for adult videos. What would you expect from something like this?",
+      "title_ru": "Я устал от бесконечной прокрутки и плохих результатов поиска, поэтому я создал поисковую систему ИИ для видео для взрослых. Чего бы вы ожидали от чего-то подобного?",
+      "score": 0,
+      "comments_count": 50,
+      "date": "2026-06-13",
+      "content_en": "I would love to hear feedback, comments, or anyones feelings on this.  I think the best thing we can do in a community like this is work together, and give constructive feedback, and I would appreciate if anyone has anyone for this for me.\n\n[pornprompt.ai](http://pornprompt.ai/)\n\nThanks for your time and interest! Happy surfing!\n\n  \n",
+      "content_ru": "Я хотел бы услышать отзывы, комментарии или чьи-либо чувства по этому поводу. Я думаю, что лучшее, что мы можем сделать в таком сообществе, это работать вместе и давать конструктивную обратную связь, и я был бы признателен, если у кого-то есть кто-то для этого для меня.\n\n[pornprompt.ai] (http://pornprompt.ai/)\n\nСпасибо за ваше время и интерес! Счастливого серфинга!\n\n\n!",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/indiehackers/comments/1utj4yj/just_hit_3300month_and_18500_users_with_my_social/",
+      "original_url": "https://www.reddit.com/r/indiehackers/comments/1u4u8ca/i_got_tired_of_endless_scrolling_and_bad_search/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "(Да, 3300 долларов в месяц, а не 3300 тысяч 😅)\n\nSocialKit появится через год с момента запуска. Кривая была медленной, и, честно говоря, в этом вся суть:\n\n- Месяц 1: минимальная нормальная цена 13 долларов США.\n- Месяц 3: МРР 118 долларов США.\n- Месяц 5: минимальная нормальная цена 370 долларов США.\n- Сейчас: 2500 долларов США MRR плюс разовые покупки, которые добавляют довольно стабильно 700–1000 долларов США каждый месяц, итого ~ 3300 долларов США в месяц.\n\n(https://trustmrr.com/startup/socialkit)\n\nЕще немного цифр:\n\n- 18 500+ пользователей\n- 140+ активных платежеспособных клиентов\n\nЧто работает:\n\n- SEO с 0 дня (блоги, бесплатные инструменты, страницы конкурентов, YouTube). Это усугубляет. Большинство клиентов по-прежнему приходят из органических\n- Общение с пользователями напрямую, даже в WhatsApp\n- быть последовательным\n\nНа что я сейчас делаю ставку: на агентов ИИ. MCP + навыки агентов, позволяющие агентам напрямую извлекать расшифровки, комментарии и статистику из любого социального видео. Для этого варианта использования появятся новые API.\n\nВот продукт, если вы хотите его попробовать: SocialKit .dev.\n\nДайте мне знать, если вы тоже выращиваете свои растения, если у вас есть какие-либо отзывы, я буду рад их услышать :)",
-      "title_ru": "Просто заработайте 3300 долларов в месяц и наберите более 18 500 пользователей с помощью моего API для парсинга в социальных сетях 🎉"
+      "ai_summary_ru": "Автор просит дать конструктивную обратную связь по проекту pornprompt.ai. Поделиться мнением и комментариями о сервисе можно в обсуждении.",
+      "tags": [
+        "indiehackers"
+      ]
     },
     {
-      "id": "1uqsb7n",
-      "title": "Share what you're building",
-      "score": 24,
-      "comments_count": 269,
-      "date": "2026-07-08",
-      "content_en": "Pitch your product in 1-2 lines - and drop a link here.\n\nI'm building a community where makers can share what they’re building and get fair visibility. Here's the link: [https://trylaunch.ai](https://trylaunch.ai/)",
+      "id": "t3_1ofimyf",
+      "title_en": "I Spent 6 Months Building a Product Nobody Noticed. Here’s the Brutal Truth About Shipping....",
+      "title_ru": "Я потратил 6 месяцев на создание продукта, который никто не заметил. Вот ужасная правда о судоходстве...",
+      "score": 0,
+      "comments_count": 5,
+      "date": "2025-10-25",
+      "content_en": "We all love building. It’s in our blood. Late nights, coffee-fueled sessions, that rush when your idea finally comes alive.\n\nBut here’s the thing: building is the easy part. Shipping? Marketing? That’s the nightmare nobody warns you about.\n\nSome of us never finish. Some get distracted by the next shiny idea. And then there are the rest of us… we actually ship. We create an X account, post on subreddits, tweet links, hoping someone notices… only to get a handful of clicks, a few downvotes, or nothing at all. I know because I’ve lived it.\n\nSix months ago, I built JustGrind, an AI habit coach. Coding it was fun (countless nights debugging, still loving it). Shipping it? Pure hell. Marketing it? Even worse.\n\n💥 Hard truth: your product could literally solve someone’s biggest problem… cure cancer even… but if nobody knows it exists, it’s worthless.\n\nI struggled. I got discouraged. I kept avoiding shipping because I was scared of failure — afraid six months of work wouldn’t get the attention it deserved. Even after I shipped it, the traction I hoped for didn’t come. It felt like all that work vanished into a void. That’s when I thought: what if I could solve this problem the same way I solve others, with a tool?\n\nSo I built **Postnix AI** — it helps indie hackers, creators, and solo founders finally get their hard work seen. Postnix analyzes top-performing posts in your target subreddits and helps you craft posts that actually get noticed — no spam, no guesswork.\n\n🚀 **What I’ve learned along the way:**\n\n* No matter how much time you pour into coding or sleepless nights you grind through, a product nobody sees never truly exists.\n* Motivation is temporary. Systems and consistency are forever.\n* Fear before launch never goes away. You just have to take the leap.\n* Building is fun. Marketing is hell. But if you don’t ship, none of it matters.\n* The struggle you feel? Everyone’s been there. And that’s okay — it’s part of the journey.\n\nIt’s still early days for Postnix, but see",
+      "content_ru": "Все мы любим строить. Это в нашей крови. Поздние ночи, сеансы подпитываемые кофе, которые спешат, когда ваша идея наконец оживает.\n\nНо вот в чем дело: строительство — это легкая часть. Доставка? Маркетинг? Это кошмар, о котором вас никто не предупреждает.\n\nНекоторые из нас никогда не заканчивают. Некоторые отвлекаются на следующую блестящую идею. А есть и остальные... мы действительно отправляем. Мы создаем учетную запись X, публикуем субреддиты, твиты, надеясь, что кто-то заметит ... только для того, чтобы получить несколько кликов, несколько нисходящих голосов или вообще ничего. Я знаю, потому что я это пережил.\n\nШесть месяцев назад я создал JustGrind, тренера по привычкам ИИ. Кодирование было забавным (бесчисленные ночи отладки, все еще любящие его). Доставка? Чистый ад. Маркетинговать? Еще хуже.\n\nСуровая правда: ваш продукт может буквально решить чью-то самую большую проблему... даже вылечить рак... но если никто не знает, что он существует, это бесполезно.\n\nЯ боролся. Я был обескуражен. Я продолжал избегать доставки, потому что боялся неудачи — боялся, что шесть месяцев работы не получат того внимания, которого они заслуживают. Даже после того, как я отправил его, тяга, на которую я надеялся, не пришла. Казалось, что вся эта работа исчезла в пустоте. Тогда я подумал: что, если бы я мог решить эту проблему так же, как я решаю другие, с помощью инструмента?\n\nПоэтому я создал Postnix AI — это помогает инди-хакерам, создателям и основателям соло, наконец, увидеть их тяжелую работу. Postnix анализирует наиболее эффективные сообщения в целевых субреддитах и помогает создавать сообщения, которые на самом деле замечаются — без спама, без догадок.\n\n** То, что я узнал по пути: **\n\nНезависимо от того, сколько времени вы тратите на кодирование или бессонные ночи, которые вы перемалываете, продукт, который никто не видит, никогда не существует.\nМотивация является временной. Системы и последовательность существуют вечно.\nСтрах перед запуском никогда не уходит. Ты просто должен сделать прыжок.\n* Строительство - это весело. Маркетинг - это ад. Но если вы не отправляете, ничего из этого не имеет значения.\nБорьба, которую вы чувствуете? Все были там. И это нормально — это часть путешествия.\n\nДля Postnix все еще рано, но видеть, как создатели на самом деле получают от этого удовольствие... это стоит каждой ночи «почему я делаю это».",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/indiehackers/comments/1uqsb7n/share_what_youre_building/",
+      "original_url": "https://www.reddit.com/r/indiehackers/comments/1ofimyf/i_spent_6_months_building_a_product_nobody/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "Расскажите о своем продукте в 1-2 строках и дайте ссылку сюда.\n\nЯ создаю сообщество, где создатели могут делиться тем, что они создают, и добиваться справедливой видимости. Вот ссылка: [https://trylaunch.ai](https://trylaunch.ai/)",
-      "title_ru": "Поделитесь тем, что вы создаете"
+      "ai_summary_ru": "Создание качественного продукта — это только полдела, так как без грамотного продвижения он остается незамеченным. Автор создал инструмент Postnix AI, чтобы помочь инди-разработчикам эффективно продвигать свои проекты и преодолевать страх перед запуском.",
+      "tags": [
+        "indiehackers"
+      ]
+    },
+    {
+      "id": "t3_1q3lkti",
+      "title_en": "Just launched on Product Hunt: an AI tool that makes Reddit marketing simple and safe.",
+      "title_ru": "Продукт Hunt: инструмент искусственного интеллекта, который делает маркетинг Reddit простым и безопасным.",
+      "score": 0,
+      "comments_count": 33,
+      "date": "2026-01-04",
+      "content_en": "Hey everyone 👋\n\nI just launched Scaloom, an AI agent that helps founders and marketers build genuine trust on Reddit before promoting anything.\n\nIt warms up your account, earns karma naturally, and engages in real discussions so you can grow without getting banned or downvoted.\n\nWe’re live on Product Hunt today \n\n👉 [https://www.producthunt.com/products/scaloom-ai](https://www.producthunt.com/products/scaloom-ai)\n\nWould love your upvote and support on Product Hunt 🙏",
+      "content_ru": "Привет всем  \n\nЯ только что запустил Scaloom, агента искусственного интеллекта, который помогает основателям и маркетологам построить подлинное доверие к Reddit, прежде чем продвигать что-либо.\n\nОн согревает ваш аккаунт, естественным образом зарабатывает карму и участвует в реальных дискуссиях, чтобы вы могли расти, не получая запрета или понижения.\n\nСегодня мы работаем над продуктом\n\n[https://www.producthunt.com/products/scaloom-ai] (https://www.producthunt.com/products/scaloom-ai)\n\nВам понравится ваш голос и поддержка в Product Hunt",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/indiehackers/comments/1q3lkti/just_launched_on_product_hunt_an_ai_tool_that/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Запущен Scaloom — AI-агент для органического «прогрева» аккаунтов в Reddit, который помогает безопасно выстраивать доверие аудитории перед запуском маркетинговых кампаний. Поддержать продукт можно на Product Hunt по ссылке: https://www.producthunt.com/products/scaloom-ai.",
+      "tags": [
+        "indiehackers"
+      ]
+    },
+    {
+      "id": "t3_1pr7xsd",
+      "title_en": "Sold 16 life-time deals for my SaaS in 24 hrs (for urgent cash)",
+      "title_ru": "Продано 16 пожизненных сделок для моего SaaS за 24 часа (для срочных денежных средств)",
+      "score": 1,
+      "comments_count": 30,
+      "date": "2025-12-20",
+      "content_en": "Hi folks,\n\n\n\nJus here to share an interesting experiment which you can also try but be careful, do your maths first!\n\n\n\nChristmas is almost here and I needed some urgent cash for shopping, so I tried this hack which actually worked:\n\n\n\n(This is the page on my website that helped: [https://www.brainerr.com/page/gift.htm](https://www.brainerr.com/page/gift.htm) \\- not promoting!)\n\n\n\n\\- I already have a lifetime deal (LTD) gifting option for my SaaS, but the price is quite high at $99\n\n\\- Yesterday, I dropped it to just $9 (yes, I know that is a crazy move)\n\n\\- I could do this because my SaaS has no runtime costs at all, for example it does not use paid APIs\n\n\\- I updated the homepage and a few other pages yesterday\n\n\\- But I have not promoted it at all yet (just a bit busy with my other SaaS)\n\n\n\nI just checked my sales and wow! 16 sold in 24 hours :D yey...!\n\n\n\nThat is really crazy.\n\n\n\nShould I change my pricing next year? Hmm.",
+      "content_ru": "Привет, ребята.\n\n\n\nЖюс здесь, чтобы поделиться интересным экспериментом, который вы также можете попробовать, но будьте осторожны, сначала сделайте свою математику!\n\n\n\nРождество почти наступило, и мне нужны были срочные деньги для покупок, поэтому я попробовал этот взлом, который действительно сработал:\n\n\n\n(Это страница на моем веб-сайте, которая помогла: [https://www.brainerr.com/page/gift.htm] (https://www.brainerr.com/page/gift.htm) \\- не продвигать!)\n\n\n\nУ меня уже есть пожизненный вариант подарка (LTD) для моего SaaS, но цена довольно высока - 99 долларов.\n\nВчера я уронил его всего на 9 долларов (да, я знаю, что это сумасшедший ход).\n\nЯ могу сделать это, потому что мой SaaS не имеет никаких затрат на время выполнения, например, он не использует платные API.\n\nВчера я обновил домашнюю страницу и несколько других страниц.\n\nНо я еще не продвигал его (просто немного занят другим моим SaaS).\n\n\n\nЯ только что проверил свои продажи и вау! 16 продано за 24 часа :D yy!\n\n\n\nЭто действительно безумие.\n\n\n\nСтоит ли менять цены в следующем году? Хмм.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/indiehackers/comments/1pr7xsd/sold_16_lifetime_deals_for_my_saas_in_24_hrs_for/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор протестировал резкое снижение цены на свой SaaS-продукт с $99 до $9, что принесло 16 продаж за сутки. Результат эксперимента заставил разработчика задуматься о пересмотре ценовой стратегии на будущий год.",
+      "tags": [
+        "indiehackers"
+      ]
     }
   ]
 }
