@@ -2,82 +2,94 @@
   "title": "startups",
   "posts": [
     {
-      "id": "1utyazk",
-      "title": "Has a16z become the devil incarnate? (I will not promote)",
-      "score": 108,
-      "comments_count": 59,
-      "date": "2026-07-11",
-      "content_en": "Not a hater, but they backed Cluely (eh), then this AI slop, \"let's make the dead internet come true\", then now an investor is telling young founders to go to Japan because they are 5-10 years ahead... because Japan has virtual boy/girlfirends (Josh Lu, a partner).\n\nIdk I'm getting the feeling of an IBM-like greed to expand at all costs without really considering humanity or what actually are long-term sustainable businesses.\n\nNot salty, I also did have a meeting with an a16z partner for my company and he was a jerk who I highly suspect was collecting data for a similar portfolio company. I'd ended up going forward with another financing",
-      "comments_en": [
-        {
-          "comment_id": "owzcmw8",
-          "full_comment_id": "t1_owzcmw8",
-          "post_full_id": "t3_1utyazk",
-          "post_id": "1utyazk",
-          "post_title": "Has a16z become the devil incarnate? (I will not promote)",
-          "author": "Kaustubh099",
-          "text": "a16z isn't becoming the villain. They're just revealing what venture capital has always been: a machine optimized to find growth wherever it exists, regardless of whether the rest of us think it's a good idea",
-          "created_at": "2026-07-11T23:10:30Z",
-          "scraped_at": "2026-07-15T10:02:30.163005Z",
-          "depth": 0,
-          "score": 124,
-          "permalink": "/r/startups/comments/1utyazk/has_a16z_become_the_devil_incarnate_i_will_not/owzcmw8/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "a16z не станет злодеем. Они просто раскрывают то, чем всегда был венчурный капитал: машина, оптимизированная для обеспечения роста везде, где он существует, независимо от того, считают ли остальные из нас это хорошей идеей."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/startups/comments/1utyazk/has_a16z_become_the_devil_incarnate_i_will_not/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Не ненавистники, но они поддержали Cluely (а), потом эту чушь с искусственным интеллектом: «давайте сделаем мертвый интернет реальностью», а теперь инвестор советует молодым основателям ехать в Японию, потому что они на 5-10 лет впереди… потому что в Японии есть виртуальные мальчики и девочки (Джош Лу, партнер).\n\nЯ не знаю, у меня такое чувство, как у IBM, жадности к расширению любой ценой, не задумываясь о человечности или о том, что на самом деле является долгосрочным устойчивым бизнесом.\n\nНичего особенного, у меня также была встреча с партнером a16z моей компании, и он был придурком, который, как я очень подозреваю, собирал данные для аналогичной портфельной компании. В итоге я предложил другое финансирование.",
-      "title_ru": "Стал ли a16z воплощением дьявола? (не буду рекламировать)"
-    },
-    {
-      "id": "1urk1ye",
-      "title": "CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote",
-      "score": 56,
-      "comments_count": 114,
-      "date": "2026-07-09",
-      "content_en": "Hey everyone,\n\nI’m a 28-year-old Systems Engineer and Security Researcher with 6 years of experience. My background is split as follows:\n\n* **3 years as a Cyber Security Researcher** at a major enterprise (focusing on open source tech research, os internals and runtime detection, not vulnerability research/bug hunting).\n* **3 years of experience as a Systems/Infrastructure Engineer** at a Series B startup, specializing in C/C++ development and backend infrastructure.\n* **6 months as an early engineer (Employee #8)** at a seed-stage cloud cybersecurity startup that raised $7M, where **I received 0.5% equity** and was later fired :( \n\n  \nAfter my first job, my former manager started a cybersecurity startup together with an engineer from a FAANG company.  \nBoth have strong reputations in their respective fields, with deep expertise in cybersecurity and large-scale engineering, and they invited me to join as an early engineer.\n\nWe agreed on a two-month trial period to see whether we were a good fit to work together long-term before making a full commitment.  \n  \n**For the past 2 months, I’ve been working completely for free (pre-funding)** building the MVP for their startup from scratch.\n\nThe founders are currently pitching to VCs and preparing to raise an $8M Seed round. We recently had an equity talk for my official role as Employee #1 (Founding Engineer) once the funding closes.\n\n* **My Ask:** 1.2% equity.\n* **The CTO’s Reaction:** The CTO (who has a strong track record as an ex-Director at a major tech firm) got defensive. He hinted at offering between 0.5% and 0.8% equity max.\n* **His Argument:** He claims that the last 2 months of my unpaid work were just a \"trial period\" and shouldn't heavily impact my equity allocation. He argues that 1.2% is closer to VP and that I am \"junior\" when it comes to product strategy, business logic, and dealing with enterprise customers, since my past roles were purely technical.\n\nI feel like I'm being lowballed since they are trying to offer me standard Seed-stage equity (0.5% - 0.8%) even though I took pre-seed risks and worked for free. My previous role as Employee #8 in an already funded company gave me 0.5% with significantly less risk and existing team.\n\nOn the flip side, the technology is incredible, I love the domain, and the market potential\n\nI'm struggling with the decision because I genuinely believe in the founders, the technology, and the market opportunity\n\n**Would love to hear your thoughts and experiences.**",
-      "comments_en": [
-        {
-          "comment_id": "owgcibu",
-          "full_comment_id": "t1_owgcibu",
-          "post_full_id": "t3_1urk1ye",
-          "post_id": "1urk1ye",
-          "post_title": "CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote",
-          "author": "erratic_parser",
-          "text": "if you leave what happens? You can't really threaten to quit directly, but you can certainly intimate, say you weren't aware there was a trial period and that those terms should have been made clear sooner. That equity is the compensation for unpaid labor and that if you weren't going to be rewarded for taking a risk then perhaps the startup isn't the best place for you etc. but idk, personally i think working for 2 months as a trial period is outrageous",
-          "created_at": "2026-07-09T08:39:20Z",
-          "scraped_at": "2026-07-15T10:02:31.629165Z",
-          "depth": 0,
-          "score": 31,
-          "permalink": "/r/startups/comments/1urk1ye/cto_wants_to_give_me_funded_seed_stage_equity_for/owgcibu/",
-          "is_stickied": false,
-          "is_submitter": false,
-          "text_ru": "если ты уйдешь, что произойдет? На самом деле вы не можете угрожать отказом напрямую, но вы, конечно, можете намекнуть, сказать, что вы не знали, что был испытательный срок и что эти условия должны были быть разъяснены раньше. Этот капитал — это компенсация за неоплачиваемый труд, и если вы не будете вознаграждены за риск, то, возможно, стартап — не лучшее место для вас и т. д., но я не знаю, лично я считаю, что работать в течение 2 месяцев в качестве испытательного периода — это возмутительно."
-        }
-      ],
-      "original_url": "https://www.reddit.com/r/startups/comments/1urk1ye/cto_wants_to_give_me_funded_seed_stage_equity_for/",
-      "is_read": false,
-      "is_favorite": false,
-      "content_ru": "Привет всем,\n\nЯ 28-летний системный инженер и исследователь безопасности с 6-летним опытом. Мой фон разделен следующим образом:\n\n* **3 года работы исследователем кибербезопасности** на крупном предприятии (с упором на исследование технологий с открытым исходным кодом, внутреннее устройство операционной системы и обнаружение во время выполнения, а не исследование уязвимостей/поиск ошибок).\n* **3 года опыта работы системным инженером/инженером по инфраструктуре** в стартапе серии B, специализирующемся на разработке C/C++ и серверной инфраструктуре.\n* **6 месяцев в качестве раннего инженера (сотрудник №8)** в стартапе по облачной кибербезопасности на начальной стадии, который привлек 7 миллионов долларов, где **я получил 0,5% акций** и позже был уволен :( \n\n  \nПосле моей первой работы мой бывший менеджер вместе с инженером из компании FAANG основал стартап в области кибербезопасности.  \nОба имеют хорошую репутацию в своих областях, обладают глубокими знаниями в области кибербезопасности и крупномасштабного проектирования, и они пригласили меня присоединиться к ним в качестве одного из первых инженеров.\n\nМы договорились о двухмесячном испытательном периоде, чтобы проверить, готовы ли мы работать вместе в долгосрочной перспективе, прежде чем брать на себя полные обязательства.  \n  \n**Последние 2 месяца я работал совершенно бесплатно (предварительное финансирование)** над созданием MVP для их стартапа с нуля.\n\nВ настоящее время основатели проводят переговоры с венчурными инвесторами и готовятся к привлечению начального раунда в размере 8 миллионов долларов. Недавно у нас был разговор о доле моей официальной роли Сотрудника №1 (инженера-основателя) после закрытия финансирования.\n\n* **Мой вопрос:** 1,2 % эквити.\n* **Реакция технического директора:** Технический директор (у которого большой послужной список в качестве бывшего директора крупной технологической фирмы) занял оборонительную позицию. Он намекнул на то, что предложит максимальную долю капитала от 0,5% до 0,8%.\n* **Его аргумент:** Он утверждает, что последние два месяца моей неоплачиваемой работы были всего лишь «испытательным периодом» и не должны сильно повлиять на распределение моего капитала. Он утверждает, что 1,2% ближе к вице-президенту и что я «младший», когда дело касается стратегии продукта, бизнес-логики и работы с корпоративными клиентами, поскольку мои прошлые должности были чисто техническими.\n\nЯ чувствую, что меня занижают, поскольку они пытаются предложить мне стандартный капитал на посевной стадии (0,5–0,8%), даже несмотря на то, что я брал на себя риски перед посевом и работал бесплатно. Моя предыдущая должность сотрудника №8 в уже финансируемой компании давала мне 0,5% при значительно меньшем риске и существующей команде.\n\nС другой стороны, технология невероятна, мне нравится эта область и потенциал рынка.\n\nМне трудно принять решение, потому что я искренне верю в основателей, технологии и рыночные возможности.\n\n**Хотелось бы услышать ваши мысли и опыт.**",
-      "title_ru": "Технический директор хочет предоставить мне финансирование на посевной стадии за неоплачиваемую работу перед посевом — я не буду продвигаться по службе."
-    },
-    {
-      "id": "1uuywvo",
-      "title": "What is a good way to validate your startup idea? I will not promote",
-      "score": 44,
-      "comments_count": 57,
-      "date": "2026-07-13",
-      "content_en": "I’ve built many products throughout my career, but one challenge I continue to struggle with is properly validating my ideas before investing significant time into building them.\n\nI often find myself getting excited about a problem, jumping straight into designing and developing a solution, and only later realizing that I haven’t fully validated whether the problem is painful enough, whether people actually want the solution, or whether they would pay for it.\n\nI know that building quickly is important, but I also want to become better at separating good ideas from ideas that only seem good in my head.\n\nWhat are some of the best frameworks, processes, or strategies you use to validate startup ideas before writing code? How do you determine whether an idea is worth pursuing before committing weeks or months to building a product?",
+      "id": "t3_1w27m6s",
+      "title_en": "Unpopular opinion: The RFS from YC is actually hurting, not helping. I will not promote",
+      "title_ru": "Непопулярное мнение: РФС от YC на самом деле вредит, а не помогает. Я не буду продвигать",
+      "score": 57,
+      "comments_count": 25,
+      "date": "2026-08-30",
+      "content_en": "YC started the RFS trend, and now every other VC firm has copied it. I think it’s doing a massive disservice to early-stage founders.\n\nIt feels like it’s becoming totally normal to pivot every few months just to chase whatever is hot on the latest RFS list. The gritty, unglamorous work of actually learning in the trenches and discovering niche, real-world problems is completely disappearing.\n\nIf you are betting the next few years of your life on an idea just because it was on an RFS, it’s super dumb. Work on something you actually understand deeply and where you have a natural, unique edge. Don't work on something just because a random VC told you to do it. They have nothing to lose.",
+      "content_ru": "YC запустила тренд RFS, и теперь все другие венчурные компании скопировали его. Я думаю, что это оказывает огромную услугу основателям на ранней стадии.\n\nКажется, что становится совершенно нормальным поворачиваться каждые несколько месяцев, чтобы преследовать то, что является горячим в последнем списке RFS. Жесткая, негламурная работа по обучению в окопах и поиску ниши, реальных проблем полностью исчезает.\n\nЕсли вы ставите следующие несколько лет своей жизни на идею только потому, что она была на RFS, это очень глупо. Работайте над тем, что вы действительно понимаете глубоко и где у вас есть естественное, уникальное преимущество. Не работайте над чем-то только потому, что случайный венчурный капиталист сказал вам это сделать. Им нечего терять.",
       "comments_en": [],
-      "original_url": "https://www.reddit.com/r/startups/comments/1uuywvo/what_is_a_good_way_to_validate_your_startup_idea/",
+      "original_url": "https://www.reddit.com/r/startups/comments/1w27m6s/unpopular_opinion_the_rfs_from_yc_is_actually/",
       "is_read": false,
       "is_favorite": false,
-      "content_ru": "За свою карьеру я создал множество продуктов, но одна проблема, с которой я продолжаю бороться, — это правильная проверка моих идей, прежде чем тратить значительное время на их создание.\n\nЯ часто ловлю себя на том, что воодушевляюсь проблемой, сразу бросаюсь в проектирование и разработку решения и только позже понимаю, что еще не полностью проверил, достаточно ли болезненна проблема, действительно ли люди хотят решения или готовы ли они за него платить.\n\nЯ знаю, что быстрое создание важно, но я также хочу научиться лучше отличать хорошие идеи от идей, которые кажутся хорошими только в моей голове.\n\nКакие фреймворки, процессы или стратегии лучше всего вы используете для проверки идей стартапа перед написанием кода? Как определить, стоит ли реализовывать идею, прежде чем тратить недели или месяцы на создание продукта?",
-      "title_ru": "Каков хороший способ проверить свою идею стартапа? Я не буду продвигать"
+      "ai_summary_ru": "Вот краткое содержание:\n\nВенчурные списки RFS провоцируют фаундеров бросаться в «модные» ниши вместо того, чтобы решать реальные проблемы. Не стройте бизнес вокруг трендов — выбирайте области, в которых у вас есть глубокая экспертиза и личное преимущество.",
+      "tags": [
+        "startups"
+      ]
+    },
+    {
+      "id": "t3_1w2fx9i",
+      "title_en": "If your startup is still a side project does your employer know? (I will not promote)",
+      "title_ru": "Если ваш стартап все еще является побочным проектом, знает ли ваш работодатель? (Не буду продвигать)",
+      "score": 52,
+      "comments_count": 32,
+      "date": "2026-08-30",
+      "content_en": "Although many executives and CEOs have side hustles (non-execs, fractional roles) and openly broadcast it, moonlighting is still taboo amongst the employee class and is a fireable offense. Curious to know if your employer ever found out about your side project and were they cool with it?",
+      "content_ru": "Хотя многие руководители и генеральные директора имеют побочные суеты (не-исполнители, дробные роли) и открыто транслируют ее, лунный свет по-прежнему является табу среди класса сотрудников и является огненным преступлением. Любопытно узнать, узнавал ли когда-нибудь ваш работодатель о вашем сайд-проекте и был ли он в курсе?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/startups/comments/1w2fx9i/if_your_startup_is_still_a_side_project_does_your/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Вот краткое содержание:\n\nВ профессиональной среде существует двойной стандарт: подработка руководителей считается нормой, тогда как для рядовых сотрудников она остается под запретом. Сталкивались ли вы с тем, что работодатель узнавал о ваших сторонних проектах?",
+      "tags": [
+        "startups"
+      ]
+    },
+    {
+      "id": "t3_1w19cqo",
+      "title_en": "I got used as a “50% cofounder” in San Francisco, built the entire product, got paraded around like a trophy, and then watched the company “exit” without me. Only had an NDA and LOI. Never again. - I will not promote",
+      "title_ru": "Меня использовали в качестве соучредителя 50% в Сан-Франциско, построили весь продукт, развернули как трофей, а затем наблюдали, как компания «выходит» без меня. Есть только NDA и LOI. Больше никогда. - Я не буду продвигать",
+      "score": 50,
+      "comments_count": 64,
+      "date": "2026-08-29",
+      "content_en": "**This is 100% my responsibility. I accepted the risk, and I lost. Before anyone comes after me, I want to make it clear that this is 100% my accountability. I have no interest in fighting it or arguing about it. I just want to share my story.**  \n  \n March I decided to start an infrastructure company. My first client came through a mutual friend in San Francisco. She needed a product focused on customer success for the legal industry. I built the whole thing from scratch.After I delivered, she offered me a monthly stipend + 50% equity as cofounder.\n\nIn\n\nOn paper it sounded perfect. She’s actually a decent person  I don’t think she set out to screw me. She just had zero experience leading a company and no idea how to steer it in the direction we needed.\n\nWhat followed was classic.I was the technical cofounder on paper, but in reality I was treated like the full-time CTO + free labor. She kept pulling me into meetings that were pure CEO territory  fundraising conversations, strategy calls, investor intros  while she introduced me to everyone like I was some shiny technical toy she owned. “Look at my cofounder, he built this whole thing.” It felt performative as hell.Then, mid this week, a mysterious “exit” happened.I wasn’t involved in any of the conversations. No docs, no calls, no nothing. I’m just supposed to take it on faith that “they didn’t want to continue the company” and that “there was no transaction.” \n\nAll I ever signed was an NDA and an LOI for the assignment of my shares. That’s it. No real founder agreement, no vesting schedule with teeth, no proper equity docs.They got everything. I got the lesson.I’m not going to fight it. I can build again, and I walked away with a solid network.\n\nBut the experience is burned into my brain:Never start working not one line of code, not one meeting until every single thing is in writing and signed.Equity promises mean nothing without proper paperwork.\n\n“Cofounder” titles mean nothing without real alignment and protect",
+      "content_ru": "Это 100% моя ответственность. Я принял риск и проиграл. Прежде чем кто-то придет за мной, я хочу дать понять, что это 100% моя ответственность. Я не заинтересован в том, чтобы бороться или спорить об этом. Я просто хочу поделиться своей историей.\n\nВ марте я решил основать инфраструктурную компанию. Мой первый клиент пришел через общего друга в Сан-Франциско. Ей нужен был продукт, ориентированный на успех клиентов в юридической отрасли. Я построил все с нуля. После того, как я выступил, она предложила мне ежемесячную стипендию + 50% акций в качестве соучредителя.\n\nв\n\nНа бумаге это звучало идеально. На самом деле она порядочный человек, я не думаю, что она намеревалась меня трахнуть. У нее просто не было опыта руководства компанией, и она понятия не имела, как направить ее в нужном нам направлении.\n\nТо, что последовало, было классическим. Я был техническим соучредителем на бумаге, но на самом деле ко мне относились как к штатному технический директор + бесплатный труд. Она продолжала привлекать меня на встречи, которые были чистыми разговорами о сборе средств на территории генерального директора, стратегическими звонками, входами инвесторов, в то время как она представляла меня всем, как будто я была какой-то блестящей технической игрушкой, которой она владела. Посмотрите на моего соучредителя, он построил все это. Он чувствовал себя как ад. Затем, в середине этой недели, произошел загадочный «выход». Я не участвовал ни в одном из разговоров. Никаких документов, никаких звонков, ничего. Я просто должен поверить, что «они не хотели продолжать компанию» и что «не было никакой сделки».\n\nВсе, что я когда-либо подписывал, было NDA и LOI для передачи моих акций. Вот и все. Никакого реального соглашения с учредителем, никакого графика обладания зубами, никаких надлежащих документов о капитале. У них есть все. Я получил урок. Я не собираюсь бороться с этим. Я могу строить снова, и я ушел с солидной сетью.\n\nНо опыт сгорел в моем мозгу: Никогда не начинайте работать ни с одной строкой кода, ни с одной встречи до тех пор, пока каждая вещь не будет написана и подписана. Обещания справедливости ничего не значат без надлежащих документов.\n\nЗаголовки «Соучредитель» ничего не значат без реального согласования и защиты.\nА в Сан-Франциско люди будут улыбаться, называть вас партнером и все равно оставлять вас без присмотра, когда это удобно. Если вы находитесь на ранней стадии, и кто-то предлагает вам акции + титул до того, как закон будет заблокирован, уходите.\n\nИли хотя бы сначала потребовать документы.\n\nКто-нибудь еще проходил через такой мягкий выход, как этот, где вы просто... исчезли из истории?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/startups/comments/1w19cqo/i_got_used_as_a_50_cofounder_in_san_francisco/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор признает свою ошибку в отсутствии юридического оформления партнерства, из-за чего лишился доли в стартапе после фактического выполнения всей технической работы. Главный урок: никогда не начинать разработку и бизнес-активность до подписания всех документов, закрепляющих права на долю и капитал.",
+      "tags": [
+        "startups"
+      ]
+    },
+    {
+      "id": "t3_1w2x2nc",
+      "title_en": "I have $100k in Lambda.ai GPU credits. What would you build if GPU cost basically wasn't a constraint? (I will not promote)",
+      "title_ru": "У меня есть 100 тысяч долларов в GPU Lambda.ai. Что бы вы построили, если бы стоимость GPU не была ограничением? (Не буду продвигать)",
+      "score": 42,
+      "comments_count": 39,
+      "date": "2026-08-30",
+      "content_en": "I ended up with roughly $100k in Lambda.ai cloud credits and I'm trying to figure out the highest-leverage way to actually use them, or make money out of it.\n\nI'm interested in hearing people ideas and thoughts.\n\nIf you had access to \\~$100k of GPU compute, what would you do/build?\n\nOr, even better: what problem do you currently have where you'd happily pay for the output, but GPU cost makes it uneconomical today?",
+      "content_ru": "В итоге я получил около 100 тысяч долларов в облачных кредитах Lambda.ai, и я пытаюсь выяснить, как на самом деле использовать их или зарабатывать деньги.\n\nМне интересно слушать идеи и мысли людей.\n\nЕсли бы у вас был доступ к вычислениям в размере $ 100 000, что бы вы сделали / построили?\n\nИли, что еще лучше: какая проблема у вас в настоящее время, где вы бы с радостью заплатили за выход, но стоимость графического процессора делает его неэкономичным сегодня?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/startups/comments/1w2x2nc/i_have_100k_in_lambdaai_gpu_credits_what_would/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор ищет идеи по эффективному использованию облачных мощностей Lambda.ai стоимостью $100 000. Предлагайте свои проекты или вычислительные задачи, которые сейчас невыгодны из-за высокой стоимости GPU.",
+      "tags": [
+        "startups"
+      ]
+    },
+    {
+      "id": "t3_1w4b0g0",
+      "title_en": "Leave Pre IPO for Series A in AI? (I will not promote)",
+      "title_ru": "Оставить пред IPO для серии А в ИИ? (Не буду продвигать)",
+      "score": 42,
+      "comments_count": 54,
+      "date": "2026-09-01",
+      "content_en": "I work at a late-stage pre IPO company in the AI space (not one of the big guys, we operate more in neocloud space) and have a transactions role. I am highly cash compensated (in a good year can make bonus >$1m) but in exchange for that, have pretty much no equity (not an exaggeration). It’s a decently solid company but has tons of bloat and real issues - but good culture, good role, etc. I could be comfortable plugging along there for awhile so long as the company stays afloat (fairly questionable) and the AI space doesn’t absolutely implode.\n\nI was approached by a well-funded Series A company to do a similar role. They are meeting my base and offering me meaningful equity. In short, if this company follow trajectory of other AI company’s - and, again, market doesn’t absolutely collapse - it could be life changing for me. Obviously significant risk, but we are at a unique moment in time on this spinning rock!\n\nMy theory is: if I am doing a similar job anyways, and doing a good job of it - should I take the “surer thing” and be happy with my strong cash comp, but never have upside, or should I bet on myself and a company that is VERY early and take the gamble? Founding team is good, investor team is very strong. First hires are highly qualified individuals in the space.\n\nHow would you view this opportunity? What could you ask within reason to get more comfortable? Thoughts on entering this space now at an early stage?",
+      "content_ru": "Я работаю в компании на поздней стадии до IPO в области искусственного интеллекта (не один из больших парней, мы работаем больше в неооблачном пространстве) и играю роль в транзакциях. Я получаю высокую денежную компенсацию (в хороший год можно получить бонус > 1 млн долларов), но в обмен на это у меня практически нет собственного капитала (не преувеличение). Это прилично солидная компания, но у нее масса раздутых и реальных проблем, но хорошая культура, хорошая роль и т. Д. Я мог бы чувствовать себя комфортно, если бы компания оставалась на плаву (довольно сомнительно), и пространство ИИ не взорвалось бы полностью.\n\nК мне обратилась хорошо финансируемая компания серии А, чтобы сыграть аналогичную роль. Они встречают мою базу и предлагают мне значимую справедливость. Короче говоря, если эта компания будет следовать траектории развития других ИИ-компаний, и, опять же, рынок не обязательно рухнет, это может изменить мою жизнь. Очевидно, значительный риск, но мы находимся в уникальном моменте времени на этом прядильном камне!\n\nМоя теория такова: если я выполняю подобную работу в любом случае, и делаю хорошую работу - должен ли я взять «страховую вещь» и быть счастливым с моим сильным денежным компом, но никогда не иметь положительного эффекта, или я должен делать ставку на себя и компанию, которая ОЧЕНЬ рано и взять азартную игру? Команда основателей хорошая, команда инвесторов очень сильная. Первые наемные работники - высококвалифицированные люди в космосе.\n\nКак бы вы оценили эту возможность? Что вы можете попросить в разумных пределах, чтобы стать более комфортным? Мысли о вхождении в это пространство сейчас на ранней стадии?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/startups/comments/1w4b0g0/leave_pre_ipo_for_series_a_in_ai_i_will_not/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор разрывается между стабильно высокой зарплатой в текущей AI-компании перед IPO и предложением от стартапа серии А с высоким потенциалом роста за счет доли в капитале. Он ищет совета, стоит ли рисковать ради возможности «изменить жизнь» и какие условия стоит обсудить для минимизации рисков при переходе.",
+      "tags": [
+        "startups"
+      ]
     }
   ]
 }
