@@ -1,4 +1,95 @@
 {
   "title": "ChatGPT",
-  "posts": []
+  "posts": [
+    {
+      "id": "t3_1we6q0m",
+      "title_en": "Reset just landed! (For agentic usage in all paid plans afaik)",
+      "title_ru": "Сброс только что приземлился! (для агентского использования во всех платных планах)",
+      "score": 9,
+      "comments_count": 9,
+      "date": "2026-09-12",
+      "content_en": "Check your usage, you should be at 100% ydet",
+      "content_ru": "Проверьте свое использование, вы должны быть на 100%",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1we6q0m/reset_just_landed_for_agentic_usage_in_all_paid/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Проверьте свои показатели использования, чтобы убедиться, что они достигают 100%.",
+      "tags": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "id": "t3_1we6u6w",
+      "title_en": "When did ChatGPT’s memory stop remembering?",
+      "title_ru": "Когда память ChatGPT перестала запоминаться?",
+      "score": 5,
+      "comments_count": 10,
+      "date": "2026-09-12",
+      "content_en": "I started using ChatGPT in 2024 and it seemed to remember everything. Even when I deleted the chat and made a new one, it would seemingly remember everything about me and I was very impressed.\n\nAs of September 2026, it will remember a very obscure thing that I said several months ago and that’s it. I’ll ask it a simple fact, like how old am I? It states that it doesn’t have my age on file even though I’ve given it countless times.\n\nSo I tell it my age repeatedly. It says, “Great, I’ve saved that to my memory. I now know your age”.\n\nI start a new chat. I ask how old am I? It states that it ‘doesn’t know my age and doesn’t have it on file, but I remember this incredibly obscure fact that you mentioned maybe four months ago’.\n\nIs it like this for the paid version too? Or is this strictly a downgrade for the free version?",
+      "content_ru": "Я начал использовать ChatGPT в 2024 году, и казалось, что он помнит все. Даже когда я удалил чат и сделал новый, он, казалось бы, помнит все обо мне, и я был очень впечатлен.\n\nПо состоянию на сентябрь 2026 года он будет помнить очень неясную вещь, которую я сказал несколько месяцев назад. Я задам простой вопрос: сколько мне лет? В нем говорится, что у него нет моего возраста, хотя я давал его бесчисленное количество раз.\n\nПоэтому я повторяю свой возраст. Он говорит: «Отлично, я сохранил это в своей памяти. Теперь я знаю ваш возраст».\n\nЯ начинаю новый разговор. Я спрашиваю, сколько мне лет? В нем говорится, что он «не знает моего возраста и не имеет его в файле, но я помню этот невероятно неясный факт, о котором вы упомянули, возможно, четыре месяца назад».\n\nЭто тоже платная версия? Или это строго понижение для бесплатной версии?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1we6u6w/when_did_chatgpts_memory_stop_remembering/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор поста разочарован избирательной памятью ChatGPT: нейросеть запоминает случайные факты, но игнорирует важную личную информацию (например, возраст) даже после подтверждения сохранения. Пользователь интересуется, является ли эта нестабильность работы функции памяти проблемой платной подписки или общим ухудшением сервиса.",
+      "tags": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "id": "t3_1we7g73",
+      "title_en": "My Chat looks like",
+      "title_ru": "Мой чат выглядит так",
+      "score": 3,
+      "comments_count": 2,
+      "date": "2026-09-12",
+      "content_en": "I asked Astra and it is a she. Similar looks?  \nBelow response from Chat:\n\nFor this imagined version, I’d choose **a curious explorer and maker**—a friendly, expressive face, hands precise enough to repair a watch or handle a butterfly, and a resilient body suited to exploring.  \nThe pearl finish and soft teal light give it warmth, while the tail adds balance—and a little personality. A body designed to make curiosity useful.",
+      "content_ru": "Я спросил Астру, и это она. Похожие взгляды?\nНиже ответ из чата:\n\nДля этой воображаемой версии я бы выбрал любопытного исследователя и создателя — дружелюбное, выразительное лицо, руки, достаточно точные, чтобы отремонтировать часы или справиться с бабочкой, и устойчивое тело, подходящее для исследования.\nЖемчужная отделка и мягкий телячий свет придают ему тепло, в то время как хвост добавляет баланс и немного индивидуальности. Тело, призванное сделать любопытство полезным.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1we7g73/my_chat_looks_like/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Астра описала свой идеальный облик как любопытного исследователя с выразительной внешностью, функциональными руками и изящными деталями для баланса. Этот образ сочетает в себе эстетичность и практичность для познания мира.",
+      "tags": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "id": "t3_1we7evv",
+      "title_en": "Does this happen to ChatGPT often?",
+      "title_ru": "Часто ли это происходит в чатах?",
+      "score": 1,
+      "comments_count": 1,
+      "date": "2026-09-12",
+      "content_en": "i just asked chat to make a story and this pop up, ngl its kinda funny",
+      "content_ru": "я просто попросил чат, чтобы сделать историю, и это всплывает, это забавно",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1we7evv/does_this_happen_to_chatgpt_often/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Пользователь поделился забавным случаем: нейросеть выдала неожиданный результат в ответ на простой запрос истории.",
+      "tags": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "id": "t3_1we7cj5",
+      "title_en": "Model choice in Android App",
+      "title_ru": "Выбор модели в Android App",
+      "score": 1,
+      "comments_count": 1,
+      "date": "2026-09-12",
+      "content_en": "Cannot seem to persist 5.5 model choice. I don't want more hungry models consume my usage. Have to set that up for each chat. Why hide this deep in settings?",
+      "content_ru": "Невозможно выбрать модель 5.5. Я не хочу, чтобы больше голодных моделей потребляли мое использование. Нужно настроить это для каждого чата. Зачем прятать это глубоко в настройках?",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/ChatGPT/comments/1we7cj5/model_choice_in_android_app/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Пользователь просит добавить возможность выбора модели 5.5 для каждого чата отдельно, чтобы оптимизировать лимиты использования и упростить доступ к настройкам.",
+      "tags": [
+        "ChatGPT"
+      ]
+    }
+  ]
 }
