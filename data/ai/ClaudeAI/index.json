@@ -1,4 +1,59 @@
 {
   "title": "ClaudeAI",
-  "posts": []
+  "posts": [
+    {
+      "id": "t3_1w61niq",
+      "title_en": "The vibe coders!",
+      "title_ru": "Кодеры вибрации!",
+      "score": 10840,
+      "comments_count": 359,
+      "date": "2026-09-03",
+      "content_en": "Seriously! I wish if Claude also help people learn what they're building and how it shall work. 😊 😊 ",
+      "content_ru": "Серьезно! Я бы хотел, чтобы Клод помог людям узнать, что они строят и как это будет работать.        ",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/ClaudeAI/comments/1w61niq/the_vibe_coders/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор хочет, чтобы Claude помогал пользователям глубже понимать принципы работы и архитектуру создаваемых ими продуктов.",
+      "tags": [
+        "ClaudeAI"
+      ]
+    },
+    {
+      "id": "t3_1vtl9of",
+      "title_en": "This is letting Claude handle a good amount of money for a month...",
+      "title_ru": "Это позволяет Клоду управлять хорошей суммой денег в течение месяца.",
+      "score": 6476,
+      "comments_count": 777,
+      "date": "2026-08-20",
+      "content_en": "II let Claude trade on my agentic account.\n\nResult: **$31,000 lost.**\n\nI’m posting this because the AI/agentic trading community needs to see the failures, not just the wins. Autonomous agents making real financial decisions can go very wrong, very fast.\n\nI’ll be sharing more about what happened, the moves it made, and where things broke down.",
+      "content_ru": "Пусть Клод торгует на мой агентский счет.\n\nРезультат: ** 31 000 долларов США. **\n\nЯ публикую это, потому что ИИ/агентическое торговое сообщество должно видеть неудачи, а не только победы. Автономные агенты, принимающие реальные финансовые решения, могут ошибаться очень быстро.\n\nЯ расскажу больше о том, что произошло, какие шаги оно сделало и где все сломалось.",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Автор делится опытом неудачной торговли с помощью ИИ-агента, который привел к убытку в 31 000 долларов. В следующем посте он планирует разобрать причины сбоя в алгоритмах принятия решений.",
+      "tags": [
+        "ClaudeAI"
+      ]
+    },
+    {
+      "id": "t3_1vxqbzs",
+      "title_en": "I built a handwriting notebook app where Claude writes back and it's the most fun I've had learning in years",
+      "title_ru": "Я создал приложение для рукописных записных книжек, где Клод пишет обратно, и это самое интересное, что я узнал за последние годы",
+      "score": 4614,
+      "comments_count": 249,
+      "date": "2026-08-25",
+      "content_en": "I learn best by writing things out on paper and structuring my thoughts that way, and nothing really combined that slower, more exploratory kind of learning with Claude.\n\nSo for the past few weeks I've been building an app on my Daylight DC-1: a journaling / note-taking space where learning isn't relegated to something that happens between work sessions.\n\nThe process is : I create a note, start exploring a topic through writing, and Claude writes back on the page and explores the ideas with me.\n\nIt also supports pdf/ebooks so you can read, annotate or mark on the page and Claude jumps in and creates a note to what I have marked and we can discuss like I am talking to a professor. It can even quiz me on the material if I ask.\n\nIt's still early, but it's the first time learning with Claude has felt like it's actually compounding.\n\nI am finalizing some things to release soon for others to try it out, it's built around my dc-1 but it runs on any android tablet with a stylus, and can be ported to Ipad as well.\n\nIf you'd want to be an early user, lets get in touch, i'd love to see how people that learn this way use it .\n\n**UPDATE**: wow , thrilled to see this landed with so many of you!!!   \n  \nA lot of people are asking to try it. I'm calling it *penombra.*   \nEarly tester signup here:  [click here to be a part](https://docs.google.com/forms/d/e/1FAIpQLSfap2CRoiHLieDGQ-nhT45Jtm0yCjtXiPxM8lGzmjZcIbG_Ug/viewform) ",
+      "content_ru": "Я учусь лучше всего, записывая вещи на бумаге и структурируя свои мысли таким образом, и ничто на самом деле не сочетало этот более медленный, более исследовательский вид обучения с Клодом.\n\nПоэтому в течение последних нескольких недель я создавал приложение на своем Daylight DC-1: пространство для журналирования / заметок, где обучение не отнесено к чему-то, что происходит между рабочими сессиями.\n\nЯ создаю записку, начинаю изучать тему через написание, а Клод пишет на странице и исследует идеи вместе со мной.\n\nОн также поддерживает pdf / электронные книги, чтобы вы могли читать, аннотировать или отмечать на странице, и Клод вскакивает и создает записку к тому, что я отметил, и мы можем обсуждать, как я разговариваю с профессором. Он может даже проверить меня на материале, если я попрошу.\n\nЕще рано, но это первый раз, когда обучение с Клодом кажется сложным.\n\nЯ завершаю некоторые вещи, чтобы вскоре выпустить их для других, чтобы опробовать их, он построен вокруг моего dc-1, но он работает на любом Android-планшете со стилусом и может быть портирован на Ipad.\n\nЕсли вы хотите быть ранним пользователем, давайте свяжемся, я хотел бы увидеть, как люди, которые учатся таким образом, используют его.\n\nОБНОВЛЕНИЕ: Вау, рад видеть, что это приземлилось с таким количеством вас!!!\n\nМногие люди просят попробовать. Я называю это \"пеномбра\".\nРанняя регистрация тестера здесь: [click here to be part] (https://docs.google.com/forms/d/e/1FAIpQLSfap2CRoiHLieDGQ-nhT45Jtm0yCjtXiPxM8lGzmjZcIbG Ug/viewform)",
+      "comments_en": [],
+      "original_url": "https://www.reddit.com/r/ClaudeAI/comments/1vxqbzs/i_built_a_handwriting_notebook_app_where_claude/",
+      "is_read": false,
+      "is_favorite": false,
+      "ai_summary_ru": "Вот краткое содержание:\n\nАвтор разработал приложение «Penumbra» для Android-планшетов, которое объединяет рукописные заметки с ИИ-ассистентом Claude для глубокого обучения. Инструмент позволяет конспектировать, аннотировать документы и вести исследовательский диалог с ИИ, а сейчас открыт набор на раннее тестирование.",
+      "tags": [
+        "ClaudeAI"
+      ]
+    }
+  ]
 }
